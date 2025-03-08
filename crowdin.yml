@@ -1,0 +1,3 @@
+files:
+  - source: Town1.msbt
+    translation: '%original_path%'
