@@ -1,0 +1,514 @@
+﻿"Label","String","Translation"
+"B4_Informant_MUC01_3","Got a lotta good cards here...
+I call it the Complete Set.
+1000 for the lot, cool?  *  Ĭ Cafe_BuySelect01","Got a lotta good cards here...
+I call it the Complete Set.
+1000 for the lot, cool?  *  Ĭ Cafe_BuySelect01"
+"B4_Informant_MUC01_4","Got some good stuff here.
+Which one ya want?   Ĭ
+YESNO","Got some good stuff here.
+Which one ya want?   Ĭ
+YESNO"
+"B4_QuizMemory_MUC01","Card Recall!","Card Recall!"
+"B4_Informant_MUC01_5","Got some real good stuff here.
+I'll give you a deal.
+How 'bout 500 coins? *  Ĭ Cafe_BuySelect01","Got some real good stuff here.
+I'll give you a deal.
+How 'bout 500 coins? *  Ĭ Cafe_BuySelect01"
+"B4_QuizMemory_MUC02","Now, tell us which card
+disappeared!","Now, tell us which card
+disappeared!"
+"B4_QuizMemory_MUC03","First, we'll show you four cards.
+Remember all of them!","First, we'll show you four cards.
+Remember all of them!"
+"B4_Informant_MUC21","Hey, pal! If you leave here, the
+Snifit or Whiffit answers will change,
+making those cards I sold you pretty
+useless.","Hey, pal! If you leave here, the
+Snifit or Whiffit answers will change,
+making those cards I sold you pretty
+useless."
+"B4_Informant_GetCard","You got a whole mess of cards.","You got a whole mess of cards."
+"B4_Informant_MUC23","Psst. I got a set with ALL the cards
+you need for the bonus stage.  And that's not even the best part.
+Buy my cards, and you get to START
+right at the bonus stage. It's a
+bargain at just 2000 coins... *  Ĭ Cafe_BuySelect01","Psst. I got a set with ALL the cards
+you need for the bonus stage.  And that's not even the best part.
+Buy my cards, and you get to START
+right at the bonus stage. It's a
+bargain at just 2000 coins... *  Ĭ Cafe_BuySelect01"
+"B4_QuizMiss_MUC01","What a champ!
+Our next round is...","What a champ!
+Our next round is..."
+"B4_Informant_MUC24","Just choose these cards in order
+from right to left, and you'll definitely
+get everything...right.
+It'll cost ya 2000 coins. *  Ĭ Cafe_BuySelect01","Just choose these cards in order
+from right to left, and you'll definitely
+get everything...right.
+It'll cost ya 2000 coins. *  Ĭ Cafe_BuySelect01"
+"B4_QuizMiss_MUC02","You got it, big man!
+Good luck!","You got it, big man!
+Good luck!"
+"B4_Informant_MUC25","Yo! Stache face!
+You just gonna waltz right in there?  Whatever. Your funeral.","Yo! Stache face!
+You just gonna waltz right in there?  Whatever. Your funeral."
+"B4_QuizMiss_MUC03","Ooooh...
+You whiffed it.
+Well, good-bye, Mario!","Ooooh...
+You whiffed it.
+Well, good-bye, Mario!"
+"B4_Bunny_MUC03_1","Congrats on winning the legendary
+prize!","Congrats on winning the legendary
+prize!"
+"B4_Informant_MUC26","Whatever, pal.
+You'll be back.","Whatever, pal.
+You'll be back."
+"B4_QuizMiss_MUC04","You see, Mario, you're not just
+playing for the enjoyment of our
+studio audience and millions around
+the world...  You're playing for your life.  Looming above you is a bona fide,
+spike-covered Urchin.   Every time you lose a round, the
+Urchin's razor-sharp spikes inch a
+bit closer to that bubble you're in.  Sorry about that...
+It really helps our ratings!","You see, Mario, you're not just
+playing for the enjoyment of our
+studio audience and millions around
+the world...  You're playing for your life.  Looming above you is a bona fide,
+spike-covered Urchin.   Every time you lose a round, the
+Urchin's razor-sharp spikes inch a
+bit closer to that bubble you're in.  Sorry about that...
+It really helps our ratings!"
+"B4_Bunny_MUC03_2","Use it wisely.","Use it wisely."
+"B4_Informant_MUC27","Doin' a special today, so it'll
+be half price. 500 smackers. *  Ĭ Cafe_BuySelect01","Doin' a special today, so it'll
+be half price. 500 smackers. *  Ĭ Cafe_BuySelect01"
+"B4_QuizMiss_MUC05","Oooh. That's a shame.","Oooh. That's a shame."
+"B4_Bunny_MUC03_3","The legendary prize is all yours!
+Congratulations!","The legendary prize is all yours!
+Congratulations!"
+"B4_Informant_MUC28","Complete Set  500 coins
+Bonus Set  2000 coins
+Never mind","Complete Set  500 coins
+Bonus Set  2000 coins
+Never mind"
+"B4_QuizMiss_MUC06","You still want to continue,
+don't you?   Ĭ
+yesno","You still want to continue,
+don't you?   Ĭ
+yesno"
+"B4_Bunny_MUC03_4","We're out of the legendary prize
+at the moment.  But we do have a little memento
+you can take with you!","We're out of the legendary prize
+at the moment.  But we do have a little memento
+you can take with you!"
+"B4_Informant_MUC29","Complete Set  1000 coins
+Bonus Set  2000 coins
+Never mind","Complete Set  1000 coins
+Bonus Set  2000 coins
+Never mind"
+"B4_QuizMiss_MUC07","If you forfeit the game, you're
+signing your own game-over warrant.  You sure about that, slugger?   Ĭ
+yesno","If you forfeit the game, you're
+signing your own game-over warrant.  You sure about that, slugger?   Ĭ
+yesno"
+"B4_QuizMiss_MUC08","Welp... Good-bye!","Welp... Good-bye!"
+"B4_QuizMiss_MUC09","Oooh, Mario. Unfortunately you've
+now failed three rounds.  If you get the next one wrong, 
+our Urchin friend here might get a
+little too close for comfort, and it'll
+be game over.  Do you want to keep going?   Ĭ
+yesno","Oooh, Mario. Unfortunately you've
+now failed three rounds.  If you get the next one wrong, 
+our Urchin friend here might get a
+little too close for comfort, and it'll
+be game over.  Do you want to keep going?   Ĭ
+yesno"
+"B4_QuizAnswer_MUC01","Now, please answer using the
+cards you have in your hand! ","Now, please answer using the
+cards you have in your hand! "
+"B4_QuizAnswer_MUC02","Let's see how you did.","Let's see how you did."
+"B4_Intro_Painky01","Whoa...  It's so quiet. Are we...underwater?
+But we can still breathe!","Whoa...  It's so quiet. Are we...underwater?
+But we can still breathe!"
+"B4_FindStar_Painky01","Awesome! There's our Paint Star!","Awesome! There's our Paint Star!"
+"B4_Intro_MUC01","   d Let's get ready to play... d","   d Let's get ready to play... d"
+"B4_Intro_MUC02","
+ Snifit ɘor...","
+ Snifit ɘor..."
+"B4_SQuizNo_MUC01","
+ Bonus Round - Part  %d! ","
+ Bonus Round - Part  %d! "
+"B4_QuizTangle2_MUC01","Kelp Cards 2!","Kelp Cards 2!"
+"B4_Intro_MUC03"," Whiffit!!  d"," Whiffit!!  d"
+"B4_QuizRectangle_MUC01","Entwined Cards!","Entwined Cards!"
+"B4_QuizTangle2_MUC02","We're going to show you three cards.
+Try to identify all three!
+Good luck!","We're going to show you three cards.
+Try to identify all three!
+Good luck!"
+"B4_Intro_MUC04","That's right, folks!
+It's that time once again!","That's right, folks!
+It's that time once again!"
+"B4_QuizRectangle_MUC02","We're going to show you two cards.
+Identify both of them!","We're going to show you two cards.
+Identify both of them!"
+"B4_Intro_MUC05","I'm your host, Snifit.","I'm your host, Snifit."
+"B4_QuizSpin_MUC01","Spinning Card!","Spinning Card!"
+"B4_Intro_MUC06","And our contestant today is...
+Why, if it isn't our old friend Mario!","And our contestant today is...
+Why, if it isn't our old friend Mario!"
+"B4_QuizSpin_MUC02","Identify the card that you see!","Identify the card that you see!"
+"B4_Intro_MUC07","There are seven rounds.
+Win at least four of the rounds,
+and you'll win the grand prize:
+a Mini Paint Star!  Win all seven rounds, and you'll be
+invited to participate in a 
+special bonus round!  Use the cards you have on hand to
+answer the questions. And don't
+forget to paint them!  If you're not confident in your 
+answer, you can always pass, but
+that'll count as an incorrect answer.","There are seven rounds.
+Win at least four of the rounds,
+and you'll win the grand prize:
+a Mini Paint Star!  Win all seven rounds, and you'll be
+invited to participate in a 
+special bonus round!  Use the cards you have on hand to
+answer the questions. And don't
+forget to paint them!  If you're not confident in your 
+answer, you can always pass, but
+that'll count as an incorrect answer."
+"B4_Intro_MUC08","So are you ready to play?   Ĭ
+yesno","So are you ready to play?   Ĭ
+yesno"
+"B4_QuizRight_MUC10","Incredible! You've won all six rounds
+so far!  Here we go. Our seventh round.  Get this one right, and you'll earn
+the right to try the bonus round!
+Good luck!","Incredible! You've won all six rounds
+so far!  Here we go. Our seventh round.  Get this one right, and you'll earn
+the right to try the bonus round!
+Good luck!"
+"B4_Intro_MUC09","Oh...OK. Well, that's disappointing.
+This audience has been waiting in
+the dark for hours, but whatever.  You can go home now, I guess.","Oh...OK. Well, that's disappointing.
+This audience has been waiting in
+the dark for hours, but whatever.  You can go home now, I guess."
+"B4_QuizFlutter2_MUC01","Falling Cards 2!","Falling Cards 2!"
+"B4_QuizFlutter2_MUC02","We're going to show you three cards.
+Try to identify all three!
+Good luck!","We're going to show you three cards.
+Try to identify all three!
+Good luck!"
+"B4_OpenFloor01","COME BACK LATER!","COME BACK LATER!"
+"B4_QuizPass_MUC01","Mario, you passed on that round,
+which will count as a wrong answer.","Mario, you passed on that round,
+which will count as a wrong answer."
+"B4_Informant_MUC10","Thanks. I'll let my guys on the inside
+know, so just play it cool.","Thanks. I'll let my guys on the inside
+know, so just play it cool."
+"B4_QuizPass_MUC02","Mario, you passed on that round,
+which will count as a wrong answer.  Sorry to burst your bubble, but
+that's four failures, meaning you
+are NOT our newest Snifit or Whiffit
+champion.  Take it away, Urchy!","Mario, you passed on that round,
+which will count as a wrong answer.  Sorry to burst your bubble, but
+that's four failures, meaning you
+are NOT our newest Snifit or Whiffit
+champion.  Take it away, Urchy!"
+"B4_Informant_MUC11","Hey, pal.","Hey, pal."
+"B4_SQuizMiss_MUC01","OUCH. You whiffed it!  Unfortunately, the bonus round is
+one and done. Sorry to burst your
+bubble!","OUCH. You whiffed it!  Unfortunately, the bonus round is
+one and done. Sorry to burst your
+bubble!"
+"B4_SQuizMiss_MUC02","Mario, you passed on that question,
+which will count as a wrong answer.  Unfortunately, the bonus round is
+one and done, son!
+In other words—buh-bye!","Mario, you passed on that question,
+which will count as a wrong answer.  Unfortunately, the bonus round is
+one and done, son!
+In other words—buh-bye!"
+"B4_Informant_MUC14","Complete Set  500 coins
+Perfect Set  2000 coins
+Never mind","Complete Set  500 coins
+Perfect Set  2000 coins
+Never mind"
+"B4_QuizMemory2_MUC01","Card Recall 2!","Card Recall 2!"
+"B4_QuizMemory2_MUC02","First, we'll show you three cards.
+Try to remember EVERYTHING about
+the following scene.","First, we'll show you three cards.
+Try to remember EVERYTHING about
+the following scene."
+"B4_Informant_MUC19","So, you didn't whiff it.
+Well played, pal.","So, you didn't whiff it.
+Well played, pal."
+"B4_Bunny_MUC04_1","Squeeze it as hard as you like.","Squeeze it as hard as you like."
+"B4_Bunny_MUC04_2","Come see us again, cutie!","Come see us again, cutie!"
+"B4_Bunny_MUC04_3","Your standard prize is right through
+that red pipe there.","Your standard prize is right through
+that red pipe there."
+"B4_Bunny_MUC04_4","These are trading cards made
+from the photos of the two of us.  Which one do you think is better?","These are trading cards made
+from the photos of the two of us.  Which one do you think is better?"
+"B4_Informant_MUC30","Card set that contains all of the
+correct Snifit or Whiffit answers.
+1000 coins.  *  Ĭ Cafe_BuySelect01","Card set that contains all of the
+correct Snifit or Whiffit answers.
+1000 coins.  *  Ĭ Cafe_BuySelect01"
+"B4_Informant_MUC31","Complete Set  1000 coins
+Perfect Set  2000 coins
+Never mind","Complete Set  1000 coins
+Perfect Set  2000 coins
+Never mind"
+"B4_QuizJust_MUC01","Paint That Card!","Paint That Card!"
+"B4_QuizRoulette_MUC01","Card Roulette!","Card Roulette!"
+"B4_QuizFlutter_MUC01","Falling Cards!","Falling Cards!"
+"B4_Informant_MUC32","Also, the correct answers will change
+if you leave the course, making those
+cards I sold you pretty useless.","Also, the correct answers will change
+if you leave the course, making those
+cards I sold you pretty useless."
+"B4_QuizJust_MUC02","We're going to paint a card right in
+front of you.  You'll need to choose the same card
+from your hand and then paint it
+the same amount we painted ours!","We're going to paint a card right in
+front of you.  You'll need to choose the same card
+from your hand and then paint it
+the same amount we painted ours!"
+"B4_QuizRoulette_MUC02","We're going to show you three cards.
+Identify all three of them!","We're going to show you three cards.
+Identify all three of them!"
+"B4_QuizFlutter_MUC02","We're going to show you three cards.
+Identify all three!","We're going to show you three cards.
+Identify all three!"
+"B4_QuizMiss_MUC10","Oooh, Mario. Unfortunately you've
+now failed three rounds.  Perhaps you should've prepared a
+little better. If only there was
+someone willing to sell you all the
+cards you needed before playing!  If you get the next one wrong, 
+our Urchin friend here may get a
+bit too close for comfort, and it'll
+be lights out.  Do you want to keep going?   Ĭ
+yesno","Oooh, Mario. Unfortunately you've
+now failed three rounds.  Perhaps you should've prepared a
+little better. If only there was
+someone willing to sell you all the
+cards you needed before playing!  If you get the next one wrong, 
+our Urchin friend here may get a
+bit too close for comfort, and it'll
+be lights out.  Do you want to keep going?   Ĭ
+yesno"
+"B4_Informant_MUC33","Hey, pal! If you leave, those cards I
+sold you will be pretty worthless.
+Just sayin'.","Hey, pal! If you leave, those cards I
+sold you will be pretty worthless.
+Just sayin'."
+"B4_OnPipe_Painky01","A TRAPDOOR?!
+Where the heck are we?  The floor's covered in water.
+And it looks like this pipe does down
+even deeper...  Well, you've seen a pipe or two in
+your day, Mario. What do you think?
+We don't have a lot of options here.","A TRAPDOOR?!
+Where the heck are we?  The floor's covered in water.
+And it looks like this pipe does down
+even deeper...  Well, you've seen a pipe or two in
+your day, Mario. What do you think?
+We don't have a lot of options here."
+"B4_QuizTangle_MUC01","Kelp Cards!","Kelp Cards!"
+"B4_QuizTangle_MUC02","We're going to show you three cards.
+You must identify all three!","We're going to show you three cards.
+You must identify all three!"
+"B4_QuizRight_MUC01","So far, so good!","So far, so good!"
+"B4_QuizRight_MUC02","Congratulations.
+That's three correct now!
+Just one more to clear!","Congratulations.
+That's three correct now!
+Just one more to clear!"
+"B4_QuizRight_MUC03","Congratulations! That's four right
+answers in a row with no misses!  You've already secured your prize,
+but keep going and try to get every
+question right for a shot at that
+legendary prize!","Congratulations! That's four right
+answers in a row with no misses!  You've already secured your prize,
+but keep going and try to get every
+question right for a shot at that
+legendary prize!"
+"B4_QuizRight_MUC05","Well, that's a crying shame.
+Next time try to make it to the
+bonus round for a chance at the
+legendary prize!  I guess becoming our newest
+champion—and, you know, not 
+dying—will have to suffice for now.","Well, that's a crying shame.
+Next time try to make it to the
+bonus round for a chance at the
+legendary prize!  I guess becoming our newest
+champion—and, you know, not 
+dying—will have to suffice for now."
+"B4_QuizRight_MUC06","Congratulations! You've won four
+rounds and have secured your prize!  Now, you didn't complete a perfect
+game today, but there's always next
+time.  Come back on the show, complete a
+perfect game, and secure your
+place in Snifit or Whiffit history.
+You'll win a sweet prize, too!","Congratulations! You've won four
+rounds and have secured your prize!  Now, you didn't complete a perfect
+game today, but there's always next
+time.  Come back on the show, complete a
+perfect game, and secure your
+place in Snifit or Whiffit history.
+You'll win a sweet prize, too!"
+"B4_QuizRight_MUC07","Congratulations!
+You bested all seven rounds!  Well, Mr. Perfect. You've earned the
+right to challenge the bonus round.  Get all three questions correct, and
+you'll receive an extravagant
+legendary prize you can't find
+anywhere else!  But get even one wrong, and it's an
+instant game over and your save
+file will be erased forever!  Just kidding!̠ But seriously, if you get
+one wrong, it'll be game over and you
+won't get credit for clearing the
+other rounds. You in?   Ĭ
+yesno","Congratulations!
+You bested all seven rounds!  Well, Mr. Perfect. You've earned the
+right to challenge the bonus round.  Get all three questions correct, and
+you'll receive an extravagant
+legendary prize you can't find
+anywhere else!  But get even one wrong, and it's an
+instant game over and your save
+file will be erased forever!  Just kidding!̠ But seriously, if you get
+one wrong, it'll be game over and you
+won't get credit for clearing the
+other rounds. You in?   Ĭ
+yesno"
+"B4_QuizRight_MUC08","Of course you are!
+Here we go!","Of course you are!
+Here we go!"
+"B4_Intro_MUC10","Hm... Looks like you don't have
+enough cards. You need at least
+21 cards for this quiz.  Maybe you should've listened to that
+Blue Snifit at the entrance...","Hm... Looks like you don't have
+enough cards. You need at least
+21 cards for this quiz.  Maybe you should've listened to that
+Blue Snifit at the entrance..."
+"B4_QuizRight_MUC09","What a shame! You didn't manage to
+win every round, but you got at least
+four right, making you our newest
+Snifit or Whiffit champion!  Next time, try for a perfect game
+and a shot at our bonus round!  Win the bonus round, and you'll
+secure your place in Snifit or Whiffit
+history! Not to mention the
+legendary prize you'll receive!","What a shame! You didn't manage to
+win every round, but you got at least
+four right, making you our newest
+Snifit or Whiffit champion!  Next time, try for a perfect game
+and a shot at our bonus round!  Win the bonus round, and you'll
+secure your place in Snifit or Whiffit
+history! Not to mention the
+legendary prize you'll receive!"
+"B4_Informant_Select02","OK, I'll buy.
+No, thanks.","OK, I'll buy.
+No, thanks."
+"B4_Intro_MUC11","All righty. Please make your way
+to the contestant area!","All righty. Please make your way
+to the contestant area!"
+"B4_PaintRestoration_MUC01","You're running low on paint.
+Want to buy some for 100 coins?   Ĭ
+yesno","You're running low on paint.
+Want to buy some for 100 coins?   Ĭ
+yesno"
+"B4_SQuizRight_MUC01","Great work.
+Let's keep it going!","Great work.
+Let's keep it going!"
+"B4_Informant_MUC01","Got some good stuff here...
+How's 1000 coins sound? *  Ĭ Cafe_BuySelect01","Got some good stuff here...
+How's 1000 coins sound? *  Ĭ Cafe_BuySelect01"
+"B4_Intro_MUC12","And it appears that Mario here has
+purchased the Bonus Set from one of
+our...̠sponsors.  That means we're headed straight
+to the bonus round!  Answer all three questions correctly,
+and you'll walk out of here with a
+legendary prize! But one wrong
+answer and it's game over!","And it appears that Mario here has
+purchased the Bonus Set from one of
+our...̠sponsors.  That means we're headed straight
+to the bonus round!  Answer all three questions correctly,
+and you'll walk out of here with a
+legendary prize! But one wrong
+answer and it's game over!"
+"B4_PaintRestoration_MUC02","Fill 'er up!","Fill 'er up!"
+"B4_SQuizRight_MUC02","Incredible! You cleared the
+bonus round!  Congratulations, Mario!
+You are our newest Snifit or Whiffit
+champion! Now go and claim your
+legendary prize!","Incredible! You cleared the
+bonus round!  Congratulations, Mario!
+You are our newest Snifit or Whiffit
+champion! Now go and claim your
+legendary prize!"
+"B4_Informant_MUC02","Thanks. 
+And you didn't get 'em from me.","Thanks. 
+And you didn't get 'em from me."
+"B4_Intro_MUC13","He's back for more!
+Today's contestant is our old
+friend...Mario!","He's back for more!
+Today's contestant is our old
+friend...Mario!"
+"B4_PaintRestoration_MUC03","Is that so?
+What a shame.","Is that so?
+What a shame."
+"B4_SQuizRight_MUC03","This is it, folks!
+The final question of the
+bonus round!","This is it, folks!
+The final question of the
+bonus round!"
+"B4_Informant_MUC03","Huh? Listen, pal, you got too
+many cards right now to carry 
+any more.  This is a cool pack of 30 cards,
+so make some room if you want 'em.","Huh? Listen, pal, you got too
+many cards right now to carry 
+any more.  This is a cool pack of 30 cards,
+so make some room if you want 'em."
+"B4_Intro_MUC14","Now, would you like to hear the
+rules?   Ĭ
+yesno","Now, would you like to hear the
+rules?   Ĭ
+yesno"
+"B4_PaintRestoration_MUC04","Hmm... You don't have enough coins!
+What a terrible shame!","Hmm... You don't have enough coins!
+What a terrible shame!"
+"B4_SQuizRight_MUC04","Until we meet again, Mario.
+And for all you watching at home,
+we'll see you next time on...","Until we meet again, Mario.
+And for all you watching at home,
+we'll see you next time on..."
+"B4_Informant_MUC04","You can't cheat a cheater, pal.
+Come back when you got the cash.","You can't cheat a cheater, pal.
+Come back when you got the cash."
+"B4_Informant_MUC05","Really?
+You're gonna regret it if you
+don't get this stuff. 4  Ĭ*B4_Informant_Select02","Really?
+You're gonna regret it if you
+don't get this stuff. 4  Ĭ*B4_Informant_Select02"
+"B4_Intro_MUC16","Now let's get started!","Now let's get started!"
+"B4_Informant_MUC06","I'm all out for today.
+Come back some other time.","I'm all out for today.
+Come back some other time."
+"B4_QuizMemory2_MUC02_1","OK, which card was the
+Blooper holding?","OK, which card was the
+Blooper holding?"
+"B4_Informant_MUC07","You buyin'?","You buyin'?"
+"B4_QuizMemory2_MUC02_2","OK, which card was the
+Cheep Cheep holding?","OK, which card was the
+Cheep Cheep holding?"
+"B4_QuizMemory2_MUC02_3","OK, which card was the
+Snifit holding?","OK, which card was the
+Snifit holding?"
+"B4_Informant_MUC01_2","Got some real good stuff here.
+I call it the Complete Set.
+500 for the lot, cool? *  Ĭ Cafe_BuySelect01","Got some real good stuff here.
+I call it the Complete Set.
+500 for the lot, cool? *  Ĭ Cafe_BuySelect01"
+"B4_QuizNo_MUC01","
+ Round  %d! ","
+ Round  %d! "
