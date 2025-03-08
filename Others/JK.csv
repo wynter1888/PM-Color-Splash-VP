@@ -1,0 +1,658 @@
+﻿Label,String,Translation
+JK_Trend_JK_01,"I don't know what card the first-
+round opponent will use this time.
+Wish I could help!", 
+JK_Trend_JK_02,"I don't know what card the second-
+round opponent will use this time.
+Sorry!", 
+JK_Intro3_04,"And in this corner...  With 10 hollow eyes, 
+20 wriggling limbs, and the 
+self-esteem of half a Goomba.
+ It's a Shhhhhhhhhhhhh...", 
+JK_Intro3_05,"Round one!
+Mario vs. Shy Guy 5-Stack!
+Challengers, set...your...cards!", 
+JK_Intro3_06,"Your second-round opponent
+approaches...  As if he couldn't get any more
+miserable. He's the damp duelist.
+The clammy combatant!
+ Sssssssssssssssssssssssssss...", 
+JK_Intro3_07,"Round two!
+Mario vs. Soggy Guy!
+Challengers, draw your cards!", 
+JK_Result_01,"You are our tournament champion!
+You'll be going home with a fat bag
+of coins and a brandĬ newĬ car...΄d!", 
+JK2_CafeAfter,"Where the heck did the
+Rock Paper Wizard come from?", 
+JK_Intro3_08,"Mario, only one opponent stands in
+between you and eternal glory...  He's the freaky, cave-dwelling loner
+with terrible posture!
+He can't be hammered or stomped!
+ He's Shhhhhhhhhhhhh...", 
+JK_Result_02,"That's a wrap, folks!
+You don't have to go home,
+but you can't stay here.", 
+JK_Draw_31,"Four ties in a row! F-O-U-R!
+Is this really happening?!  Let's try this again!", 
+JK_Intro1_04_name,"  Goomba!", 
+JK_Intro3_09,"Final round!
+Mario vs. Shunned Guy!
+Challengers, set...your...cards.", 
+JK_Result_03,"Here's your prize for making
+it through the first round.", 
+JK_Draw_32,"Tie! Tie! Tie! Tie!
+This is the FOURTH tie in a row!
+Incredible!  Let's try this again!", 
+JK6_SignBoard,"A champion was born here, at
+Roshambo Temple #6, when the
+great Mario defeated the Rock Paper
+Wizard in a battle for the ages.", 
+JK_Result_04,"Here's your prize for making
+it through the second round.", 
+JK_Draw_33,"Four ties! You must really be in each
+other's heads!  Let's try this again!", 
+JK_Trend_JK8_01,"I have absolutely no idea what card
+the first-round opponent will use this
+time. Wish I could help!", 
+JK_Trend_JK8_02,"I have absolutely no idea what card
+the second-round opponent will use
+this time. Sorry!", 
+JK_Intro3_06_name,"  Soggy Guy!", 
+JK3_Prize,"Temple #3 Prizes   ÍFirst round                  500 coins
+Second round              700 coins
+Third round    1000 coins + card ", 
+JK_Intro5_08_name,"  Ninji!", 
+JK_Trend_JK3_01,"The first-round opponents like the
+papery sound they make when they
+all rustle together. They don't like
+hard things.", 
+JK_Trend_JK3_02,"The second-round opponent's hands
+are all soggy and flat.", 
+JK7_Prize,"Temple #7 Prizes   ÍFirst round                  800 coins
+Second round              900 coins
+Third round    1000 coins + card ", 
+JK5_CafeSpace_KNP02,"If you use up the special prize card,
+you can get another one if you win
+again, or so I hear.", 
+JK_URA_KNP_01,"Hey, if you REALLY wanna get into
+the tournament, come see me and
+we'll work something out.", 
+JK1_CafeSpace_KNP01,"If you win the tournament, I hear
+they shower you with cards and
+coins!", 
+JK5_CafeSpace_KNP03,"Rock, Paper, Scissors.
+So simple, yet so deep.", 
+JK1_SignBoard,"A champion was born here, at
+Roshambo Temple #1, when the
+great Mario defeated the Rock Paper
+Wizard in a battle for the ages.", 
+JK_URA_KNP_02,"Look, I can sneak you into the
+tournament, but it'll cost you
+ %d coins.   Ĭ
+yesno", 
+JK1_CafeSpace_KNP02,"The Toads near the staircase
+have the inside scoop on all the
+rising Roshambo stars.  They might be able to give you a
+few pointers.", 
+JK_Intro8_04_name,"  Silver Shy Guy!", 
+JK_URA_KNP_03,"Look, I can sneak you into the
+tournament, but it'll cost you
+ %d coins.  But you've got too many cards in
+your deck. You won't be able to win
+anything, so what's the point?!", 
+JK_Majin_Set,"Round three!
+Mario vs. Rock Paper Wizard!
+Challengers, set...your...cards!", 
+JK_URA_KNP_04,"OK. In here...", 
+JK_Intro7_08_name,"  Small Hammer Bros.!", 
+JK2_Majin_01,"We're in for a treat today, friends.
+The Roshambo sorcerer himself is
+about to take the stage!", 
+JK_URA_KNP_05,"You're short on coins!
+No coins, no deal.", 
+JK_MobWin00_01,"A for effort!", 
+JK_Intro5_01,"In Roshambo, victory and defeat are
+two sides of the same coin. For one
+side to win, the other must lose.  The warrior must first defeat himself
+in order to claim victory.  This...is the art of Ro-sham-bo.", 
+JK3_CafeAfter,"Where the heck did the 
+Rock Paper Wizard go?!", 
+JK1_Prize,"Temple #1 Prizes    ÍFirst round                  300 coins
+Second round              500 coins
+Third round    1000 coins + card ", 
+JK_URA_KNP_06,"Let me know if you
+change your mind.", 
+JK1_CafeSpace_KNP06,"Have you heard about the
+Rock Paper Wizard? He's the best
+Roshambo player in the world.", 
+JK_MobWin00_02,"What a sham!
+A RO sham, bo-yeeeee!", 
+JK3_Majin_01,"Chance victories end here!
+The king of Roshambo's true power
+will be unleashed upon the world!", 
+JK_MobWin00_03,"Oh, geez.
+Rookie mistake.", 
+JK7_SignBoard,"A champion was born here, at
+Roshambo Temple #7, when the
+great Mario defeated the Rock Paper
+Wizard in a battle for the ages.", 
+JK_Intro5_04,"And in this corner...  No one's really sure what the heck
+this thing is!
+ It's Fffffffffffffffffffffffffffffffffff...", 
+JK_Intro5_05,"Round one!
+Mario vs. Fuzzy!
+Challengers, draw your cards!", 
+JK7_CafeAfter,"That Rock Paper Wizard was one
+cool customer.", 
+JK_Intro2_04_name,"  Spiny!", 
+JK_Intro5_06,"Let's see who you'll face in
+round two!  With a bite worse than its bark,
+it's the old ball and chain...
+ It's Cha-cha-cha...", 
+JK_Intro5_07,"Round two.
+Mario vs. Chain Chomp!
+Challengers, draw your cards.", 
+JK_Majin_20,"  I CAN'T BELIEVE IT!
+Mario has defeated the Rock Paper
+Wizard!", 
+JK_Intro5_08,"Your third-round opponent is...  A warrior darker than night itself.
+He cuts through the shadows
+with grace and ferocity.
+ It's Nnnnnnnnnnnnnnnnnnn...", 
+JK7_Majin_01,"The once-unstoppable king of
+Roshambo has arrived to defend his
+throne!", 
+JK_Majin_name," Z  Rock Paper Wizard! d", 
+JK_Trend_JK7_01,"The first-round opponent is very
+orderly and never breaks routine.", 
+JK_Intro4_06_name,"  Koopa
+Paratroopa!", 
+JK_Intro5_09,"Round three!
+Mario vs. Ninji!
+Challengers, set...your...cards.", 
+JK_Draw_01,"Ooooh, a tie!  Challengers, back to your marks.", 
+JK_Trend_JK7_02,"The second-round opponent likes to
+rock the house back-to-back, but
+he doesn't like to use anything else
+twice in a row.", 
+JK_Draw_02,"A tie? It's a tie!
+Pretty even match here!  Challengers, back to your marks!", 
+JK_Draw_03,"A tie!
+The head games on display here are
+nothing short of mind blowing!  Challengers, back to your marks!", 
+JK_Intro6_08_name,"  Yellow Snifit!", 
+JK8_Afte_Painky01,"So the Rock Paper Wizard was really
+a Toad! Deep down, I guess I knew it
+all along...", 
+JK2_SignBoard,"A champion was born here, at
+Roshambo Temple #2, when the
+great Mario defeated the Rock Paper
+Wizard in a battle for the ages.", 
+JK8_Afte_Painky02,"Wait! Are you seeing this, Mario?!", 
+JK_MobWin04_01,"We have a new champion!
+Let's have a round of applause!", 
+JK8_Afte_Painky03,"There were this many Rock Paper
+Wizards?!", 
+JK_MobWin04_02,"WOW! You beat the Rock Paper
+Wizard! I was watching from the
+front row! ", 
+JK_MobWin04_03,"WHOA! You're my new hero!
+Will you sign my face?!", 
+JK_Trend_JK5_01,"The first-round opponent is always
+spinning around in the same spot.
+It never changes spots once it's
+picked one.", 
+JK_Intro6_06_name,"  Pokey!", 
+JK_Trend_JK5_02,"The second-round opponent is
+usually all chain and no chomp. 
+It's other way around when he
+plays Roshambo, though.", 
+JK4_CafeAfter,"So the Rock Paper Wizard was 
+actually eight different people?!", 
+JK6_Prize,"Temple #6 Prizes   ÍFirst round                  700 coins
+Second round              900 coins
+Third round    1000 coins + card ", 
+JK_Door_KNP_10,"  
+ Congratulations!", 
+JK_Intro8_08_name,"  Black Shy Guy!", 
+JK8_SignBoard,"A champion was born here, at
+Roshambo Temple #8, when the
+great Mario defeated the Rock Paper
+Wizard in a battle for the ages.", 
+JK_Intro4_01,"Roshambo isn't just some mere game.
+No. Roshambo is a way of life.  It's a reflection of the nature of
+existence. A distillation of the
+delicate balance we all create
+simply by being...or not being.  This...is the art of Roshambo.", 
+JK8_CafeAfter,"I don't think the Rock Paper Wizard
+ever actually existed.", 
+JK_CallMario00,"  Mario!", 
+JK_MobWin02_01,"Oooh! I knew you were doomed the
+moment they were like, ""BO!""", 
+JK_Intro7_01,"The rock—sturdy and true.
+The paper—vital and flexible.
+The scissors—sharp and sudden.  The philosophy of Roshambo flows
+through us all. Clashing and
+resolving in an eternal struggle.  This...is the art of Roshambo.", 
+JK_MobWin02_02,"Agh! I was pulling for you!", 
+JK_Intro4_04,"And with that, let's bring out your
+first-round opponent...  He didn't get enough hugs as a child,
+so he now projects his anger onto
+others in the form of a spiky ball!
+ He's Ssssssssssssssssssssssssss...", 
+JK_Draw_21,"Three ties in a row!
+What are the chances?!  Challengers, back to your marks!", 
+JK_MobWin02_03,"I know where you went wrong:
+you shoulda picked a different card.", 
+JK_Intro3_04_name,"  Shy Guy 5-Stack!", 
+JK_Intro4_05,"Round one!
+Mario vs. Spike!
+Challengers, draw your cards!", 
+JK_Draw_22,"A tie! A tie! A tieeeeeeeee!
+How much longer can they keep
+this up?!  Challengers, to your marks!", 
+JK_Intro4_06,"Let's meet your second-round
+opponent!  It's Bowser's high-flying flunky.
+The trooper who lost his parachute.
+The aerial assassin!
+ Koo-koo-koo...", 
+JK_Intro7_04,"In this corner...  Weighing in at practically nothing at
+all. The pint-sized pugilist.
+The itty-bitty bruiser!
+  FOochie-goochie-goo! d", 
+JK_Draw_23,"Really?! Three ties in a row?!  Challengers, back to your marks!", 
+JK8_Afte_InSide_JKKM01,"  
+ Wait!", 
+JK6_CafeSpace_KNP02,"Are you a fan of Roshambo?
+If I had to choose between Roshambo
+and food, I'd choose Roshambo!", 
+JK_Intro2_08_name,"  Dry Bones!", 
+JK_Intro4_07,"Round two!
+Mario vs. Koopa Paratroopa!
+Challengers, draw your cards.", 
+JK_Intro7_05,"Round one!
+Mario vs. Small Goomba!
+Challengers, draw your cards!", 
+JK8_Afte_InSide_JKKM02,"Mario. I pass the crown to you now. 
+You are truly the king of Roshambo.  And with that...̠it's time for the
+Rock Paper Wizard to retire.", 
+JK6_CafeSpace_KNP03,"I'd like to enter the tournament one
+day, but I fear I don't have the
+finger dexterity. ", 
+JK_Intro4_08,"Mario, you stand at the precipice of
+glory and fame. You need only best
+one last opponent to win the
+tournament. Let's meet him...  Hailing from a giant family with
+millions of siblings. His annoying
+attacks are nigh unpredictable!
+ HA-HA-HA...", 
+JK_Intro5_06_name,"  Chain Chomp!", 
+JK_Intro7_06,"Let's meet your second-round
+opponent...  His small stature betrays a ferocious
+appetite. The itsy-bitsy bug with the
+nightmarish mug!
+  FSo cute! d", 
+JK_Intro4_09,"Round three!
+Mario vs. Hammer Bro!
+Challengers, set...your...cards!", 
+JK_Intro7_07,"Round two!
+Mario vs. Small Buzzy Beetle!
+Challengers, draw your cards!", 
+JK2_CafeSpace_KNP03,"When the Roshambo symbol appears
+on a Roshambo Temple on the
+world map, that means a tournament
+is about to start.", 
+JK_Intro2_01,"The road to victory is long and full
+of potholes. Will these warriors'
+journeys end in glory?
+Or soul-crushing humiliation?  Trailblazers, you must carve your
+own path. Glory is forever!  This...is the art of Ro-sham-bo!", 
+JK_Intro7_08,"Mario, win this next round and you'll
+win the tournament. Let's meet your
+third-round opponent!  If their little figures don't pierce
+your heart, their little hammers will!
+The teensy-weensy throwers!
+  FOozoo boo boo... d", 
+JK_Draw_Round,"Round  %d!
+Challengers, draw your cards!", 
+JK4_Prize,"Temple #4 Prizes   ÍFirst round                  500 coins
+Second round              800 coins
+Third round    1000 coins + card ", 
+JK2_CafeSpace_KNP04,"Apparently the prizes are different
+at every Roshambo Temple.", 
+JK3_SignBoard,"A champion was born here, at
+Roshambo Temple #3, when the
+great Mario defeated the Rock Paper
+Wizard in a battle for the ages.", 
+JK_Intro7_09,"Round three!
+Mario vs. Small Hammer Bros.!
+Challengers, set...your...cards.", 
+JK2_CafeSpace_KNP05,"I hear there are eight
+Roshambo Temples on Prism Island.", 
+JK_IntroMario00,"And with that, the competitors
+will take the stage.  In this corner—the rookie hailing
+from the Mushroom Kingdom,
+Mr. Mamma Mia himself,
+ Mmmmmmmmmmmmm...", 
+JK_IntroMario01,"And with that, the competitors
+will take the stage.  In this corner—the lucky rookie who
+rocked the Rock Paper Wizard,
+Mr. Mamma Mia himself,
+ Mmmmmmmmmmm...", 
+JK_Intro2_04,"And in this corner—he's ruined many 
+a pair of shoes. The spiky scrapper.
+The underfoot underling!
+ Sssssssssssssssssssssssssssssss...", 
+JK_IntroMario02,"And with that, the competitors
+will take the stage.  In this corner—the up-and-coming
+foreigner with lightning-fast fingers,
+Mr. Mamma Mia himself,
+ Mmmmmmmmmmmmmmm...", 
+JK_Intro2_05,"Round one!
+Mario vs. Spiny!
+Challengers, draw your cards.", 
+JK_Intro5_04_name,"  Fuzzy!", 
+JK_Majin_Retry,"Your third-round opponent is...  The rogue of rock.
+The pope of paper.
+The...̠scientist of scissors!
+ Rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr...", 
+JK_IntroMario03,"And with that, the competitors
+will take the stage.  In this corner—the phenom who's
+shocked the Roshambo world,
+Mr. Mamma Mia himself,
+ Mmmmmmmmmmm...", 
+JK_Intro2_06,"Your second-round opponent...  Straight off a red-eye flight, it's
+the fire-eyed menace with the
+unbreakable shell!
+ BUH-BUH-BUH...", 
+JK4_Majin_01,"Please welcome the hurricane of the
+Roshambo world. A force of nature
+who's sunk countless challengers!", 
+JK5_CafeAfter,"I miss the Rock Paper Wizard!", 
+JK_IntroMario04,"And with that, the competitors
+will take the stage.  In this corner—a superstar of the
+Roshambo world,
+Mr. Mamma Mia himself,
+ Mmmmmmmmmmmmmmmmmm...", 
+JK_Intro2_07,"Round two!
+Mario vs. Buzzy Beetle!
+Challengers, draw your cards.", 
+JK_IntroMario05,"And with that, the competitors
+will take the stage.  In this corner—the whole island
+can't stop talking about him.
+It's Mr. Mamma Mia himself,
+ Mmmmmmmmmmmmmmmmmmm...", 
+JK_Intro2_08,"This is it, Mario!
+You're one battle away from glory!
+Now let's meet your opponent...  You can knock him down, but he'll
+get right back up again.
+Say hello to the skinless skulker!
+ Duh-duh-duh...", 
+JK_Intro7_06_name,"  Small Buzzy Beetle!", 
+JK8_Prize,"Temple #8 Prizes   ÍFirst round                 1000 coins
+Second round             1000 coins
+Third round     1000 coins + card ", 
+JK_Trend_JK4_01,"The first-round opponent has a fear
+of flammable materials.", 
+JK_IntroMario06,"And with that, the competitors
+will take the stage.  In this corner—ladies love him;
+men want to be him.
+Mr. Mamma Mia himself,
+ Mmmmmmmmmmmmmm...", 
+JK_Intro2_09,"Round three!
+Mario vs. Dry Bones!
+Challengers, set...your...cards.", 
+JK_Trend_JK4_02,"The second-round opponent flies
+through the air like a scissors plane!
+Or was it a rock plane? Anyway,
+he mostly plays airplane cards.", 
+JK_IntroMario07,"And with that, the competitors
+will take the stage.  In this corner—an unstoppable force
+who holds the world in his hands,
+Mr. Mamma Mia himself,
+ Mmmmmmmmmmmmmm...", 
+JK_Intro1_08_name,"  Koopa Troopa!", 
+JK_IntroMario08,"And with that, the competitors
+will take the stage.  In this corner—the man who retired
+the Rock Paper Wizard! The King of
+Roshambo, Mr. Mamma Mia himself,
+ Mmmmmmmmmmmmmmmmmmmmmm...", 
+JK8_Majin_01,"The self-proclaimed king of Roshambo
+is on the cusp of being overthrown!
+Can he defend his crown?", 
+JK_Draw_41,"ANOTHER TIE?!
+This is nothing short of miraculous!  Let's try this again!", 
+JK_Draw_42,"Another tie?!
+What an unexpected development!  Let's try this again!", 
+JK_Draw_43,"ANOTHER TIE?!
+In all my years of Roshambo, I've
+never seen a match like this!  Let's try this again!", 
+JK2_Prize,"Temple #2 Prizes   ÍFirst round                  300 coins
+Second round              700 coins
+Third round    1000 coins + card ", 
+JK_MobWin01_01,"Well, at least you made it past the
+first round!", 
+JK_Intro1_06_name,"  Shy Guy!", 
+JK_Intro6_01,"The weapons of Roshambo cannot be
+sheathed.  They forever wait in the palms of our
+hands, ready to strike.  This...is the art of Roshambo.", 
+JK_Entrance_KNP_01,"Welcome to 
+ %ls!", 
+JK_MobWin01_02,"That's just bad luck.
+Don't overthink it.", 
+JK_Intro4_04_name,"  Spike!", 
+JK_Entrance_KNP_02,"We're about to start a tournament
+here at 
+ %ls.
+You want in?   Ĭ
+yesno", 
+JK_MobWin01_03,"I coulda won that one easy.
+You shouldn't have hesitated.", 
+JK_Trend_JK2_01,"The first-round opponent takes pride
+in his sharp spikes and his hard shell.", 
+JK_Entrance_KNP_03,"
+ %ls
+The Rock Paper Wizard is in the
+building! Want to enter the
+tournament?   Ĭ
+yesno", 
+JK_Trend_JK2_02,"I'd be shocked if someone shaped
+like the second-round opponent
+ever used scissors.", 
+JK_Intro3_08_name,"  Shunned Guy!", 
+JK_Intro6_04,"And in this corner...  Wearing an armor of sun-kissed
+spikes, he stalks through the sands
+with the Angry Sun at his back.
+ It's Guh-guh-guh...", 
+JK_Entrance_KNP_04,"Sorry, we're not accepting entrants
+for the tournament at
+
+ %ls right now.  But go find another Paint Star,
+and then we'll talk.  And just between you and me, you
+can even go refind one you've
+already found. *wink* *wink*", 
+JK4_SignBoard,"A champion was born here, at
+Roshambo Temple #4, when the
+great Mario defeated the Rock Paper
+Wizard in a battle for the ages.", 
+JK_Intro6_05,"Round one!
+Mario vs. Green Pokey!
+Challengers, draw your cards!", 
+JK_Intro6_06,"Your second-round opponent is...  The same guy as last round,
+only...less green!
+ Puh-puh-puh...", 
+JK_Intro6_07,"Round two!
+Mario vs. Pokey!
+Challengers, draw your cards!", 
+JK_Intro1_01,"Since the dawn of time, warriors
+have gathered here to do battle,
+journeying from distant lands for
+a shot at eternal glory.  One must make their own luck to
+overcome the odds.  This...is the art of Ro-sham-bo!", 
+JK_Intro6_08,"This is it! The third and final round!
+Let's meet your opponent...  He's the blond bomber.
+The cantankerous cannonface.
+The regurgitating revolver!
+ Yyyyyyyyyyyyyyyyyyyy...", 
+JK_Intro6_09,"Round three!
+Mario vs. Yellow Snifit!
+Challengers, set...your...cards!", 
+JK6_CafeAfter,"I wonder how the Rock Paper Wizard
+felt when he retired.", 
+JK_Intro1_04,"And in this corner...  Bowser's timeless small fry.
+The spectacular speed bump.
+The sentient shiitake!
+ Guh-guh-guh-guh...", 
+JK_Intro6_04_name,"  Green Pokey!", 
+JK_Intro1_05,"Round one!
+Mario vs. Goomba!
+Challengers, draw your cards.", 
+JK_Intro1_06,"This pain train has no brakes!
+Let's bring on your round-two
+opponent!  He won't show his face in public for
+fear of judgement. The indelicate
+introvert. The bashful basher!
+ Shhhhhhhhhhhhhhhhhhhh...", 
+JK_Intro1_07,"Round two!
+Mario vs. Shy Guy!
+Challengers, draw your cards.", 
+JK_Intro8_06_name,"  Gold Shy Guy!", 
+JK8_CafeSpace_KNP01,"This is the final Roshambo Temple.
+Roshambo Warriors from each
+region gather here to compete.", 
+JK_Intro1_08,"The final round is upon us!
+Let's meet your final opponent...  He's the green-shelled shocker!
+The friendly-fire foot soldier!
+Don't you DARE call him a turtle!
+ Kuh-kuh-kuh...", 
+JK8_CafeSpace_KNP02,"The Rock Paper Wizard looks kinda
+familiar, huh...", 
+JK_Intro1_09,"This is it! Round three!
+Mario vs. Koopa Troopa!
+Challengers, set...your...cards.", 
+JK3_CafeSpace_KNP01,"Did you know each of the Roshambo
+Temples has its own café? My dream
+is to eat at all of them!", 
+JK4_CafeSpace_KNP01,"I never heard of Roshambo before
+this, but now I'm hooked! Team
+Scissors for life!", 
+JK7_CafeSpace_KNP03,"Nothing beats a good match of
+Roshambo!", 
+JK8_CafeSpace_KNP03,"Congrats on making it all the way
+out here, Mario!", 
+JK_Door_KNP_01,"Welcome to the Roshambo Temple!  This is where legends are made.", 
+JK_Trend_JK6_01,"The first-round opponent isn't the
+sharpest knife in the drawer, and
+he never tries the same thing twice
+in a row.", 
+JK_Door_KNP_02,"If you'd like to compete in the 
+Roshambo tournament, please
+head through the door.", 
+JK3_CafeSpace_KNP03,"If you get a Paint Star, you can
+enter a Roshambo tournament at
+any of the temples. Neat, huh?", 
+JK_Trend_JK6_02,"The second-round opponent never
+tries the same thing twice in a row.", 
+JK_Door_KNP_03,"Wow! Your deck is completely full!  That's impressive and all, but you
+don't have space to receive a prize!
+Get rid of at least one card before
+going in.", 
+JK4_CafeSpace_KNP04,"There's not much that compares to
+the rush of winning a Roshambo
+tournament.", 
+JK1_Majin_01,"Dim the lights! He approaches!
+Ladies and gentlemen, the man
+you've all been waiting for...", 
+JK1_CafeAfter,"Who the heck could the
+Rock Paper Wizard be?", 
+JK_Door_KNP_04,"Congrats for winning
+the tournament at
+
+ %ls!", 
+JK3_CafeSpace_KNP05,"You probably already know this,
+but if there's a Toad guarding the
+main door of a temple, you can't
+enter the Roshambo tournament.", 
+JK_Door_KNP_05,"WOW! You beat the Rock Paper
+Wizard! We've witnessed the birth of
+a new champion!", 
+JK_Intro2_06_name,"  Buzzy Beetle!", 
+JK_Draw_11,"Another tie!
+To change or not to change?  Challengers, to your marks!", 
+JK_Door_KNP_06,"Tough break. You'll get 'em next time.", 
+JK5_SignBoard,"A champion was born here, at
+Roshambo Temple #5, when the
+great Mario defeated the Rock Paper
+Wizard in a battle for the ages.", 
+JK_Draw_12,"Another tie!
+What showmanship! They seem to be
+focused on pumping up the crowd!  Challengers, back to your marks!", 
+JK_Door_KNP_07,"Ouch. Close one.
+You'll get 'em next time!", 
+JK_Draw_13,"Another tie!
+What intense premonition!  Challengers, back to your marks.", 
+JK_Door_KNP_08,"Oof! That Rock Paper Wizard is
+tough. You'll get 'im next time!", 
+JK_MobWin03_01,"Wow, you won! Amazing!
+Congratulations, Mr. Mario, sir!", 
+JK_Trend_JK1_01,"The first-round opponent only ever
+uses the card that most resembles
+him. He's well rounded.", 
+JK_Intro4_08_name,"  Hammer Bro!", 
+JK_Intro8_01,"Fierce warriors have fought and
+fallen. Only titans remain.   The giants of Roshambo have
+assembled. No matter how grisly the
+fight, do not avert your eyes. Today
+we witness the birth of a legend.  This...is the art of Roshambo.", 
+JK_Door_KNP_09,"
+ You won!", 
+JK_MobWin03_02,"You're THAT good at Roshambo?
+I'm blown away!", 
+JK_Trend_JK1_02,"The second-round opponent either
+punches or does an open-handed
+slap during fights.", 
+JK5_Majin_01,"Challengers come, challengers go, 
+but the king stands forever.
+The one, the only...", 
+JK_MobWin03_03,"I knew you could do it!
+I was pulling for you the whole time!", 
+JK_Intro8_04,"And in this corner...  The man who puts the shy in shiny!
+The antisocial assassin!
+The glittering gladiator!
+ Sssssssssssssssssssssss...", 
+JK6_Majin_01,"He's the only one who stands
+between Mario and eternal glory!
+The one, the only...", 
+JK_Intro8_05,"Round one!
+Mario vs. Silver Shy Guy!
+Challengers, draw your cards!", 
+JK_Intro8_06,"Moving on to round two!
+Let's meet your opponent...  He may be golden, but his
+self-worth is lower than ever!
+The 14-karat crusher!
+ Go-go-go...", 
+JK5_Prize,"Temple #5 Prizes   ÍFirst round                  700 coins
+Second round              800 coins
+Third round    1000 coins + card ", 
+JK_Intro8_07,"Round two!
+Mario vs. Gold Shy Guy!
+Challengers, draw your cards!", 
+JK_Intro3_01,"The game of Roshambo is a dark
+forest of self-doubt, home to
+ravenous beasts that prey on your
+deepest fears and insecurities.  With only three weapons at their
+disposal, are these warriors destined
+for glory...or eternal embarrassment?  This...is the art of Ro-sham-bo!", 
+JK_Intro7_04_name,"  Small Goomba!", 
+JK_Intro8_08,"The last round approaches.
+Mario, win this match and you'll win
+the tournament! Your third-round
+opponent is...  He's lightning quick and kinda
+creepy. The diffident dark one.
+ Buh-buh-buh...", 
+JK_Intro8_09,"Round three!
+Mario vs. Black Shy Guy!
+Challengers, set...your...cards.", 
+JK8_After_JKKM01,"There's a Rock Paper Wizard inside
+all of us.", 

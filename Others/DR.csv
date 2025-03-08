@@ -1,0 +1,29 @@
+﻿Label,String,Translation
+DR_Info_Blue," Hit a card with your hammer
+ to flip it. Try to find all of the
+ pairs before time runs out!", 
+DR_Title_Blue,"Flippin' Cards!", 
+DR_Bounus_Coin_New,"Bonus", 
+DR_Bounus_Find_New,"Revealed", 
+DR_Record_Result,"New record!", 
+DR_Title_Yellow,"Prize Pipe Paths", 
+DR_Info_Red," Hit the spinning blocks to stop
+ them. Match three of the same
+ icon to get a fancy prize.", 
+DR_UI_Time," %d", 
+DR_Record_Intro_Num," %d", 
+DR_Info_Yellow," Pick a pipe—get a prize!
+ Mario will always turn when he
+ reaches a sideways pipe!", 
+DR_Info_PM," You've entered an alternate
+ dimension of...invisible things!
+ Reveal as many things as you
+ can within the time limit!", 
+DR_Info_PM_00," You've entered an alternate
+ dimension of...invisible things!
+ Use the power of paint to find a
+ bunch of 'em to get a bonus!", 
+DR_Bounus_Find_num_New," %d", 
+DR_Title_Red,"Blockstopper!", 
+DR_Record_Intro,"High Score", 
+DR_Title_PM,"Paint Hunter!", 
