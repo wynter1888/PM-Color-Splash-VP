@@ -1,0 +1,325 @@
+﻿Label,String,Translation
+RB_BridgeBreak_Painky02,"Uh... ̠Hello, gentlesir!̠
+We overheard that you're looking
+for the Big Paint Star. We are too.  May I ask who you might be?
+Perhaps we could search for
+the Big Paint Star together!", 
+RB_TowerGate_Painky07_2,"Say, you came all the way here
+from Port Prisma to see a bridge? Are 
+you a bridge builder or something?", 
+RB_BridgeBreak_Painky03,"Um... Ǵ Yes. ǴHello.Ǵ
+I'm Huey, and this is Mario.
+Yes, THAT Mario.", 
+RB_TowerGate_Painky07_3,"Port Prisma was attacked, and the
+bridge in the blue district was 
+destroyed. It's kind of a problem.", 
+RB_RideShip_Painky01,"You OK, Mario?  We managed to get on the ship!
+This is our chance!  Let's hijack this thing and take that
+bucket of paint back.", 
+RB_DriveShip_Count10,"1", 
+RB_BridgeBreak_Painky04,"Yes, we're looking for a Big Paint
+Star. Have you seen one?", 
+RB_BridgeBreak_Painky05,"Uh...̠ Nice to meet you, Morton.
+Look, we really need that
+Big Paint Star.   You know...̠I don't think we're
+really getting anywhere here.", 
+RB_TowerTop_Boss_2nd_01,"Mario! That flaming hammer is
+terrifying!  If only there was a way to put
+out the fire. Do we have some kind
+of Thing that extinguishes fire?
+I don't know what you'd call it.", 
+RB_BridgeBreak_Painky06,"WHAAA?! He broke the floor!", 
+RB_BridgeBreak_Painky07,"Something tells me he's heard of
+you before...   This Morton guy is going to be
+trouble. Let's tread carefully.", 
+RB_TowerGate_Painky01,"Mario! Look at this gate!", 
+RB_TowerGate_Painky02,"Is it just me, or do these kind of look
+like weird mushroom-shaped
+keyholes?  Maybe the gate will open if we find
+those three keys?", 
+RB_TowerGate_BridgeKinopio02_2,"What?! This is an emergency!
+I have to get back to Port Prisma!  Just you wait, bridge! I'll fix you up
+real nice like!", 
+RB_TowerGate_Painky04,"It worked...but...̠
+The Toads are...̠gone.  Thank you for your sacrifice,
+Chosen Toads.  I'll tell my children and my children's
+children's parents about you.", 
+RB_BridgeBreak_Morton01,"
+ AH!", 
+RB_TowerGate_Painky05,"Mario, I can smell a big load of paint
+beyond that gate!  It smells like red paint. Way stronger
+than the red Mini Paint Stars that
+led us here...  The red Big Paint Star must be
+in the Crimson Tower beyond this
+gate!", 
+RB_BridgeBreak_Morton02,"
+ AH!", 
+RB_TowerGate_Painky06,"The gate will probably open if we
+can find these three keys.", 
+RB_BigWhite_Painky02_2,"It's all BONE WHITE!", 
+RB_BridgeBreak_Morton03,"
+ HELLO!", 
+RB_TowerGate_Painky07,"Wait, if you came all the way here
+from Port Prisma just to see a
+bridge...are you some sort of bridge
+builder or something? ", 
+RB_BigWhite_Painky02_3,"I'm gonna be sick...  What do we even...do?  There's no way we can paint all of
+this with your little hammer...̠
+No offense.  But this is... ƐWe're done.Ɛ
+We can't do anything here...", 
+RB_BridgeBreak_Morton04,"
+ BIG LARGE PAIN STAR!", 
+RB_TowerGate_YellowWiseman10,"Well done rescuing the blue Paint
+Star, my child.  We may be stuck here for all
+eternity while you gallivant around,
+reaping the rewards of our sacrifice,
+but we're...̠not...̠bitter.", 
+RB_BridgeBreak_Morton05,"
+ ME MORTON!", 
+RB_TowerGate_YellowWiseman11,"But do we ever truly hold anything?  In this world, one must let go of
+everything to have anything.", 
+RB_BridgeBreak_Morton06,"
+ MARIO?", 
+RB_AfterBurstShip_BridgeKinopio01,"Hey! Mario!", 
+RB_BridgeBreak_Morton07,"  
+  ÈMARIO!! d", 
+RB_TowerGate_YellowWiseman13,"That must mean all of the Big Paint
+Stars are finally back.
+Nice work, young one.  Time to follow the road of rainbows
+and fulfill your destiny.", 
+RB_DriveShip_Painky00,"That's not good!
+Maybe we should've kept one of
+them around to pilot this thing!", 
+RB_AfterBurstShip_BridgeKinopio02,"This is it!
+The Crimson Tower bridge!  Isn't she a beaut?  Go on, Mario! Cross the bridge!
+Cross the bridge!", 
+RB_BridgeBreak_Morton08,"
+ NO PAIN STAR FOR DA MARIO!", 
+RB_DriveShip_Painky01,"Mario! I'll try to stabilize the ship.
+Go after the bucket!   There must be a switch or something
+to release it!", 
+RB_AfterBurstShip_BridgeKinopio03,"Go on, Mario! Cross the bridge!
+I wanna see what it looks like!", 
+RB_DriveShip_Painky02,"There must be a switch or something
+to release the bucket!", 
+RB_TowerGate_BlueWiseman10,"Hey, thanks for coming to visit!
+I was worried you'd forgotten about
+us.", 
+RB_DriveShip_Painky03," OH SCRAP... d", 
+RB_TowerGate_BlueWiseman11,"I must admit, I'm getting a bit tired
+of being in this gate. But you can't
+change destiny!  Still, I wish this place had a
+bathroom. I've been holding it
+for a while now...", 
+RB_TowerGate_BlueWiseman12,"You've found five Big Paint Stars!
+If my math is right, that means
+there's only one left!", 
+RB_TowerGate_BlueWiseman13,"A dazzling six-colored light streaming
+into the heavens from Port Prisma!
+It can only be Rainbow Road!", 
+RB_TowerGate_RedWiseman00,"OPEN, GATE!
+FOR JUSTICE DEMANDS IT!  ...Nothing? Sorry, I think we're
+gonna need at least three super
+Toads for this one.", 
+RB_WallBreak_Painky01,"You heard that, right?
+BIG PAIN STAR?   I think he means Big Paint Star!  It's gotta be at the top of this 
+tower! We need to get up there now!", 
+RB_WallBreak_Painky02,"But wait...  How does he even know the
+Big Paint Star is here?   And also...
+WHO WAS THAT GUY?!", 
+RB_TowerGate_RedWiseman02,"C'mon, Mario!
+Kapow me! For Justice!", 
+RB_WallBreak_Painky03,"That big guy busted through this
+wall like it was made of paper!", 
+RB_TowerGate_RedWiseman04,"Go get that Big Paint Star!", 
+RB_TowerGate_RedWiseman05,"It's time to fulfill our destiny...", 
+RB_TowerGate_RedWiseman06,"Hey, Mario. Think you could give us
+a little...oomph? Like, some...KAPOW!
+You know what I mean?", 
+RB_Helmsman_HEI01,"M-Mario?!  How'd you get on this ship?!", 
+RB_TowerTop_Boss_01,"
+ MORTON STRONG!  
+ MORTON MORE TONS!", 
+RB_TowerGate_RedWiseman07,"Take care! I hope you find the
+Big Paint Star...for justice!", 
+RB_Helmsman_HEI02,"We've got a stowaway here, boys!
+Get 'im!", 
+RB_TowerTop_Boss_02,"
+ BRING ME PEDAL STOOL!", 
+RB_TowerGate_RedWiseman08,"There are still five Big Paint Stars
+left. You've got a long way to go,
+but justice is on your side!", 
+RB_TowerGate_RedWiseman09,"That means there's just four Big
+Paint Stars left. Good luck, Mario!", 
+RB_TowerTop_Boss_04,"
+ HIGH PLACE BROKE...  
+ LOW PLACE SCARY.", 
+RB_BurstShip_Painky01,"Why even have a self-destruct
+button on your airship?!
+That's just bad engineering!   But it's all good.
+Because the Crimson Tower is
+crimson again!", 
+RB_TowerTop_Boss_05,"
+ MORTON IS FIRED!", 
+RB_UnderCat_KNP01,"Huh?
+Mr. Cat-o-Luck is gone!
+But Mario's here?!", 
+RB_BurstShip_Painky02,"It'll probably be pretty rough in
+there, Mario. Maybe we should
+restock our cards before we go in.  And the Know-it-All Toad in the
+trash can in Port Prisma can tell
+us if we'll need anything special.", 
+RB_TowerTop_Boss_06,"
+ HOT MALLET!", 
+RB_UnderCat_KNP02,"Oh, I get it! Cat-o-Luck's sent Mario
+to save Port Prisma!  Yeah, boyee! I knew it was worth 
+making the trek from Port Prisma to
+wish on the cat!", 
+RB_TowerTop_Boss_07,"
+ FIRE...BROKEN?  
+ MALLET GONE...  
+ JUST STICK...", 
+RB_WallBreak_Morton03,"
+ MORTON!  
+ WHY MORTON HERE?", 
+RB_WallBreak_Morton04,"
+ OH YEAH!  
+ DA BIGGUN!  
+ BIG OL' PAIN STAR!  
+ NEED FIND BIG PAIN STAR!", 
+RB_TowerTop_Boss_09,"
+ REPLICA TOO PUNY!", 
+RB_TowerGate_RedWiseman03_2,"JUSTICE!", 
+RB_WallBreak_Morton05,"
+ FIND RIGHT NOW, AND FASTLY!", 
+RB_BigWhite_HEI02,"DANG IT, JOHNSON!̠
+I TOLD you to pull up the anchor!  Hey, you down there!̠
+Think you could unsnag our anchor?
+Pretty please?", 
+RB_BigWhite_HEI02_2,"Look, buddy!  We're not messing around.
+Unsnag our anchor!", 
+RB_DriveShip_Count06,"5", 
+RB_DriveShip_Count07,"4", 
+RB_DriveShip_Count08,"3", 
+RB_DriveShip_Count09,"2", 
+RB_TowerGate_YellowWiseman00,"There's no need to rush, young one.
+All of the Chosen Toads' paths end
+here.  So it is written.", 
+RB_TowerGate_YellowWiseman02,"I am but a nail in the 2x4 of fate.", 
+RB_BigWhite_Painky03_2,"Huh?! What's that?", 
+RB_TowerGate_YellowWiseman04,"The Crimson Tower awaits...", 
+RB_TowerGate_YellowWiseman05,"The three Chosen Toads hath
+assembled.", 
+RB_TowerGate_BlueWiseman03_2,"DAOWWW!", 
+RB_TowerGate_BlueWiseman00,"All right. Let's do this quick before I
+get bored and lose all interest.  Hurry up and find the other Toads
+with keys on their heads so we can
+open this thing up!", 
+RB_TowerGate_YellowWiseman06,"But...Ĭit is written!̠
+In the book of hitting things with 
+hammers!", 
+RB_TowerGate_BridgeKinopio01,"H-huh?
+You...you're Mario!  I came here from Port Prisma to—
+Wait...why did I come here again?", 
+RB_TowerGate_BridgeKinopio01_2,"Oh yeah!
+I came to see the bridge
+to the Crimson Tower.  It's supposed to be a truly
+remarkable bridge. Any bridge builder
+worth their salt has studied it.  But while I was trying to open this
+gate, some guy snuck up on me with
+a straw.", 
+RB_TowerGate_YellowWiseman07,"Go make your fate in the
+Crimson Tower, young ones!", 
+RB_TowerGate_BridgeKinopio01_3,"But then you came along and saved
+me. So thanks for that!", 
+RB_TowerGate_BridgeKinopio02,"You'd better believe it.
+I'm a bridge builder by trade—
+a real bridge-repair guru!", 
+RB_TowerGate_BlueWiseman02,"Hurry up and smack me already!
+It's my destiny!", 
+RB_TowerGate_YellowWiseman08,"The red Big Paint Star was yours all
+along.", 
+RB_TowerGate_BridgeKinopio03,"Ah! I really hope I get to see that
+splendid bridge to the Crimson Tower
+at least once!", 
+RB_TowerGate_YellowWiseman09,"The yellow Paint Star thanks you,
+young one.", 
+RB_TowerGate_BlueWiseman04,"Good luck, Mario.", 
+RB_TowerGate_BlueWiseman05,"Mario, we've been waiting!", 
+RB_BossBattle_Morton01,"
+ MORTON FIND PAIN STAR!", 
+RB_TowerGate_BlueWiseman06,"Uhh...
+Nothing's haaaaaappening!", 
+RB_BossBattle_Morton02,"
+ BAD MARIO FIND PAIN STAR!  
+ BUT MORTON FIND IT MORE!  
+ MORE MORTON'S!  
+ MORE TONS!  
+ MORTON CRUSH MARIO!", 
+RB_TowerGate_BlueWiseman07,"We're still alive.̠
+You were really just going to smoosh
+us and leave?", 
+RB_BossBattle_Morton03,"
+ MARIO COME BACK!  
+ BACK FOR MORE TONS!", 
+RB_TowerGate_BlueWiseman08,"Good work, Mario!", 
+RB_BossBattle_Morton04,"
+ MORTON...  
+ MORTON LOSE.  
+ BAD MARIO GET PAIN STAR...  
+ MASTER ORDER MORTON...  
+ SAY GO GET PAIN STAR...  
+ MORTON? MORE LIKE...  
+ LESTON.", 
+RB_TowerGate_BlueWiseman09,"You're doing great work, Mario!
+Even we're hearing about it!", 
+RB_TowerTop_Boss_03_1,"
+ MORTON ON PEDAL STOOL!  
+ LOOK NOW! MORTON SAFE HERE!", 
+RB_TowerTop_Boss_03_2,"
+ MORTON MORE HIGHER NOW!", 
+RB_TowerTop_Boss_03_3,"
+ MORTON MORE HIGHEST!  
+ BAD MARIO NO TOUCH!", 
+RB_TowerGate_YellowWiseman03_2,"OMMMMM!", 
+RB_TowerGate_RedWiseman10,"But unfortunately we can't help you
+find those last three Big Paint Stars.
+You know, because our fates are
+forever sealed in this itchy door.  But we're all heroes in our own way.
+Go find those Paint Stars, Mario!
+FOR JUSTICE!", 
+RB_TowerGate_RedWiseman11,"Ugh...  If I ever get out of here, I'm gonna 
+use my powers to come up with a
+special move that'll one-shot any
+bad dude on the planet!  Although, by the time Mario's done,
+there might not be any bad dudes
+left. Save some for me!  Just two Big Paint Stars to go.
+May justice be with you!", 
+RB_TowerGate_RedWiseman12,"Did Yellow fall asleep? Or is
+this the final level of meditation?
+He looks so peaceful.  Just that green Big Paint Star left
+to find! Go get it!", 
+RB_TowerGate_RedWiseman13,"We'll all be cheering you on from
+here!  Go restore peace and justice to
+Prism Island!  Maybe then we'll be able to get out
+of this gate for a little bit...", 
+RB_BossBattle_Painky00,"Look! It's the red Big Paint Star!  But there's something wrong with it.
+We need to help it quick!", 
+RB_TowerTop_Boss_10,"
+ EAT STICK!!", 
+RB_BossBattle_Painky01,"Master?  Someone ordered Morton to get the
+Big Paint Star?  So someone else is trying to get
+the Big Paint Stars too?!", 
+RB_BossBattle_Painky02,"But at least we've found the
+red Big Paint Star!", 
+RB_BossBattle_Painky03,"Looks like it's fainted from being so
+dried out...", 
+RB_BossBattle_Painky04,"OK, Mario! Jump into it and wake it
+up!", 
+RB_BigWhite_Painky01,"Whaaaaaaaaaaaaa...?!", 
+RB_BigWhite_Painky02,"Wh-Èwh-Èwh-Èwh-Èwh-Èwh-Èwhat?!  Ha-Èha-Èha-Èha-Èha-Èhappened?!   Mario!
+What?! ̠How?! ̠This?!", 
+RB_Stop_Painky01,"Where are you going, Mario?
+You need to jump into the star
+to wake it up!", 
+RB_BridgeBreak_Painky01,"AHHHHHHH!", 

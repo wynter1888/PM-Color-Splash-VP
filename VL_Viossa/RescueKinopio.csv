@@ -1,0 +1,156 @@
+﻿Label,String,Translation
+EXT_Rescue_StayTown_GoLeader,"Understood! Over and out!", 
+Rescue_TalkStart,"Here's the latest Rescue Squad
+info.", 
+Rescue_TalkEnd,"Dismissed!", 
+EXT_Rescue_StayTown_Yellow,"Yellow Rescue Toad at your service,
+sir! I'm currently awaiting further
+orders from my captain.", 
+Rescue_Red_Count01," %d in Sunset Express!", 
+Rescue_Red_Count02," %d in Redpepper Volcano!", 
+Rescue_Red_Count03," %d in Redpepper Crater!", 
+Rescue_Red_Count04," %d in Green Energy Plant!", 
+Rescue_Red_Count05," %d in Mossrock Theater!", 
+EXT_FirstRescue_KNP01,"Thank you, but serving in the
+Rescue Squad is more than just
+wearing a cool uniform.  Our mission is to right the wrongs
+of this world. To stamp out
+injustice wherever it festers!  If you ever want to talk to our
+chief director, you can find him
+at Rescue Squad HQ in Port
+Prisma's yellow district.", 
+Rescue_Red_Count06," %d here in Port Prisma!", 
+EXT_Rescue_GoLeader_Yellow,"Now, if you'll excuse me, I must
+report to my captain in the Sacred
+Forest immediately!", 
+Rescue_Red_Count07,"All red Rescue Squad members are
+waiting at the Emerald Circus!", 
+Rescue_Blue_CountAll,"We're still missing  %d of the
+blue Rescue Squad members.
+Here's a breakdown...", 
+Rescue_FindLeaderBlue,"I've heard from the blue
+Rescue Squad leader.", 
+EXT_Rescue_GoField_Pink,"Attention, purple Rescue Toads!
+Report to your captain in
+Ruddy Road on the double!", 
+Rescue_NotFound_00,"I am not currently in contact with
+all of the Rescue Squad leaders out
+in the field.  Mario, if you find a Rescue Squad
+leader out there, please remind
+them to report in!", 
+Rescue_FindLeaderYellow,"I've heard from the yellow
+Rescue Squad leader.", 
+Rescue_NotFound_01,"Squad members in places you
+haven't been to yet:  %d.", 
+EXT_Rescue_GoLeader_Green,"Now, if you'll excuse me, I must
+report to my captain's location
+immediately!", 
+Rescue_TalkFirst_00,"Mario, I was hoping you'd stop by!  I'm the commander-in-chief of the
+Rescue Squad coalition.  But you're making my job easy!
+Thanks to you, all Rescue Squad
+missions are complete.  Thanks for the assist!", 
+EXT_Rescue_Salute_Blue,"Toad # %d of the blue Rescue
+Squad, reporting for duty!", 
+EXT_Rescue_GoTown,"Since I've been separated from my
+captain, I'll report back to Port
+Prisma HQ until further notice!", 
+Rescue_FindLeaderRed,"I've heard from the red
+Rescue Squad leader.", 
+EXT_Rescue_GoLeader_Pink,"Now, if you'll excuse me, I must
+report to my squad leader in
+Ruddy Road immediately!", 
+EXT_Rescue_GoField_Yellow,"Attention, yellow Rescue Toads!
+Report to your captain in the
+Sacred Forest on the double!", 
+Rescue_FindLeaderGreen,"I've heard from the green
+Rescue Squad leader.", 
+EXT_Rescue_Salute_Red,"Toad # %d of the red Rescue
+Squad, reporting for duty!", 
+Rescue_Green_CountAll,"We're still missing  %d of the
+green Rescue Squad members! 
+Here's a breakdown...", 
+Rescue_Red_CountAll,"We're still missing  %d of the
+red Rescue Squad members.
+Here's a breakdown...", 
+EXT_Rescue_GoTown_2,"Since I haven't yet met my captain,
+I'll wait here for further orders!", 
+EXT_Rescue_GoLeader_Red,"Now, if you'll excuse me, I must
+report to my captain in Emerald
+Circus immediately!", 
+All_Rescue_Number," %d", 
+EXT_Rescue_GoField_Red,"Attention, red Rescue Toads!
+Report to your captain in
+Emerald Circus on the double!", 
+Rescue_Yellow_CountAll,"We're still missing  %d of the
+yellow Rescue Squad members.
+Here's a breakdown...", 
+EXT_Rescue_Salute_Green,"Toad # %d of the green Rescue
+Squad, reporting for duty!", 
+EXT_Rescue_GoField_Blue,"Attention, blue Rescue Toads!
+Report to your captain in
+Kiwano Temple on the double!", 
+EXT_Rescue_StayTown_Pink,"Purple Rescue Toad at your service,
+sir! I'm currently awaiting further
+orders from my captain.", 
+EXT_FirstRescue_Painky01,"You Rescue Squad guys are so cool.
+I love the color-coordinated getups,
+and your scarves are CHOICE!", 
+Rescue_TalkFirst,"Mario.
+I was hoping you'd stop by.  I'm the commander-in-chief of the
+Rescue Squad coalition.  The Rescue Squads were formed to
+help those in need across the land.  As the leader of the coalition, it's my
+job to keep tabs on each squad.  Let me know if I can help you find
+any of the Rescue Squad members.", 
+Rescue_Pink_Count01," %d in Daffodil Peak!", 
+Rescue_Pink_Count02," %d in Sunglow Ridge!", 
+Rescue_Pink_Count03," %d in Bloo Bay Beach!", 
+Rescue_Pink_Count04,"All purple Rescue Squad members
+have gathered at Ruddy Road!", 
+EXT_Rescue_StayTown_Red,"Red Rescue Toad at your service,
+sir! I'm currently awaiting further
+orders from my captain.", 
+EXT_Rescue_StayTown_Blue,"Blue Rescue Toad at your service,
+sir! I'm currently awaiting further
+orders from my captain.", 
+EXT_Rescue_GoLeader_Blue,"Now, if you'll excuse me, I must
+report to my captain in Kiwano
+Temple immediately!", 
+EXT_Rescue_Salute_Yellow,"Toad # %d of the yellow Rescue
+Squad, reporting for duty!", 
+Rescue_FindLeaderPink,"I've heard from the purple
+Rescue Squad leader.", 
+Rescue_AllFinish,"Mario, I've received word that all
+current rescue operations have
+been completed.  Thank you for your service. We
+couldn't have done it without you.", 
+EXT_Rescue_Salute_Red_Smole,"Red Rescue Squad Apprentice Toad,
+reporting for duty!", 
+EXT_Rescue_Salute_Pink,"Toad # %d of the purple Rescue
+Squad, reporting for duty!", 
+Rescue_Green_Count00," %d in Indigo Underground!", 
+Rescue_Pink_CountAll,"We're still missing  %d of the
+purple Rescue Squad members.
+Here's a breakdown...", 
+Rescue_Green_Count01,"All green Rescue Squad members
+have gathered in Indigo
+Underground!", 
+Rescue_PinkwithGreen_00,"I have information regarding
+the purple and green squads.
+Which would you like to hear? 8  Ĭ.Rescue_PinkwithGreen_01", 
+Rescue_PinkwithGreen_01,"Purple Rescue Squad.
+Green Rescue Squad.
+Forget it.", 
+Rescue_Yellow_Count01," %d in Plum Park!", 
+Rescue_Blue_Count01," %d in Violet Passage!", 
+Rescue_PinkwithGreen_02,"Understood.", 
+Rescue_Yellow_Count02," %d in the Golden Coliseum!", 
+Rescue_Blue_Count02," %d in Fort Cobalt!", 
+Rescue_Yellow_Count03," %d in Mustard Café!", 
+Rescue_Blue_Count03," %d in Lighthouse Island!", 
+Rescue_Yellow_Count04," %d in Violet Passage!", 
+Rescue_Blue_Count04," %d in Tangerino Grill!", 
+Rescue_Yellow_Count05," %d in Redpepper Volcano!", 
+Rescue_Blue_Count05,"All blue Rescue Squad members are
+waiting at Kiwano Temple!", 
+Rescue_Yellow_Count06,"All yellow Rescue Squad members are 
+waiting in the Sacred Forest.", 
