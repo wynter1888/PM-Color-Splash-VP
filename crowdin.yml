@@ -1,3 +1,4 @@
 files:
-  - source: Town1.msbt
-    translation: '%original_path%'
+  - source: /VL_Viossa/
+    translation: '%original_file_name%'
+    scheme: 'identifier,source_phrase,translation'
