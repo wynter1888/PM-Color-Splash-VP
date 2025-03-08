@@ -1,0 +1,159 @@
+﻿Label,String,Translation
+O2_StopTrain_EKNP01_2,"This is a real soup sandwich.
+Who would do this?
+Who doesn't like trains?!", 
+O2_Clash_Painky01,"UhÈ.È.È.̠
+Oops.  Well, at least we can get across the
+spikes now.", 
+O2_CrashTrain_EKNP06,"MY BEAUTIFUL ENGINE!  Hold on, baby. We'll take you to
+Toad Trainworks and fix you up
+real nice.", 
+O2_Rescue_Unit01,"We blue Rescue Toads eat
+this kind of trouble for breakfast!
+Followed by a sensible lunch, of
+course...", 
+O2_CrashTrain_EKNP07,"Attention, passengers! I have a
+ Ftiny little d favor to ask of you...", 
+O2_Rescue_Unit02,"We've trained to handle this exact
+scenario! Which is pretty weird,
+if you think about it.", 
+O2_Rescue_Unit03,"We've got to get the train through
+this area. Time to formulate our
+mission plan!", 
+O2_Rescue_Unit04,"Go, team! Train hard! Win the day!
+Be kind—rewind! And so forth!", 
+O2_Rescue_Unit05,"I've got a feeling that this is going
+to be our toughest mission yet.  I've also got a feeling that we'll face
+an even tougher mission afterward,
+and then again after that. ǴWhen will
+we get an easy mission?!", 
+O2_Rescue_Unit06,"""Train hard,"" they said. I didn't know
+they were being literal!", 
+O2_Rescue_Unit08,"We're on track!Ǵ
+We've trained hard!Ǵ
+Clickity-clack!Ǵ
+Get the train to the yard!", 
+O2_RailEnd_Painky01,"The tracks just stretch off into the
+vast, boring unknown here, Mario.
+No point in going this way.", 
+O2_CrashTrain_KNP01,"Ugh, we were waiting SO LONG for
+the track to be fixed, and now
+this happens?  We've got places to be!  *sigh*
+I guess we're not going
+anywhere unless we help...", 
+O2_CrashTrain_KNP02,"All right—everyone ready?
+Let's MOVE IT!", 
+O2_CrashTrain_KNP03,"Chugga...", 
+O2_CrashTrain_KNP04,"Chugga...", 
+O2_StopTrain_Painky01,"Hey, whoa, I mean... Let's not jump
+to conclusions, you know?  Whoever did this might have had
+a perfectly valid reason.  Like, maybe he just wanted to see
+what would happen if he smacked a
+rickety column with his hammer...", 
+O2_StopTrain_Painky02,"Oh, uh, certainly.
+We'll keep our eyes peeled, sir!  And I hope everything gets sorted
+out with these tracks soon.
+ǴRemember—deep breaths.", 
+O2_MagmaFall_Painky01,"Hey, look over there!", 
+O2_Gate_Painky01,"This is the kind of door you get when
+you're REALLY tired of solicitors.
+Looks like it's missing a spike.", 
+O2_MagmaFall_Painky02,"Yikes! Forget about the Paint
+Stars—what are we going to
+do about this lava? It's rising!", 
+O2_Gate_Painky02,"Do you think that spike the professor
+gave us would fit in that hole?
+Give it a try!", 
+O2_MagmaFall_Painky03,"I gotcha, bud!  I'm gonna pull you up.
+Ready...HEAVE!", 
+O2_Gate_Painky03,"That sharp spiny-looking spike that
+looked like the spiny spike of a Spiny
+really was a Spiny spike!  *sniff sniff*
+Come to papa, Paint Star!", 
+O2_MagmaFall_Painky04,"Well, that was a close call.  You'd be looking at the Game Over
+screen if it wasn't for me!", 
+O2_MagmaFall_Painky01_2,"Two Mini Paint Stars!
+One right above the other.  But...how are we going to get
+over there?", 
+O2_StopTrain_Rescue01,"What's done is done! The only thing
+we can do now is clean up the mess.  Blue Rescue Squad leader, at your
+service!  But as you probably know by now,
+the Rescue Squads are a bit...
+unorganized. I blame upper
+management.  If you see any of my 23 blue
+squaddies, please tell them to
+meet me here.", 
+O2_BossBattle_Painky01,"Listen here, you overgrown
+thumbtack—we're taking that
+Paint Star!  Get ready for a fresh coat of PAIN!", 
+O2_Rescue_Leader02,"Mario! Sir! Leader of the blue Rescue
+Squad here, at your service!  Um, if you happen to see any of the
+23 members of my team, would you
+kindly send them my way?  Over and out!", 
+O2_Rescue_Leader02_2,"Mario! Sir! Leader of the blue Rescue
+Squad here, at your service!  If you get a chance to visit the
+yellow district in Port Prisma...will
+you please tell any of my crew
+members there to return here?  Over and out!", 
+O2_Intro_Painky01,"Ooh, I smell a Paint Star!", 
+O2_Rescue_Leader03,"Roll call!", 
+O2_Intro_Painky02,"But I think it's behind that", "door.""  Yeesh! Someone really went
+overboard with the decorative
+spikes in here.", 
+O2_Rescue_Leader04,"Hold it! We're still missing a
+number of blue Rescue Toads.
+And that number is  %d.", 
+O2_Intro_Painky03,"I'd like to get a closer look, but as
+a rule I try to avoid giant, pointy
+spikes of death.", 
+O2_Rescue_Leader05,"That's 24 members of the blue
+Rescue Squad, present and at
+your service!", 
+O2_Rescue_Leader06,"OK, Toads. ĬYou know what to do. Ĭ
+You've trained for this. 
+To your positions!", 
+O2_Rescue_Leader07,"
+ Mission Accomplished!", 
+O2_StopTrain_Rescue01_2,"What's done is done! The only thing
+we can do now is clean up the mess.  Blue Rescue Squad leader, at your
+service!  But as you probably know by now,
+the Rescue Squads are a bit...
+unorganized. I blame upper
+management.  If you see any of my 23 blue
+squaddies in the yellow district of
+Port Prisma, please tell them to
+meet me here.", 
+O2_Damage_Painky01,"I don't know who thought that
+making the floor out of spikes
+was a good idea...", 
+O2_BossBattle2_BTGZ01,"You wanna go again, tough guys?
+Let's dance.", 
+O2_BossBattle_BTGZ01,"Well, if it ain't the delusional duo.  Who woulda thunk that some hairy-
+lipped senior citizen and a rusty
+trash can would make it this far?  Not me, boys.
+Not me.  Course, now that you're here, I'm
+afraid this is where your story ends.", 
+O2_BossBattle_BTGZ02,"Can it, can man!  This shiny, painty thing is property
+of the Spiny tribe of Kiwano Temple.
+It's not going anywhere.  Now, you gonna throw yourselves
+in the lava, or do I gotta do it for
+you?", 
+O2_BossBattle_BTGZ03,"It's no use running. You have to fight
+me to get to the Paint Star.
+Those are the rules!", 
+O2_BossBattle_BTGZ04,"What?!
+No fair!
+That's cheating!", 
+O2_StopTrain_EKNP01,"WHAT DO YOU WANT?!  Sorry, I'm just ticked off about
+this situation with the tracks.", 
+O2_StopTrain_EKNP02,"Anyway, I've got a passenger car
+back there full of hungry Toads
+who've been waiting for too long.", 
+O2_StopTrain_EKNP03,"If I get my hands on the numskull
+who destroyed my track...̠
+AGHHHHHHHHHH!  The kind of scum who would do
+this is beyond redemption!
+Don't you agree, Mario?", 
+O2_StopTrain_EKNP04,"Can you believe it? Some reckless
+numskull destroyed our tracks.
+Who does something like that?!", 

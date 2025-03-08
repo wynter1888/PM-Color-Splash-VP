@@ -1,0 +1,418 @@
+﻿Label,String,Translation
+OB_Platform_KNP06_3,"Thanks, Mario!", 
+OB_Sunset_Painky01,"Mario, please lend me your ear for
+just a moment.  Don't you ever wish that you could
+escape from the hardships of your
+everyday life?  Take us, for example. Out of nowhere
+and with no notice, we're ordered to
+attack the trainworks. Or attack
+the kitchen. No rhyme or reason!  Mario, every obstacle you've
+experienced has been the result of
+our hard and thankless work.  I hope the guys upstairs realize just
+how much we actually do. Maybe
+next time, I'll just give them a straw
+and tell them to get to work!", 
+OB_PassingTrain_KNP07,"Everything's just fine and dandy!  The carriages are hooked to the
+engine, and the Sunset Express is
+ready for departure!", 
+OB_Sunset_Painky02,"I sit here and look out of this window
+at the evening sky, worn out at the
+end of every day...Ĭwishing that I
+could go to some faraway place.  But I understand the reality. I'm in
+Bowser's army for life, so I'll just 
+have to give up on my dreams...  Mario, I'll probably be ordered to
+attack you someday. And it'll be
+Bad Guy versus Good Guy.
+There's no point in lying to ourselves.", 
+OB_PassingTrain_KNP08,"Everything's awful!  The VIP and his friends are wreaking
+absolute havoc! Just as we were
+about to leave, too!", 
+OB_EnemyCoach_RGBN01,"Whenever I see the exhaust funnel
+on an engine, I get a weird urge to
+stuff something into it.  But if I plugged it, the smoke would
+stop coming out and I'd get into
+trouble with Mr. Larry...", 
+OB_Signboard01,"← Tangerino Grill
+
+Starlight Cape →", 
+OB_Signboard02,"Starlight Cape", 
+OB_PassingTrain_KNP07_2,"I can't believe they hijacked the
+engine! After we'd coupled it up with
+the carriages and everything...", 
+OB_Threat_HEI01,"DON'T MOVE A MUSCLE!", 
+OB_Threat_HEI02,"If you move, we'll shoot!", 
+OB_Threat_HEI03,"YOU MOVED!", 
+OB_Battle_Boss_01,"Ahaaaaaaaaa!
+I love the smell of impending doom!  It was my henchmen who hijacked
+this train, and it'll be my henchmen
+who...Ĭkeep the train, uh...Ǵhijacked.", 
+OB_StationStaff3_KNP01,"The rockslide is right over there.
+Just follow the tracks.", 
+OB_Boss_Painky01,"Giant steak?
+So YOU'RE the VIP?!", 
+OB_Battle_Boss_02,"Well, well, that's one cheeky Toad!  Why can't he embrace his inner
+coward like all his friends?", 
+OB_StationStaff3_KNP02,"What kind of VIP...ĬSTEALS A TRAIN?!", 
+OB_Battle_Boss_03,"Agh! Stupid Toad!", 
+OB_StationStaff3_KNP03,"Mario, we owe you. Big-time.", 
+OB_Battle_Boss_04,"You stopped up my smokestack,
+ya little pest!", 
+OB_StationStaff3_KNP04,"That container was a water tower?!
+I bet the view from up there is nice.", 
+OB_PassingTrain_EKNP01,"Mario! It's terrible! The VIP hijacked
+the engine as soon as they heard
+you were heading to Starlight Cape!  But I think we can still catch him in
+my lightning-fast...Ǵhandcar!  We'll need you to start us off! Just
+hit the handle with your hammer.
+ĬHARD!", 
+OB_Battle_Boss_KNP_10,"Th-thanks, Mario. Please keep it up!", 
+OB_Battle_Boss_05,"If you love engines so much, then
+why don't you marry this smoke!", 
+OB_StationStaff3_KNP05,"I think I've seen a block with the
+same mark that's on this container...
+somewhere on the platform.", 
+OB_PassingTrain_EKNP02,"We'll need you to start us off! Just
+give the handle a hefty WHACK!", 
+OB_Battle_Boss_KNP_11,"I'm all crumpled and I can't move...
+Mario...", 
+OB_Battle_Boss_06,"Ahaaaaaaaaaaa! I'm over here!", 
+OB_PassingTrain_EKNP03,"Mario?! Are you really hoping to
+catch up with the train...on foot?
+Let's take the handcar!", 
+OB_Battle_Boss_07,"Ahaaaaaaaaaaaaa!", 
+OB_PassingTrain_EKNP04,"Mario! Where are you going?
+We have to go after the Sunset
+Express!", 
+OB_TrainStop_KNP01,"Mario!
+Your timing is impeccable...̠as always.
+Funny how that works.  This is the first stop for the Sunset
+Express bound for Starlight Cape!  The engine is about to arrive from
+the restaurant, but—", 
+OB_Log_HEI01,"HEY!", 
+OB_TrainStop_KNP02,"That's what I was about to tell you!  There's been a major rockslide a
+little way up the tracks!  But we're not strong enough to clear
+the tracks, so we've just been
+standing around waving our arms
+and blinking rapidly.  Toads aren't really known for being
+proactive.", 
+OB_Log_HEI02,"We weren't done rolling all the logs!", 
+OB_EnemyCoach_HEI01,"We shovel the coal, breathing in
+harmful toxins as we're covered in
+smoke and ash.  All while Mr. Larry just chills.Ĭ
+Typical manager.", 
+OB_TrainStop_KNP03,"The rockslide is just a little way up
+the tracks. You can't miss it!", 
+OB_Platform_KNP10,"The red Rescue Squad group can't
+set out unless that rockslide is gone.", 
+OB_Log_HEI03,"That's more like it!", 
+OB_RedRescue01_01,"Mario! Hi-hi-hi-hi-Ǵhijacked!Ĭ The
+Sunset Express has been hijacked!  Rescue Squad members are still inside
+the train. If you find them, please
+save them!", 
+OB_EnemyCoach_HEI02,"Mr. Larry has it good—taking a trip
+on a luxury train and getting to eat
+delicious hand-hammered meats?  I hope I'm that successful one day!", 
+OB_RedRescue34_01,"The engine is just ahead, but we
+can't get to it from here.  You might need to walk along the
+roof to get on top of the coal car.", 
+OB_EnemyCoach_HEI03,"Thanks for listening, Mario. I'm sure
+we'll meet again...Ĭmaybe as enemies.", 
+OB_RedRescue34_02,"Sorry! I forgot to introduce myself!", 
+OB_PassingTrain_KNP10_2,"I don't think I've run that hard since
+our half-mushroomathon!", 
+OB_Platform_Passenger03,"The whole squad is going on a staff
+holiday. You've got to relax from time
+to time. Don't forget that!", 
+OB_VipDoorR_Painky01,"Must be locked from the inside...", 
+OB_Platform_Passenger04,"Looks as if there's trouble afoot, but
+it's our day off today.  Guess it's all up to you, Mario!", 
+OB_BackStation_Painky01,"Why are we chasing this train on
+foot? Let's hop on the handcar!", 
+OB_Platform_Passenger05,"Headed to Starlight Cape to look for
+a Paint Star? Good luck on your
+quest, Mario!", 
+OB_Platform_Passenger06,"The Sunset Express departs at dusk.
+How romantic is that?", 
+OB_PassingTrain_Penky01,"Let's get back to the Sunset Express.  Next stop: Starlight Cape!", 
+OB_PassingTrain_Penky02,"Were you planning on walking the
+rest of the way?  Come on—let's go back to the
+Sunset Express!", 
+OB_PassingTrain_Penky03,"Wait, Mario! We have to get that
+rock out of the way.", 
+OB_Trunk_Painky01,"This trunk is locked.", 
+OB_RedRescue40_01,"He was really heavy!", 
+OB_Shootingstar_Painky01_1,"No wonder it's called Starlight Cape.", 
+OB_Boss_LAR01,"Took you long enough, pal...  I'm almost done digesting that giant
+steak I ate.  *BELCH*", 
+OB_Boss_EKNP01,"The train is about to pull into
+Starlight Cape, our final destination.
+Please take all your personal
+belongings with you.", 
+OB_TrainStop_Penky01,"Don't listen to him!
+Panicking never solves anything!  We need to clear the tracks. If the
+Sunset Express doesn't run, we can't
+get to Starlight Cape.  If we can't get to Starlight Cape,
+we'll never find the Big Paint Star!  If we don't find the Big Paint Star...̠
+ xWE'RE ALL DOOMED! d    EVERYBODY, PANIC! d  Whoooooooo...̠ Sorry about that.", 
+OB_Platform_KNP07_1,"I love trains. The very sight of a train
+numbs the crushing emptiness I've
+felt since I was but a wee spore.", 
+OB_Boss_LAR02,"You grill a mean steak, Mario.  You should have been a chef! 
+At least that way, you would've had
+a nice long culinary existence.  But instead, I'm gonna cook you up
+a tuna-fist sandwich before we get
+to Starlight Cape!  Lord Bowser is expecting the
+Big Paint Star, and I have no
+intention of disappointing him.  Have you ever seen his disappointed
+face? It's heartbreaking!  Enough small talk.
+Let's get this over with.", 
+OB_Arrival_EKNP00,"We've arrived at Starlight Cape!
+You must be tired after the long trip!", 
+OB_Platform_KNP07_2,"That's right! I used the water tower
+to get up to that ledge!", 
+OB_RedRescue36_01,"It's hard not to move a single muscle.
+What if your eyes get dry?", 
+OB_Boss_LAR03,"The Sunset Express and the Big Paint
+Star both belong to me! But if you're
+really itching to see that Game Over
+screen, come at me!", 
+OB_Arrival_EKNP01,"The engine is now in working order!
+I'm so glad! Let's take another trip
+together sometime, OK?", 
+OB_Platform_KNP07_3,"It may be the last journey for that
+engine, but it can still go pretty fast!
+Seems to still be in working order.", 
+OB_RedRescue36_02,"We are red Rescue Squad members
+36 to 39!", 
+OB_Boss_LAR04,"WHAT...?!
+No! This can't be...  I... I lost!  I can't ever face Lord Bowser again!
+I'll have to go on the lam.̠
+No, maybe I'll go on the lamb...  Lamb chops sound pretty good righ—", 
+OB_Arrival_EKNP02,"The engine is running like a dream
+today! No reckless speeding!", 
+OB_Platform_KNP07_4,"I'm going to follow this train around
+for the remainder of my miserable
+life. I'm so happy!", 
+OB_Arrival_EKNP03,"Whew, we made it!
+It got a little dicey there,
+but I had fun!  So, there should be a Big Paint Star
+around here somewhere... Let's see
+what we can find!", 
+OB_Platform_KNP07_5,"The best spot to watch trains
+around here is that ledge up there.
+It's too high for me to reach, though.  Which is weird, because I've gotten
+up there before, but I can't for the
+life of me remember how I did it!", 
+OB_Battle_Boss_Sample,"Was that a Replica just now?
+Tacky, Mario. I expected more.", 
+OB_BOSS2nd_Penky,"Mario, do you have anything that
+could keep smoke from coming out of
+a smokestack?", 
+OB_Platform_KNP05_1,"Mario, I know you want to hit this
+Unfurl Block, but please clear the
+rockslide first.", 
+OB_Tram_EKNP01,"We caught up with the train! Please
+hurry and stop that VIP, Mario!", 
+OB_Platform_KNP05_2,"HOLD IT!
+I know you want to smash my toes,
+but go clear the rockslide first!", 
+OB_PassingTrain_Painky01,"It's no good.
+I don't think it can hear us.
+Maybe it's sleeping.  Ooh! ǴIf we could find a way to make
+my voice louder, I bet we could
+startle it awake!", 
+OB_Tram_EKNP02,"Please hurry and stop that VIP!", 
+OB_RedRescue33_04c,"I think you'll have to sneak up on it.", 
+OB_Platform_KNP05_3,"I hear you're running around all over
+trying to find a way to wake the
+sleeping rock.  Maybe this Unfurl Block will help!", 
+OB_PassingTrain_Painky02,"Whoa, that was close!", 
+OB_Tram_EKNP03,"If you ever want to go back to the
+station, just come let me know.", 
+OB_Platform_KNP05_4,"First a rockslide, and now the train
+has been hijacked? It's just one
+disaster after another!", 
+OB_PassingTrain_KNP11,"Mario! Look at this humongous rock!  I've been firmly asking it to move out
+of the way, but it won't listen to me.", 
+OB_PassingTrain_Painky03,"Maybe you just need to be a little
+more polite...", 
+OB_Tram_EKNP04,"Go back to the station?  Ĭ
+yesno", 
+OB_Platform_KNP05_5,"Please travel with us again on the
+Sunset Express!", 
+OB_PassingTrain_KNP12,"Wow! Your incoherent screaming
+woke that sleepyhead right up!
+Thanks a bunch!  The Sunset Express can go on its
+way now. I'll go tell the others!", 
+OB_PassingTrain_KNP08_2,"I never thought the VIP could turn
+out to be so rude!", 
+OB_Tram_EKNP05,"Roger that! Back to the station!", 
+OB_Stop_Painky01,"It doesn't seem like there's anything
+if we keep walking this way.", 
+OB_PassingTrain_Painky05,"I can't even rouse it by shouting as
+loud as I can... If only I could make
+my voice even louder!", 
+OB_PassingTrain_KNP13,"The fence was broken, so I thought
+I'd fix it up.", 
+OB_Tram_EKNP06,"Well, OK, I guess we won't go back to
+the station!", 
+OB_Sunset_HEI01,"You've come all this way. Won't you
+sit down and rest for a while?   Ĭ
+yesno", 
+OB_Sunset_HEI02,"Oh come now, no need to stand on
+ceremony. Won't you sit down and
+rest?   Ĭ
+yesno", 
+OB_Battle_Boss_KNP_01,"Wait!", 
+OB_Battle_Boss_KNP_03,"This engine isn't yours to simply do
+weird stuff with as you please!", 
+OB_EnemyCoach_NOK01,"One day I'll settle down—maybe near
+a pond—have a couple of kids, and
+kiss this fool's life good-bye.", 
+OB_Battle_Boss_KNP_04,"Owwwww...
+Must...reach...the cabin...", 
+OB_Shootingstar_Painky01,"Wow! Look at that, Mario! The
+star-filled sky is just gorgeous!", 
+OB_RedRescue42_01,"Seems like all these people have
+their own troubles, you know?  Maybe you should take some time to
+chat with them? Bad guys are
+people too.", 
+OB_Battle_Boss_KNP_06,"I'm going to the cabin to stop
+that Shy Guy! Cover me!", 
+OB_BackStation_EKNP01,"Hit the handcar's handle with
+your hammer when you want to go!", 
+OB_RedRescue42_02,"Later, nerds!", 
+OB_Battle_Boss_KNP_07,"I-I'm not afraid!  Mario, please continue to cover me.", 
+OB_Shootingstar_Painky03,"Ooh! A shooting star!", 
+OB_Battle_Boss_KNP_08,"Just...Ĭone...Ĭstep farther!
+I'm almost at the cabin!", 
+OB_Shootingstar_Painky04,"Did you make a wish, Mario?  You probably wished for Princess
+Peach to be safe, am I right?", 
+OB_Platform_KNP03,"This entire car is reserved for the
+red Rescue Squad.  The sooner we clear out that
+rockslide, the sooner they can take
+their well-deserved vacation.", 
+OB_Battle_Boss_KNP_09,"Mario, I did it!
+I chased the Shy Guy out of
+the cabin!  Now go give Larry the ol' what for!", 
+OB_Shootingstar_Painky05,"My wish was that we'd get all six
+Big Paint Stars back, of course!", 
+OB_BackStation_EKNP04,"Here we are! I'll wait for you here.  Hit the handcar's handle with
+your hammer when you want to go!", 
+OB_RedRescue02_01,"Careful, Mario! Don't let the Shy
+Guys see you!", 
+OB_RedRescue35_01,"Wait! Don't peel me off yet! Ĭ
+First, allow me to introduce myself.", 
+OB_Shootingstar_Painky06,"  There it is! The Big Paint Star!
+My wish! My wish is coming true!", 
+OB_RedRescue35_02,"All right! You can peel me off now.", 
+OB_Shootingstar_Painky07,"I bet that the shooting star heard
+my wish!  That means that your wish will also
+come true, Mario!  Let's grab that Big Paint Star and
+keep trucking on together!", 
+OB_StationStaff2_KNP01,"The Sunset Express is pretty cool!  I hear a big shooting star came down
+at Starlight Cape, right where the
+train is heading.  The VIP who boarded at the
+Tangerino Grill already has his eye
+on it, though.", 
+OB_Battle_Boss_10,"What are you all crumpled up for?!
+Get yourself together!", 
+OB_Platform_KNP07,"We can't depart until that rockslide
+is clear.", 
+OB_StationStaff2_KNP02,"When I told the VIP that Mario was
+here, his blue hair stood on end!  He was like,", "I need to get to
+Starlight Cape before Mario does!""", 
+OB_Battle_Boss_11,"I haven't lost yet!", 
+OB_StationStaff2_KNP03,"I'm so glad our beloved Sunset
+Express is safe!", 
+OB_Battle_Boss_12,"What are you doing?!
+Open your eyes!", 
+BB_RedRescue32_02,"We're red Rescue Squad members
+3 to 32!", 
+OB_Conductor_KNP01,"The red Rescue Squad is on a well-
+deserved vacation, but I got a
+feeling that won't last long...", 
+OB_Battle_Boss_15,"Crush that dirty Toad!", 
+OB_PassingTrain_KNP11_2,"I've been asking it to move, but it
+seems to be sleeping.", 
+OB_Battle_Boss_16,"Minions! Crush them!", 
+OB_RedRescue33_01,"Thank you so much! Even us heroic
+Rescue Toads get scared from
+time to time!", 
+OB_Battle_Boss_17,"Amateurs...", 
+OB_RedRescue33_02,"On the f-floor! There was a...Ĭthing!", 
+OB_Battle_Boss_18,"Well, this was fun, but I'm bored.
+Thanks for playing, loser!", 
+OB_RedRescue33_03,"Eek!", 
+OB_PassingTrain_Painky04_1,"Ahem. ĬExcuse me, sir? Ĭ
+Would you mind moving aside?", 
+OB_PassingTrain_Painky04_2,"  MOVE IT, PINHEAD!", 
+OB_RedRescue41_01,"...!", 
+OB_PassingTrain_KNP,"Mariooooo!", 
+OB_RedRescue41_02,"...pa...was...ket!", 
+OB_RedRescue41_03,"...paper goes...wastepa...sket!", 
+OB_Arrival_KNP01,"It's a good little engine. I'm sure the
+passengers of the Sunset Express
+will be glad to hear it's still running.", 
+OB_StationStaff_KNP01,"Please get the Sunset Express back!", 
+OB_PassingTrain_Painky02_1,"Mario, did you see that suspicious
+character on the roof?", 
+OB_RedRescue41_04,"Scrap...paper goes in the...
+wastepaper basket!  I got crumpled up into a ball and was
+about to be thrown away. Thanks!", 
+OB_VipDoorL_Painky01,"Huh, the door is jammed.", 
+OB_Arrival_KNP02,"You're the face of the Sunset
+Express now, Mario.", 
+OB_StationStaff_KNP02,"The Sunset Express is back to normal
+and running in perfect form!", 
+OB_RedRescue41_05,"I'll go in my own time, so please
+don't push me!", 
+OB_Departure_KNP01,"Ride the Sunset Express?   Ĭ
+yesno", 
+OB_Terminal_KNP01,"The Sunset Express really does look
+beautiful when lit by the setting sun.", 
+OB_Departure_KNP02,"The Sunset Express is leaving the
+station! All aboard!", 
+OB_TrainStop_EKNP01_2,"A giant rockslide?!̠
+Panic, everyone! PANIC!", 
+OB_Terminal_KNP02,"What an engine!
+You can just feel its power.", 
+OB_Departure_KNP03,"Let me know if you want to hop on.", 
+OB_EnemyCoach_KUR01,"Locomotives belch out so much
+smoke! It makes it hard to see.
+Not to mention the environmental
+impact!  If you were to elect me, Goomba, as
+supreme leader, I would be more
+environmentally friendly than your
+current supreme leader. Just sayin'.", 
+OB_Terminal_KNP03,"This is Starlight Cape, where the
+starry nighttime sky is legendary.", 
+OB_Terminal_KNP04,"It's so close, I can touch it!̠
+Ohohohohohohoho...̠
+*sob*", 
+OB_Terminal_KNP05,"This train was amazing!", 
+OB_TrainStop_EKNP01,"Hey, what's going on here?!
+We finally show up, and the light is
+red!", 
+OB_Platform_KNP06_1,"Stay on these tracks, and you'll hit
+the rockslide. Can't miss it.", 
+OB_RedRescue32_01,"FINALLY! WE'RE FREE!  It was really cramped with 30 of us
+in there...̠even if we were perfectly
+collated!", 
+OB_Terminal_KNP06,"You're right. It's a waste for an
+engine this great to be retired!  Let's keep it in commission! The
+Sunset Express deserves nothing less!", 
+OB_TrainStop_EKNP02,"Once the rockslide is clear, we can
+pick up the carriages and head on
+to Starlight Cape.  I feel terrible for our passengers...
+especially our VIP who's been with
+us since the restaurant.  Please help us clear the rockslide as
+quickly as possible!", 
+OB_Platform_KNP06_2,"Looks tough. Good luck, Mario!", 
+OB_Terminal_KNP07,"Thanks to the skilled hands of
+the guys over at Toad Trainworks, 
+it runs like new again.  In fact, it runs with such incredible 
+speed, it's hard to think that this is
+its last run.  I couldn't think of retiring the train
+when it runs like this. It's still got
+a lifetime of journeys left in it!", 

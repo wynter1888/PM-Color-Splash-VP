@@ -1,0 +1,271 @@
+﻿Label,String,Translation
+VB_BBQ_P2KNP02,"Ahoy! Were you drawn here by
+this oh-so-delicious aroma?  Well, keep yer boots on—it'll be
+ready in a minute!", 
+VB_BBQ_P2KNP03,"How dare you wring out my grill!
+It was almost medium rare, too...  You done messed up now, boy!
+There's no fury like hungry-captain
+fury!  I'm gonna follow you around all
+passive-aggressively until you're
+mildly annoyed!", 
+VB_BBQ_P2KNP04,"There's no fury like hungry-captain
+fury! You annoyed yet, boy?!", 
+VB_BBQ_P2KNP05,"I'd been sittin' there savoring that
+sweet smoky scent for hours...̠
+and you had to go and ruin it!  So I'm gonna stick to you like a bad
+rash until you make it up to
+me somehow.", 
+VB_BossRoomR_Painky01,"No more smoke!", 
+VB_AfterClear_P2KNP01,"Look, bub. If I'm going to teach you
+how to be a legendary captain,
+you're going to have to drop the
+terrible pirate accent.", 
+VB_Battle_Boss_00,"Now, since you did come all the
+way to Fortune Island, I guess you
+must really like money, honey...  Teehee! Get ready for payday!", 
+VB_Land_PKNP00,"After all these years...
+Fortune Island!  I can feel me goose bumps
+gettin' goose bumps!  And would you look at that giant
+skull? Yer not scarin' me off!  After that whirlpool and all the
+darkness, this may be the LEAST
+scary island we've visited.̠
+Hehhh...", 
+VB_Land_PKNP01,"End of the line...
+Fortune Island...", 
+VB_Land_PKNP02,"Well...I suppose it be time to
+disembarrrrrk...ʼ
+ FYo ho ho... d", 
+VB_Land_PKNP03,"Yar har har! Yer right, mates!  What kind of captain gets spooked
+by a puny little 200-foot-tall skull?Ǵ
+Not this one!  Onward, crew! Let's unearth the
+treasure of Fortune Island!", 
+VB_AfterClear_PKNP01,"But...̠you're the reason I started
+talking like that in the first place!
+I'm a city boy from Port Prisma!", 
+VB_Land_PKNP04,"Who's with me?", 
+VB_Land_PKNP05,"  
+ YO HO HO!", 
+VB_FindPipe_Painky01,"Aha, one of those weird pipes!
+Fortune Island must have a parallel
+world, too.", 
+VB_Smoke_Painky01,"Mario! I can smell the Big Paint Star
+in this room!  I'm going to go take a look...", 
+VB_ComeBack_PKNP01,"The yellow spots...Ǵthe yellow vest...Ǵ
+the oversized pirate hat...Ǵ
+the jumbo cutlass...  You're the... ǴYou're the...", 
+VB_Battle_Boss_20_2,"Now, get ready for something more
+valuable than coins.  Let's see one last big smile before
+I end this. Say cheese!", 
+VB_ComeBack_PKNP02,"Let me get this straight:
+ye lost yer memory?
+Ye can't remember nothin' at all?", 
+VB_Smoke_Painky03,"  Whaaa!
+What's this?!", 
+VB_Smoke_Painky04,"  Mario!
+Come quickly!", 
+VB_Smoke_Painky06,"*cough* *cough*
+So much smoke...
+I can hardly breathe!  But I think I saw the Paint Star off
+in the distance through the smoke.  How can we clear all the smoke out?", 
+VB_Smoke_Painky07,"It's too smoky to go in! Let's see if
+we can find the source of the smoke.", 
+VB_Battle_Boss_20,"All those coins, and you're not
+even smiling!  Well...I'll smile big enough for the
+both of us. Take my picture, honey!", 
+VB_Battle_Boss_21,"Here it comes!
+Wendy's gorgeous golden ring!
+Protect your neck!", 
+VB_Battle_Boss_22,"My golden ring has you in its
+embrace. Your face is priceless!", 
+VB_Battle_Boss_24,"I'm tired of looking at your face, so
+how about I break it? Sound good?", 
+VB_Lader_PKNP01_2,"Get a move on, mate!
+We'll see if we can find another
+way in. Good luck!", 
+VB_FindTreasure_Painky01,"Whoa! It's full of treasure!
+Could this be the fortune of...Ĭwell,
+of Fortune Island?!", 
+VB_BossRoom_Wendy01,"*yawwwwwwwwwwn*
+Well, if it isn't the man of the hour...  You're late. I've been waiting for you
+FOREVER, mister! I was beginning to
+think you'd stood me up.  I thought to myself,", "Wendy, is
+Mario EVER going to show up?""
+And then I dozed off.  Anyway, Mr. Bowser sent me to stop
+you from getting your grubby little
+mitts on this Big Paint Star.  And now that I've gotten some
+peaceful rest, it's time to help you
+rest in peace!", 
+VB_HappyEnd_Painky01,"We did it! Now we can take that
+Big Paint Star!  We got what we came for, but the
+captain must be horribly depressed
+about the lack of treasure here...", 
+VB_BeforeClear_PKNP01,"Aye... I'll look through the captain's
+journal to see if I can jog his
+memory.  You an' Huey go find that Paint Star!", 
+VB_BossRoom_Wendy02,"Try as you might—you're not getting
+this Big Paint Star from me!", 
+VB_HappyEnd_Painky02,"Awwwww...
+Now let's wake up our
+treasure, the Big Paint Star!", 
+VB_Stay_PKNP02_2,"Good on ye, mates. We'll,Ǵ uh,Ǵ guard
+this small patch of grass while yer
+gone.", 
+VB_BossRoom_Wendy03,"Oh, FINE. You beat me. I get it.  I can't believe I came all the way
+out to this stupid island...waited in
+this cramped shell for days on end...
+only to lose!  Well, at least I lost to you.
+Don't tell Mr. Bowser I said this, but
+you're kind of cute, Mario.  Teehee...", 
+VB_HappyEnd_Painky03,"Does that mean you remember what
+happened,Ǵ um,Ǵ other captain?", 
+VB_Stay_PKNP02_3,"Be careful in that creepy skull,
+mates.", 
+VB_Land_KNP01_1,"What's that, Captain? Your voice
+trailed off at the end there...", 
+VB_Battle_Boss_42,"WHAT?!
+Why can't I beat you?!", 
+VB_Land_KNP01_2,"Captain, you can't lose your nerve
+now...not after all we've done!  We reclaimed our ship from rival
+marauders, we painted the sea
+itself, we solved the puzzles in
+the journal...  Well, I guess Mario and Huey did all
+of that for us...Ĭ", 
+VB_Land_KNP01_3,"We came here to find our fortune,
+and we're almost there!  So you can't give up now. To us,
+you're already the stuff of legend!", 
+VB_Stay_PKNP01,"Clean out yer ears and listen up!
+That entrance be full of water,
+so we need to find another way.", 
+VB_Stay_PKNP02,"Aye... Perhaps ye can use that
+yellow rock to enter the giant,
+terrifying skull.  I mean, we'd do it ourselves, but...Ǵ
+we can't jump like ye. Or use Battle
+Cards or paint hammers, either.  So...̠yar.
+Check it out for us?
+Please?", 
+VB_Stay_PKNP03,"AHHHHHH! ̠
+I mean, ARRRRRRRGH.̠
+How did ye get out here?!  Ye went in there...and ye came
+out here? So there be multiple
+entrances!", 
+VB_HappyEnd_PKNP02,"Yarr! So there WAS treasure on
+this island. Which means...we
+be too late to be scavengin' it.", 
+VB_Stay_PKNP04,"In that case, it probably be safe for
+us to explore a little bit.  I set up a...̠uh...̠ladder inside for
+easy access. Feel free to use it.", 
+VB_Letter_Painky01,"Snifit or Whiffit?! Ĭ
+REALLY?  The captain won't be happy when
+he hears that the fabled treasure
+of Fortune Island has been claimed
+by some cheesy game show...  I have a feeling we're going to need
+that treasure from Snifit or Whiffit.
+Did you ever get the prize for
+clearing the bonus round?", 
+VB_HappyEnd_PKNP03,"So the treasure of Fortune Island be
+no more. I was too late.  All those years of searchin'...", 
+VB_Stay_PKNP05,"There be a", "ladder"" in there.
+Use it as often as ye like.", 
+VB_HappyEnd_PKNP04,"Blimey! You'll teach me yer
+legendary ways? That be the best
+treasure of all! YA HA HARRRR!", 
+VB_BossBattle_SampleStop_01,"Teehee! That little Instant Camera
+Replica is like a baby toy!", 
+VB_Stay_Painky00,"Anything for you, Captain!  Besides, I'm getting a whiff of that
+sweet, sweet Big Paint Star smell!
+Let's go, Mario.", 
+VB_BBQSmoke_Painky01,"Hey, look at that!", 
+VB_BBQSmoke_Painky02,"Someone over there is MAKING all
+of that smoke! Who IS that?", 
+VB_Lader_PKNP01,"Aye, just as I thought...
+This place be burstin' with
+creepy secret stuff!  Don't look like ye can jump back up
+here, so be careful.  We'll see if we can find another
+way in while you're doin' yer thing.", 
+VB_ComeBack_Painky01,"Well, uh...we still got that Big Paint 
+Star to find, so...Ĭyou two take all the
+time you need.  Hope your memories come back!", 
+VB_BossRoom_Painky01,"All right, the smoke is gone!", 
+VB_SmokeR_Painky01,"Mario! I smell something delicious
+coming from inside that cave!  I'm going to go take a closer look...", 
+VB_BossRoom_Painky02,"Let's wake up the Big Paint Star!", 
+VB_SmokeR_Painky02,"  Whaaa!
+Again?!", 
+VB_BossRoom_Painky03,"Uh...̠ What̠ was̠ that?", 
+VB_SmokeR_Painky03,"It's just like that smoky room
+in the normal world.  I can see...Ĭsomething...Ĭin there.
+But unless we do something about
+that smoke, we won't be able to
+get it!", 
+VB_SmokeR_Painky04,"It's too smoky to go in! Let's see if
+we can find the source of the smoke.", 
+VB_SmokeR_Painky05,"  Mario!!!
+Come quickly!!!", 
+VB_BeforeClear_P2KNP01,"Meeting another Toad after such a
+long time is a breath o' fresh air.  So while I haven't FORGOTTEN about
+the grill incident, I'll let it go fer now.", 
+VB_BossBattle_2nd_01,"Maybe we can find a decoy that
+looks like you so we can escape her
+ring attack...", 
+VB_BBQ_Painky01,"Look, we're sorry about your food.
+It's just that squeezing Things
+usually helps us in our adventure.
+It's a reflex at this point.  Plus, I mean, it smelled REALLY
+good...", 
+VB_BBQ_Painky02,"This Toad is really persistent...
+Don't think we're gonna be able to
+lose him.", 
+VB_BBQ_P2KNP02_2,"I said keep yer boots on!
+It'll be done when it's done!", 
+VB_HappyEnd_P2KNP01,"Yes...about that.  As I discovered long ago, the
+treasure of Fortune Island has
+already been claimed.", 
+VB_NoEntrance_PKNP01,"Marrrrrrrio!", 
+VB_HappyEnd_P2KNP02,"Yeah...ĬI remember everything.  I crossed the Lost Sea...and the
+Violet Isles. ĬI came alone to this
+island.   Sure, I opened up a few treasure
+chests here and there, but most of
+'em were empty.", 
+VB_NoEntrance_PKNP02,"I faced me fears head-on and
+marched right up to this skull-shaped
+boulder. ̠But there's a small problem.  See, there definitely be an opening
+over there, but we can't get to it!  All the guts in the world don't mean
+squat when paper meets water!", 
+VB_HappyEnd_P2KNP03,"Aye, but the only REAL treasure
+in my view was that lovely grill.  I conked my noggin pretty bad
+while explorin' that funny parallel
+world. Totally knocked myself out.  And when I came to, I was there in
+the parallel world, just fryin' up
+some fish.  Anyway, the fish was pretty good.
+Nothing like a li'l amnesia to work
+up the ol' appetite, lemme tell ya!", 
+VB_NoEntrance_PKNP03,"Clean out yer ears and listen up.
+We need to find another entrance.", 
+VB_ComeBack_P2KNP01,"Is that another Toad over there?
+It's been so long since I've seen
+another Toad, I almost forgot what
+we look like.", 
+VB_HappyEnd_P2KNP04,"Don't get down in the mouth now!", 
+VB_ComeBack_P2KNP02,"That's right, bub. I have absolutely
+no idea why I'm on this here island.  By the way, I really like your garb,
+but...it looks a little familiar.
+Are you copying me, mate?", 
+VB_HappyEnd_P2KNP05,"The sea is wide! The world is wide!
+There are incredible, undiscovered
+treasures waiting to be plundered!  Go get yer hands salty in the sea,
+mate. You'll make a fine legend yet.  C'mon. I'll show ya.", 
+VB_ComeBack_P2KNP03,"Oi, Toad! Come over here!
+I don't have any barbecue to offer
+you on account o' this plumber guy
+here, but...", 
+VB_Volcano_Painky01,"Hey, look at that!", 
+VB_Volcano_Painky02,"Smoke is pouring out of that
+adorable little volcano!  It must be rising up into the room
+with the Big Paint Star.", 
+VB_Volcano_Painky03,"Now we know where the smoke is 
+coming from, but how do we stop it?", 
+VB_ComeBack_PKNP01_2,"  
+ You're the legendary captain!", 
+VB_Stop_Painky01,"Hang on there! I think you've got
+some unfinished business here with
+the Big Paint Star, no?", 

@@ -1,0 +1,673 @@
+﻿Label,String,Translation
+O4_FirstVisit_HKNP_01,"Bonjour, monsieur.  Do you 'ave a réservation at zis
+restaurant?  It may look like we 'ave space,
+but we are expecting a large party
+who MADE A RÉSERVATION.  I'm sure zey will be here any moment
+now... I heard their train was stopped
+at Kiwano Temple.", 
+O4_KitchenEvt03_CookKNP03_01,"Wonder how many more years until
+I get to put a pizza in the oven...", 
+O4_HallEvt02_HKNP_02,"Ze VIP customer is waiting
+not-so-patiently in zis room...", 
+O4_HallEvt03_KNP07_01,"I'm gonna come back here again
+with a bunch of friends.", 
+O4_KitchenEvt03_CKNP_01,"I really appreciate your help today,
+Mario.  Why don't you head to the dining
+room and spy on the customers'
+reactions?", 
+O4_KitchenEvt08_CookKNP03_01,"Now that I've got the recipe for the
+Mamma Mia Pizza down, I'm gonna
+add it to my repertoire! ", 
+O4_HallEvt02_HKNP_03,"You are ze only one who has even
+ze slightest chance of satisfying
+our VIP customer, monsieur!", 
+O4_KitchenEvt04_PeddlerKNP_00,"I sell onions on the side! And I'm also
+running a test campaign.  Take this for free. Don't worry about
+failing; it's OK as long as you've got
+coins! Good luck!", 
+O4_KitchenEvt05_CookKNP01_01,"Ready to spread some pizza dough?   Ĭ
+yesno", 
+O4_KitchenEvt04_PeddlerKNP_01,"Don't worry, Mario! I have the onions
+you need! It's 10 coins per onion! *  Ĭ Cafe_BuySelect01", 
+O4_KitchenEvt08_PeddlerKNP_01,"This restaurant gets all their
+ingredients wholesale from me!  But just between you and me, I'm
+still making a killing!", 
+O4_KitchenEvt05_CookKNP01_02,"This pizza dough is perfect.
+Nice work.", 
+O4_KitchenEvt04_PeddlerKNP_02,"Please come back some other time.", 
+O4_KitchenEvt05_CookKNP01_03,"The dough looks good!
+So thin, so perfect! ", 
+O4_KitchenEvt04_PeddlerKNP_03,"Thank you very much!", 
+O4_HallEvt02_KNP12_01,"Cooking...Ĭis like life.Ĭ If you make a
+mistake during your preparations,
+there's no going back to fix it.  Well, maybe that's not the most
+uplifting perspective to take. How
+about this...  I'm sure that if you continue to
+challenge yourself again and again,
+you will grill some delicious meat in
+the future!  You'll still have to pay for all the
+meat, though... ĬNo such thing as
+free meat.", 
+O4_VipRoomEvt02_HKNP_02,"Ze VIP was très satisfied when
+he finished eating ze food. He is
+transferring to ze Sunset Express
+after zis.  Ze big star is waiting for you up
+ahead, but it looks like zat little
+star is ready for you right now!", 
+O4_KitchenEvt05_CookKNP01_04,"You failed at spreading out the
+dough! Press  to use your hammer
+with the same nuanced timing you
+would use in battle!", 
+O4_KitchenEvt04_PeddlerKNP_04,"You need more coins than that!", 
+O4_HallEvt02_CKNP_10,"Our VIP customer is picky about
+flavor. ĬHe's also picky about texture.
+ĬAnd presentation. ĬAnd smell.Ĭ
+But I'm sure you'll be fine!", 
+O4_HallEvt02_PeddlerKNP_10,"Salt and Pepper is 150 coins. *  Ĭ Cafe_BuySelect01", 
+O4_BlueRescue23_01,"That was delicious! This restaurant
+is usually packed. I wonder why it's
+so empty tonight...", 
+O4_KitchenEvt05_CookKNP01_05,"We ran out of pizza dough. ĬI never
+thought I'd see the day...", 
+O4_KitchenEvt04_PeddlerKNP_05,"Mario, I've got some onions that are
+better than the normal ones! 8  Ĭ.O4_KitchenEvt04_Item_01", 
+O4_VipRoomEvt01_VIP_00,"...Crumpled body? Two to four weeks
+to recover? Well, get someone else
+to make the food!  I swear I can hear Toads eating
+pizza out there. Who made THAT?
+And why can't they cook for ME?!", 
+O4_HallEvt03_KNP02_01,"The pizza was good, but I really
+wanted to try the steak!", 
+O4_HallEvt02_PeddlerKNP_11,"The Charcoal Grill is 300 coins. *  Ĭ Cafe_BuySelect01", 
+O4_KitchenEvt01_CookKNP06_01,"This kitchen! It's the very definition
+of a hostile work environment!  I can't practice my craft amid
+such chaos!  I don't know who you are, but please
+do something about these Shy Guys!
+I beg you!", 
+O4_KitchenEvt05_CookKNP01_06,"Ready to have another go at
+spreading out the pizza dough?   Ĭ
+yesno", 
+O4_KitchenEvt04_PeddlerKNP_06,"Would you like to buy anything else? 8  Ĭ.O4_KitchenEvt04_Item_01", 
+O4_VipRoomEvt01_VIP_01,"Are you the guy who made that
+pizza I can hear everyone eating?  You are, aren't you! Well, why are
+you wasting your time here? Get
+in the kitchen, and make me
+something delicious!  Here's a little something to help
+you get started. Heh...", 
+O4_HallEvt02_PeddlerKNP_12,"Lemon is 200 coins. *  Ĭ Cafe_BuySelect01", 
+O4_KitchenEvt01_CookKNP06_02,"Please dispose of the Shy Guys!
+I beg you!", 
+O4_KitchenEvt05_CookKNP01_07,"Press  to hit the dough with your
+hammer. You'll have five chances to
+get an EXCELLENT hit.", 
+O4_KitchenEvt04_PeddlerKNP_07,"Come back again soon.", 
+O4_VipRoomEvt01_VIP_02,"Bon appetit!", 
+O4_VipRoomEvt02_VIP_01,"Oooh!", 
+O4_KitchenEvt02_CKNP_01_2,"I am beaten, but my spirit still flows
+like a fine passion reduction!  On the downside, I can't feel most
+of my body right now...  I cannot cook until I'm fully healed.
+However, I see a tasty spring in your
+gait...  I see it now! You will take my place
+as the head chef! A delectable
+future lies ahead!   Ĭ
+yesno", 
+O4_KitchenEvt05_CookKNP01_08,"Press  to hit the dough with your
+hammer. You'll have five chances to
+get a GREAT hit or better.", 
+O4_KitchenEvt04_PeddlerKNP_08,"I've got some onions that are A LOT
+better than the normal ones!  8  Ĭ.O4_KitchenEvt04_Item_02", 
+O4_VipRoomEvt02_VIP_02,"  Th-th-this is the best steak I've
+ever eaten!", 
+O4_HallEvt02_PeddlerKNP_14,"You've got too many cards. ", 
+O4_KitchenEvt01_CookKNP06_04,"The Shy Guys are gone!
+Thanks, stranger!", 
+O4_KitchenEvt05_CookKNP01_09,"Press  to hit the dough with your
+hammer. You'll have five chances to
+get a NICE hit or better.", 
+O4_KitchenEvt04_PeddlerKNP_09,"Would you like to buy anything else? 8  Ĭ.O4_KitchenEvt04_Item_01", 
+O4_HallEvt02_KNP08_01,"If you add the seasonings after it's 
+grilled, the flavors won't sink in as
+well and it won't be as tasty.", 
+O4_VipRoomEvt01_VIP_04,"I can't be giving you free steaks all
+day! I'm not made of meat!̠ Er...̠
+That'll be 1000 coins! *  Ĭ Cafe_BuySelect01", 
+O4_VipRoomEvt02_VIP_03,"You really are a very talented chef!
+This flavor is so unique!  I'll officially recognize this place as
+one of my favorite one and a half
+star restaurants!  And I'll leave this here.", 
+O4_TrainEvt01_Painky_01,"The train is leaving!", 
+O4_HallEvt02_PeddlerKNP_15,"Do you need anything else? >  Ĭ4O4_HallEvt02_PeddlerKNP_02", 
+O4_KitchenEvt02_CKNP_00,"Owww...", 
+O4_HallEvt01_Success_KNP01,"This Mamma Mia Pizza is delicious!", 
+O4_HallEvt02_CKNP_01_2,"Ahh, the customers are beaming with
+satisfaction. The deliciousness of
+your Mamma Mia Pizza has everyone
+feeling full of life again! ", 
+O4_VipRoomEvt01_VIP_05,"You don't have enough coins?!
+NOT MY PROBLEM!", 
+O4_TrainEvt01_Painky_02,"I wonder if there really is a Big Paint 
+Star up ahead. I mean, I know the
+VIP gave us that Mini Paint Star, but
+I still feel a little cheated...  Well, after all our hard work in the
+kitchen, I'm hungry for that Mini
+Paint Star! Let's go get it.", 
+O4_KitchenEvt02_CKNP_01,"Mario! You have brought peace to
+my culinary oasis!  I'm the head chef here at Tangerino
+Grill. My thanks to you!", 
+O4_VipRoomEvt01_VIP_06,"I'm expecting the perfect steak, pal!
+Don't mess this up!", 
+O4_KitchenEvt02_CKNP_02,"Until the delicate framework of my
+body can heal, you will prepare
+the food, yes?   Ĭ
+yesno", 
+O4_HallEvt02_KNP10_01,"The best seasonings for meat are
+definitely salt and pepper, don't you
+think? Simple is best!", 
+O4_VipRoomEvt01_VIP_07,"Do you call this meat?! I've tasted
+shoe leather that was more tender
+than this! This clearly wasn't
+prepared for long enough!", 
+O4_KitchenEvt01_CookKNP01_01,"These Shy Guys are snacking on our
+ingredients! No snacking allowed in
+this kitchen! NO SNACKING!", 
+O4_KitchenEvt02_CKNP_03,"Such a sour response leaves a bad
+taste in my mouth...", 
+O4_KitchenEvt05_Count01," %d tries left", 
+O4_VipRoomEvt01_VIP_08,"It's too tender and it's too raw.  It looks like meat; that's all I can
+give you. I can't eat this scrap.", 
+O4_KitchenEvt02_CKNP_04,"You, sir, are a scholar and a
+gentleman. ĬHopefully a chef as well. ", 
+O4_KitchenEvt05_Count02,"Last try", 
+O4_VipRoomEvt01_VIP_09,"Hrm...this taste is reminiscent of...Ĭ
+cardboard.  You've somehow created the most
+bland dish I've ever tasted!
+No salt, no pepper, no nothing!", 
+O4_HallEvt03_KNP10_01,"One of the toppings on that Mamma
+Mia Pizza was onions... And then
+what were the other two?", 
+O4_AfterClear_CKNP_01,"Mario! Show me some of your cooking
+skills again! I'll sneak a bit more of it
+while you cook too!", 
+O4_KitchenEvt02_CKNP_05,"Step 1:Ĭ Spread out the pizza dough
+into a nice, thin circle! ", 
+O4_KitchenEvt02_CKNP_06,"Step 2:Ĭ Thinly slice the onions so
+that they will practically dissolve
+the second they hit the pan!", 
+O4_KitchenEvt01_PeddlerKNP_01,"I'm SO reporting this place to the
+health department.", 
+O4_KitchenEvt02_CKNP_07,"Step 3:Ĭ Give the onions, and any
+other toppings you want, a quick
+sear in the frying pan!", 
+O4_Hall_Painky01,"Too few cooks in the kitchen?", 
+O4_KitchenEvt02_CKNP_08,"The last thing you need to do is
+place the pizza in the oven and 
+bake it to perfection!  If you make a mistake, of course
+you can start over, but let's try not
+to waste our ingredients...̠ We use
+only organic, free-range tomatoes.  Let's see your Mamma Mia Pizza!", 
+O4_HallEvt02_KNP06_01,"Mario, you've got the perfect tool to
+spread pizza dough and tenderize
+meat!  You can't call it cooking if you do
+your preparations with just any
+old thing, you know!", 
+O4_Hall_HKNP_01,"Oh, Monsieur Mario!
+Zis is bad! Awful!
+Catastrophic!  Ze customers finally arrived, but
+ze food is nowhere to be found!", 
+O4_Hall_Painky02,"Well, we are kind of busy with the
+whole Paint Star thing, but...  AHH! It's just impossible to turn down
+a Toad for anything! You're all so
+adorable, even under duress!  We'll go and check out the kitchen.", 
+O4_KitchenEvt02_CKNP_09,"Spread out the dough, slice the 
+onions, fry the toppings—those are
+the three steps.  Just talk to a Toad at one of the
+stations to get started.", 
+O4_KitchenEvt03_CookKNP02_01,"Sorry we made you do all the work,
+Mario. I'm still just an apprentice...", 
+O4_Other_Painky_01,"This looks like the back door.
+Maybe we should use the front
+entrance.", 
+O4_Hall_HKNP_02,"Monsieur Mario, ze food...?! 
+WHERE IS ZE VONDERFUL FOOD?!", 
+O4_KitchenEvt02_CookKNP06_01,"The customers are waiting, Mario!
+Hurry!Ĭ But don't sacrifice quality...", 
+O4_HallEvt03_KNP06_01,"So in the end, the head chef here
+didn't do anything but sneak bits of
+the food during cooking?", 
+O4_KitchenEvt08_CookKNP02_01,"Welp...I guess it's time to start
+prepping for the next meal!", 
+O4_KitchenEvt08_CookKNP05_01,"Uh, so I actually...was sneaking some
+bites while you were cooking, Mario.", 
+O4_VipRoomEvt01_VIP_21,"You did something extra after you
+grilled the meat, didn't you? I can
+tell; I'm a supertaster, you know.", 
+O4_HallEvt01_Ng01_AllKNP01,"Raw...chewy...doughy...", 
+O4_VipRoomEvt01_VIP_22,"What's this?", 
+O4_Hall_KNP_01,"I'm starving! Where's the grub?!", 
+O4_HallEvt02_KNP01_01,"If you add seasoning after your
+preparations are complete, the flavor
+will sink in nicely.", 
+O4_VipRoomEvt01_VIP_23,"Hmm...the sour flavor is there, but
+it's missing a certain pop. Perhaps
+it didn't set in correctly. Your timing
+with the seasoning was off.", 
+O4_Hall_KNP_02,"Do you know how long we had to
+wait on that stinkin' train?!
+THIS IS UNACCEPTABLE!", 
+O4_HallEvt01_Ng02_AllKNP01,"Burnt...crackly...crusty...", 
+O4_VipRoomEvt01_VIP_24,"Seems like the full flavor hasn't quite
+sunk in here. Did you add seasoning
+at the wrong time in the process?", 
+O4_Hall_KNP_03,"  
+ WHERE IS OUR FOOD?!", 
+O4_VipRoomEvt01_VIP_25,"WHAT SORT OF...Ĭ
+Oh, I can't even finish my sentence.
+This is terrible!  My whole mouth tastes like a
+Replica!", 
+O4_HallEvt03_KNP01_01,"I can't believe they made us push 
+that train, but the food here made
+it all worth it!", 
+O4_Hall_KNP_04,"Where's the food?!
+Am I just supposed to eat air?!", 
+O4_KitchenEvt02_CookKNP04_01,"Where has that hammer been,
+Mario? I hope you've had it
+sanitized...", 
+O4_HallEvt03_KNP04_01,"A lot happened, but I feel better
+now after that great cooking.
+Thanks so much.", 
+O4_KitchenEvt04_Item_01,"Onions  10 coins
+Slightly Cut Onions  30 coins
+Never mind", 
+O4_KitchenEvt04_Item_02,"Onions  10 coins
+Slightly Cut Onions  30 coins
+Mostly Cut Onions  50 coins
+Never mind", 
+O4_AfterClear_HKNP_01,"Mario, zank you for all your 'elp.
+I wish you continued luck in courting
+Princess Peach...", 
+O4_KitchenEvt04_CookKNP02_01,"Ready to slice up some onion?   Ĭ
+yesno", 
+O4_KitchenEvt04_Item_03,"Cut it 20 times for a good job.
+An onion costs 10 coins.  *  Ĭ Cafe_BuySelect01", 
+O4_Kitchen_Ice_Painky_01,"Wow... THAT is a big piece of ice.  And look—there's something frozen
+inside it!", 
+O4_KitchenEvt04_CookKNP02_02,"You sliced the onion really thinly!
+And you didn't even cry!", 
+O4_KitchenEvt04_Item_04,"These just need 10 more cuts!
+The slightly cut onions are 30 coins. *  Ĭ Cafe_BuySelect01", 
+O4_KitchenEvt06_Count01," %d", 
+O4_KitchenEvt04_CookKNP02_03,"You're pretty good, Mario. Not sure
+if you can top me, though. I just 
+may be better than the head
+chef here...", 
+O4_KitchenEvt04_Item_05,"These just need 5 more cuts!
+The mostly cut onions are 50 coins. *  Ĭ Cafe_BuySelect01", 
+O4_KitchenEvt09_Item_01,"After unsuccessful pizza attempts,
+a person's spirit becomes very fragile.  Looks like it's time for me to assist
+you with my top-shelf ingredients!
+Please come and see me!", 
+O4_KitchenEvt04_CookKNP02_04,"You failed at...Ĭonion slicing. 
+We need more slices!
+Like,  %d more.", 
+O4_KitchenEvt09_Item_02,"Mario! Feast your eyes upon these
+fine ingredients! 8  Ĭ.O4_KitchenEvt09_Item_03", 
+O4_KitchenEvt01_CookKNP03_01,"These Shy Guys didn't even wash
+their grubby little mitts! I've never
+been beaten down in such an
+unhygienic manner!", 
+O4_KitchenEvt04_CookKNP02_05,"We...Ĭran out of onions.", 
+O4_KitchenEvt09_Item_03,"Rolled-Out Dough  100 Coins
+Sautéed Toppings  100 Coins
+Never mind", 
+O4_KitchenEvt02_CKNP_03_01,"All of our cooks are still pretty
+shaken up. You have such a sweet
+swing and raw power in your step!
+You must help us!", 
+O4_KitchenEvt04_CookKNP02_06,"Are you ready to start slicing the 
+onion again?   Ĭ
+yesno", 
+O4_KitchenEvt09_Item_04,"This is dough that has been spread
+out nicely by a professional dough-
+spreader guy. Yours for 100 coins. *  Ĭ Cafe_BuySelect01", 
+O4_HallEvt03_KNP12_01,"Finishing up a fantastic train voyage
+with a fancy meal. That's some
+luxurious planning.", 
+O4_KitchenEvt04_CookKNP02_07,"Press  to jump, and slice the onion
+20 times!", 
+O4_KitchenEvt09_Item_05,"Toppings expertly chopped and
+sautéed by a certified topping
+chef. For you? 100 coins. *  Ĭ Cafe_BuySelect01", 
+O4_KitchenEvt04_CookKNP02_08,"Press  to keep jumping, and slice 
+the onion 10 times!", 
+O4_KitchenEvt09_Item_06,"Mario, you already purchased that
+from me. Don't you remember?", 
+O4_HallEvt02_KNP05_01,"Speed is important when you're 
+cooking meat! The match is three
+turns or less. If you want to end
+earlier, just select Done.", 
+O4_KitchenEvt04_CookKNP02_09,"Press  to keep jumping, and slice 
+the onion 5 times!", 
+O4_HallEvt01_KNP01,"  
+ DELICIOUS!ߐ", 
+O4_KitchenEvt09_Item_07,"Now please use those purchased
+ingredients to make...ĬSUCCESSFUL
+PIZZA!", 
+O4_KitchenEvt09_Item_08,"Do you need anything else? 8  Ĭ.O4_KitchenEvt09_Item_03", 
+O4_KitchenEvt03_CookKNP04_01,"I hope you washed your hammer
+before you flattened the dough...
+But if not—more flavor!", 
+O4_KitchenEvt09_Item_09,"Thank you.", 
+O4_HallEvt03_KNP08_01,"What gives? No dessert?", 
+O4_Hall_AllKNP01,"  
+ TOADS DON'T EAT AIR!", 
+O4_HallEvt01_Ng01_KNP01,"It's half-baked...", 
+O4_KitchenEvt08_CookKNP04_01,"Mario, I'm really impressed with
+your Action Command skills.", 
+O4_Hall_HKNP_01_2,"I zink not! We have an elite crew of
+ze most-skilled food preparers 
+working alongside our head chef!  Perhaps zey are overwhelmed with
+orders? Or perhaps culinary disaster
+has struck? A collapsed soufflé or...
+an unbaked alaska?!  In any case, proper protocol dictates
+zat I cannot leave my station!  Monsieur Mario, please check ze
+kitchen! I beg of you! Ze future of
+our establishment depends on you!", 
+O4_Hall_HKNP_01_3,"Monsieur Mario, please investigate
+ze kitchen situation! I beg you!", 
+O4_HallEvt02_CKNP_01,"Fantastic, Mario!   I took a little bite myself, and I must
+say...ĬMamma Mia! Delicious!  In fact, that pizza was so good, my
+crumpled body instantly made a
+full recovery. I can resume cooking
+right away!  Say, Mario, why don't you take a
+piece yourself? Go ahead.
+You've earned it.", 
+O4_HallEvt02_PeddlerKNP_01,"I also deal in culinary Things.
+Interested? >  Ĭ4O4_HallEvt02_PeddlerKNP_02", 
+O4_HallEvt02_CKNP_02,"Mario, we have a situation. Although
+my body is willing, I'm not sure I'm
+mentally prepared to handle this
+crisis by myself.  However, I believe you have the
+talent to make a dish that would
+satisfy the refined tastes of our
+most exclusive VIP guests.  I trust you can make them something
+very,Ĭ very,Ĭ very,Ĭ VERY special.̠
+No pressure.", 
+O4_HallEvt02_PeddlerKNP_02,"Salt and Pepper  150 coins
+Charcoal Grill  300 coins
+Lemon  200 coins
+No, thanks", 
+O4_AfterArrival_EKNP_01,"Thanks again for helping us get the
+train working, Mario!  There was a small delay, but we've
+finally managed to get our
+passengers to their destination.  Everyone's inside the restaurant
+enjoying delicious food with big
+smiles on their faces!", 
+O4_HallEvt02_CKNP_03,"Don't take it too hard. The VIP
+is really picky. Why don't you
+ask around for some advice? Our
+regular customers are picky, too!", 
+O4_HallEvt02_KNP03_01,"Grilling the meat evenly on both 
+sides is key. Hit the top and the
+bottom with the same amount of fire!", 
+O4_KitchenEvt03_HKNP_01,"Ze Mamma Mia Pizza is ready?
+Oh, such vonderment!  I'll get it out zere to ze customers!", 
+O4_HallEvt02_CKNP_04,"In order to see what kind of food
+will satisfy the VIP, why don't you
+ask the customers here for their
+opinions first?", 
+O4_AfterArrival_EKNP_03,"The passengers are probably inside
+the restaurant enjoying a delicious
+meal right now.", 
+O4_KitchenEvt02_CookKNP03_01,"I'm just here to watch. I want to see
+how the legendary Mario handles
+himself in the kitchen...", 
+O4_KitchenEvt03_PeddlerKNP_01,"I still have lots of ingredients left!
+Let me know if you need anything.", 
+O4_HallEvt03_KNP03_01,"Did I hear right? This restaurant got
+a star and a half from the VIP?
+They're moving up in the world!", 
+O4_HallEvt02_PeddlerKNP_05,"You already have that.", 
+O4_KitchenEvt05_Item_01,"Excellent Dough        10 coins
+Great Dough             50 coins
+Never mind", 
+O4_VipRoomEvt02_CKNP_01,"You did it, Mario! Thank you!  That VIP barely ever touched any
+of the food I cooked for him, but
+he wolfed down your steak like
+some kind of...wolf...or something.  And what's more...he gave our
+restaurant a star!Ĭ And a half!", 
+O4_HallEvt02_PeddlerKNP_06,"Out-of-Stock
+Charcoal Grill  300 coins
+Lemon  200 coins
+No, thanks", 
+O4_KitchenEvt05_Item_02,"Excellent Dough       10 coins
+Great Dough            50 coins
+Nice Dough              80 coins
+Never mind", 
+O4_HallEvt02_PeddlerKNP_07,"Salt and Pepper  150 coins
+Charcoal Grill  300 coins
+Out-of-Stock
+No, thanks", 
+O4_AfterArrival_KNP01_01,"I love watching trains!", 
+O4_KitchenEvt05_Item_03,"It'll spread out completely if you
+land an excellent hit! Excellent
+Dough costs 10 coins.  *  Ĭ Cafe_BuySelect01", 
+O4_HallEvt02_PeddlerKNP_08,"Out-of-Stock
+Charcoal Grill  300 coins
+Out-of-Stock
+No, thanks", 
+O4_Other_Signboard_01,"Tangerino Grill", 
+O4_KitchenEvt05_Item_04,"It'll spread out completely if you
+land a great hit or better!
+Great Dough costs 50 coins.  *  Ĭ Cafe_BuySelect01", 
+O4_HallEvt01_Success_AllKNP01,"  
+ DELICIOUS!", 
+O4_HallEvt02_CKNP_02_0,"What's this?
+VIP customers have been waiting?!  VIP CUSTOMERS HAVE BEEN WAITING!Ĭ
+WHY WASN'T I INFORMED?!", 
+O4_HallEvt02_PeddlerKNP_09,"That's currently Out-of-Stock.", 
+O4_KitchenEvt05_Item_05,"It'll spread out completely if you
+land a nice hit or better! Nice Dough
+costs 80 coins. *  Ĭ Cafe_BuySelect01", 
+O4_TrainEvt01_KNP01_01,"I'm going to keep following that train
+until it fills the gaping void in my
+soul! I wonder where it's going next.", 
+O4_Other_FridgeMemoL_01,"""Chef's Halfhearted Recipe""
+・Ingredients: Whatevs
+・Prep time: A while
+・Seasoning: Nah", 
+O4_HallEvt02_KNP11_01,"If you haven't got the right tools or
+seasonings, go see if you can get
+anything from the peddler.", 
+O4_HallEvt02_HKNP_02_00,"Is it your belief zat you are capable
+of creating a meal zat will satisfy
+our very particular VIP client?   Ĭ
+yesno", 
+O4_KitchenEvt01_CookKNP05_02,"The head chef does not tolerate
+kitchen roughhousing!", 
+O4_HallEvt02_HKNP_02_01,"Very well zen. I vill show you ze way.
+ĬGood luck.", 
+O4_KitchenEvt06_CookKNP05_01,"Your onion isn't ready for frying
+yet! Please come back after you've
+cut it up nicely.", 
+O4_HallEvt02_HKNP_02_02,"I see. Well zen, if you don't zink
+zat you are ready, zen you are
+not ready! ĬI shall wait 'ere, if you
+'appen to change your mind.", 
+O4_KitchenEvt06_CookKNP05_02,"Ready to start frying your toppings,
+Mario?    Ĭ
+yesno", 
+O4_HallEvt02_KNP07_01,"It's acceptable to grill meat using a 
+Fire Flower, but the temperature can
+be a bit inconsistent.   I'm sure that the perfect grilling tool
+is out there somewhere.", 
+O4_VipRoomEvt01_VIP_10,"Almost! But not quite! ĬIt's missing...
+a flavor. One flavor.  It's lacking some kind of sour, fresh
+flavor. Do you know what I mean?", 
+O4_KitchenEvt06_CookKNP05_03,"You fried the toppings just right!
+You're a natural!", 
+O4_VipRoomEvt01_VIP_11,"AWFUL.  The meat has barely been cooked!
+It's as raw as a freshly plucked baby
+carrot! ̠And I HATE carrots!", 
+O4_Icepick_Painky_01,"Nope...that's not going to cut it.
+We're going to need to think outside
+the box on this one, Mario.", 
+O4_KitchenEvt06_CookKNP05_04,"The toppings are lightly browned
+and perfectly crispy!", 
+O4_VipRoomEvt01_VIP_12,"Is it supposed to be burned like this?  Or were you hoping I wouldn't notice
+that it's...̠completely charred?", 
+O4_KitchenEvt06_CookKNP05_05,"You burned the toppings!
+You'll need to slice some more onions
+before you can try again.", 
+O4_KitchenEvt03_CookKNP06_01,"The customers are finally going to
+eat it! I'm so nervous...", 
+O4_VipRoomEvt01_VIP_13,"Ah! You used something...odd during 
+preparation, didn't you?  What kind of chef doesn't use the
+proper tools to craft a meal?!", 
+O4_KitchenEvt02_PeddlerKNP_01,"I can't cook for beans.
+I'm just the restocking guy. ", 
+O4_KitchenEvt06_CookKNP05_06,"If a frying pan starts smoking,
+press  to hit the pan and flip
+your ingredients.   If you can fry for 20 seconds 
+without burning your toppings,
+you'll be good to go!", 
+O4_VipRoomEvt01_VIP_14,"I really want to chastise you...but I'm
+simply too weak from hunger.  I'm going to give you one more 
+chance. If you mess it up again,
+don't think I won't...Ĭthink of
+something to do! Because I will!", 
+O4_KitchenEvt08_CookKNP06_01,"I want to be able to make food that
+makes people feel good!", 
+O4_HallEvt02_KNP02_01,"You can't just grill your meat all 
+willy-nilly! You must prepare the
+meat first!   Let the meat know that you care...
+Take the time to tenderize!", 
+O4_VipRoomEvt01_VIP_19,"It's raw! The meat is raw!
+You think I'm some wild, uncivilized
+animal or something?!  GET OUT OF HERE!
+You offend me...", 
+O4_VipRoomEvt03_CKNP_01,"This one star is thanks to you, Mario!
+I guess there was a plus side to me
+getting injured after all, eh?  Wait...where's that extra half star
+I was promised?!", 
+O4_KitchenEvt03_CookKNP01_01,"I hope the customers end up liking
+the Mamma Mia Pizza!", 
+O4_HallEvt03_KNP05_01,"I've been to this restaurant before,
+but the head chef's halfhearted
+pizza just doesn't compare to your
+Mamma Mia!", 
+O4_HallEvt01_HKNP_00,"Here goes nussing...", 
+O4_KitchenEvt08_CookKNP01_01,"I'm so glad that the customers were
+pleased! So glad! ", 
+O4_HallEvt01_HKNP_01,"Bonjour, guests!
+Zank you for your patience!  Please enjoy Chef Mario's special...
+ze ̠Mamma Mia Pizza!", 
+O4_HallEvt01_HKNP_02,"Zis doesn't look good...  NOOOO! Zis is worse than anchovies!̠
+You topped ze pizza with failure!", 
+O4_Kitchen_Ice_CKNP_01,"I really need to use the freezer, but
+it's completely frozen over. Is that
+ironic or what?", 
+O4_HallEvt01_HKNP_03,"Mario, you have to remake it!
+S'il vous plaît!", 
+O4_Kitchen_Ice_CKNP_02,"Oh, now I can use the freezer!", 
+O4_HallEvt01_HKNP_04,"Well, everyone... ĬHow does it taste?", 
+O4_VipRoomEvt02_Painky_01,"It's a Mini Paint Star!", 
+O4_Kitchen_Ice_CKNP_03,"I want to save the final piece of 
+Mamma Mia Pizza to have as
+a late-night snack!", 
+O4_VipRoomEvt02_Painky_02,"By", "big star"" could he mean the Big 
+Paint Star? Is there a Big Paint Star 
+at the end of the Sunset Express?!   Mario, we need to get on the
+Sunset Express ASAP!", 
+O4_Kitchen_Ice_CKNP_04,"࿍Mario, we're in your debt for
+preparing the VIP meal, too.
+So I'd like to thank you once again...  As a sign of our appreciation, please
+squeeze that strange object as
+much as you'd like.  ྠ", 
+O4_VipRoomEvt01_HKNP_01,"Ze VIP is in 'ere. Please talk to
+him through ze curtain. One of
+ze VIP services we provide is a
+complete lack of eye contact.", 
+O4_Kitchen_Ice_CKNP_05,"It's going to be such a shame when
+that last piece of the Mamma Mia
+Pizza is finally gone.", 
+O4_KitchenEvt01_CookKNP04_01,"I think there are some Shy Guys
+hiding around here.", 
+O4_KitchenEvt07_CKNP_01,"It seems like you've prepared your
+dough and your toppings. Great!  Ready to finally bake your pizza?    Ĭ
+yesno", 
+O4__BeforeArrival_HKNP_01,"It seems like ze train got held up
+at Kiwano Temple.", 
+O4_KitchenEvt02_CKNP_04_01,"Our featured dish today is a time-
+honored classic.Ǵ PIZZA!  You're going to make our house
+special, the Mamma Mia Pizza!   There are three steps to our special
+secret pre-grill prep!", 
+O4_KitchenEvt05_PeddlerKNP_00,"I sell pizza dough—everyone knows
+that! But did you know that I'm also
+running a test campaign?  Take this for free. Don't worry about
+failing; it's OK as long as you've got
+coins! Good luck!", 
+O4_KitchenEvt07_CKNP_02,"Ready to bake your pizza?   Ĭ
+yesno", 
+O4_HallEvt02_VIP_01,"How long are you plannin' on making
+us wait? We're starving over here!", 
+O4_KitchenEvt05_PeddlerKNP_01,"I sell pizza dough, y'know!
+It's 10 coins for each ball!  *  Ĭ Cafe_BuySelect01", 
+O4_KitchenEvt07_CKNP_03,"Still preparing yourself mentally?Ĭ
+I understand. Come talk to me when
+you feel like you're ready.", 
+O4_HallEvt02_VIP_02,"HEY!", 
+O4__BeforeArrival_HKNP_03,"Ze kitchen is off limits right now.
+Our chef is making le magic happen.", 
+O4_KitchenEvt07_CKNP_05,"Put the pizza in the oven and wait 
+10 seconds! That's the secret to a 
+well-baked pizza. ĬNot a lot of folks
+know that.  If you burn your ingredients, you'll 
+have to do all of the preparations 
+over again. Trust your instincts, but
+be careful!  Once you think 10 seconds have
+passed, get that pizza outta there!  Let the baking...ĬBEGIN!", 
+O4_TrainEvt01_VIP_01,"All right, let's get a move on then!", 
+O4_HallEvt02_KNP09_01,"If you add some sour fruit juice after
+you grill a steak, it pushes the flavor
+to the peak of deliciousness!  But if you use the sour fruit juice 
+before you tenderize, the flavor will
+be all wrong.", 
+O4_KitchenEvt05_PeddlerKNP_05,"I've got some pizza dough that's
+better than the normal stuff! 8  Ĭ.O4_KitchenEvt05_Item_01", 
+O4_KitchenEvt03_CookKNP05_01,"That fancy hand- and footwork you
+showed was incredible! I really need
+to learn some Action Commands...", 
+O4_HallEvt01_Ng02_KNP01,"It's overdone...", 
+O4_HallEvt03_KNP09_01,"They say hunger is the ultimate
+seasoning, but you can't get a full
+stomach on just seasoning!  So...I'm not too hot on that saying. ", 
+O4_KitchenEvt01_CKNP_01,"OWWWW!̠ STOP IT!̠
+You're tenderizing my face!", 
+O4_VipRoomEvt03_HKNP_01,"Zat VIP brought a whole crowd of 
+friends with straws in their mouths,Ĭ
+and everyone left satisfied.  I hoped zat zey would leave a...
+razzer generous tip but, eh...Ĭnot
+so much. ǴMaybe my landlord will
+accept a star and half zis month...", 
+O4_KitchenEvt01_CKNP_02,"Mario!
+Thank you, thank you, thank you!  Now please go and save the other
+cooks who are being attacked.", 
+O4_KitchenEvt01_CookKNP02_01,"I'm not crying. These tears are just...Ĭ
+from the onions.Ǵ The painful,
+throbbing, swollen onions...", 
+O4_KitchenEvt05_PeddlerKNP_08,"I've got some pizza dough that's
+even better than the normal stuff!  8  Ĭ.O4_KitchenEvt05_Item_02", 
+O4_KitchenEvt09_CKNP_01,"Mario, it seems the customers
+weren't satisfied with our effort.  It's my fault for getting injured.
+Let's try again.", 
+O4_KitchenEvt09_Item_10,"You don't have enough coins.", 
+O4_HallEvt03_KNP11_01,"I'm one of those Toads who likes to
+eat pizza with my hands. No knife
+and fork for me!", 
+O4_KitchenEvt09_Item_11,"Thank you! Come back again soon.", 
+O4_HallEvt02_KNP04_01,"If the meat stands up straight, your 
+preparations aren't done yet. But
+also be careful you don't tenderize
+it too much!  Once it's hanging down about
+halfway, you know it's perfectly
+tender.", 
