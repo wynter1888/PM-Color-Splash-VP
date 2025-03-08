@@ -111,7 +111,7 @@ I feel different...",
 TN_aTalk_Kinopio2,"Thank you, Mario. I knew we could
 count on you!", 
 TN_RedArea_Opening_Kinopio01,"According to my guidebook, the
-fountain is", "a glorious rainbow of
+fountain is ""a glorious rainbow of
 happiness and joy.""   So, um... ̠Yeah, this doesn't seem
 right. I'll take a look around and
 see if I can find someone.", 
@@ -346,7 +346,7 @@ respectable cache of Battle Cards
 for me to examine, old sport?   Ĭ
 yesno", 
 TN_RedArea_CompleteFlag05," Title: ???
- Perform %d", "Excellent!"" attacks. 
+ Perform %d ""Excellent!"" attacks. 
  You've performed  %d/%d.", 
 TN_RedArea_Kinopio_Gate01,"Oh, Mario! It's terrible!  A gang of Shy Guys with straws
 were roaming around Port Prisma,
@@ -945,7 +945,7 @@ TN_BlueArea_KNP02_BridgeInduce02,"I welcome any feedback on
 the bridge once you get to the
 other side. You know...  Did it allow you to cross the water
 safely? Was it sturdy? Did it have
-that", "great bridge feel""?", 
+that ""great bridge feel""?", 
 TN_Epilogue_KNP01,"Oh, Princess Peach!
 I'm so relieved to see you!
 Thank you for everything, Mario!", 
@@ -1019,7 +1019,7 @@ TN_StoreRoom_InfoNice,"Nice! Not bad at all. The last one
 was a little early.", 
 TN_StoreRoom_InfoSlowly_00,"I'm looking for a little more urgency
 in your action... Try again!", 
-TN_RedArea_Opening_Peach09_1,"That", "(Blue) Hit"" clue...
+TN_RedArea_Opening_Peach09_1,"That ""(Blue) Hit"" clue...
 It probably means you have to hit
 something with your hammer.  Like, maybe something that's
 sticking out of the ground?", 
@@ -1038,7 +1038,7 @@ with max force!  (Incidentally, Max Force is the
 working title of my autobiographical
 kung-fu script. ʼBut we can talk
 about that later.)  If you time it just right, you'll get
-an", "Excellent!"" and inflict huge
+an ""Excellent!"" and inflict huge
 damage on your enemy.  But be careful! Wait too long, and
 you'll bungle it and do almost no
 damage.  Ready to do this thing? Engage Max
@@ -1099,7 +1099,7 @@ TN_BlueArea_Kinopio02_0,"Good night, cruel world...",
 TN_BlueArea_Slot_Kinopio10,"I'll take my leave of you now. Thank
 you for sharing your wondrous Battle
 Cards with me.", 
-TN_RedArea_CompleteFlag11,"", "Card Champion""
+TN_RedArea_CompleteFlag11," ""Card Champion""
  You've collected all  %d
  Battle Cards!", 
 TN_RedArea_Kinopio_Postman03,"Wait, first things first. I haven't even
@@ -1110,7 +1110,7 @@ blue district when you get a chance.  You can even set up your mail
 to be forwarded here while you're
 in town. Isn't that great?  Well, thanks for saving me, Mario.
 Gotta get back to work!", 
-TN_RedArea_CompleteFlag12,"", "Gold Bug""
+TN_RedArea_CompleteFlag12," ""Gold Bug""
  You've collected  %d coins! ", 
 TN_Star00,"Mario, you can count on our support
 at all times as you quest for the
@@ -1132,7 +1132,7 @@ right behind me, and the post office
 is just across the stream.  Good café over there, too.  Oh! And I always recommend our
 waterwheel to tourists. It's just
 up the stairs from here. A must-see!", 
-TN_RedArea_CompleteFlag13,"", "Honorary Paint Can""
+TN_RedArea_CompleteFlag13," ""Honorary Paint Can""
  You've repainted  %d% of the
  colorless spots on Prism Island!", 
 TN_Star01,"Would you like to see my memories?   Ĭ
@@ -1147,7 +1147,7 @@ making the wheel spin around and
 look super cool.  Now it's just sitting there looking
 moderately cool.ʼ That's not cool
 enough!", 
-TN_RedArea_CompleteFlag14,"", "Sizzlin' Scissors""
+TN_RedArea_CompleteFlag14," ""Sizzlin' Scissors""
  You've completed  %d% of all Cutouts!", 
 TN_Star02,"Would you like to see our memories?   Ĭ
 yesno", 
@@ -1161,15 +1161,15 @@ fixed the bridge in the blue
 district yet.", 
 TN_StoreRoom_InfoEarlyNice_Fire,"Nice! Not bad at all. The last one
 was a little early.", 
-TN_RedArea_CompleteFlag15,"", "Excellence Embodied""
- You've performed  %d", "Excellent!""
+TN_RedArea_CompleteFlag15," ""Excellence Embodied""
+ You've performed  %d ""Excellent!""
  attacks!", 
 TN_PortArea_Peach04_2,"All right, let me just take another
 look at this...Ǵletter.  Oh, I just can't bear to think about
 what I'm really holding—a folded-up
 colorless Toad!  The only clue we have is that he
 was postmarked here in Port Prisma.", 
-TN_RedArea_CompleteFlag16,"", "The One and Roshambonly!""
+TN_RedArea_CompleteFlag16," ""The One and Roshambonly!""
  Congrats on  %d Roshambo victories!", 
 TN_Rainbow_Kinopio01,"Mario! Huey!", 
 TN_PaintHammerWarning_Peach_00,"Looks like you're out of that color
