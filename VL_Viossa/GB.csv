@@ -1,0 +1,551 @@
+﻿Label,String,Translation
+GB_Escape_Yoshi04,"Yoshi!
+(I'll never get tired of this gilded
+cage! I could live in here forever!)", 
+GB_StageBattle_Lemmy02_03,"UH-OH!
+You done did it now, Mario!  Without a trainer, Wild Dino
+Rhinos start RAAAAAAAAGING!
+Hang on to your mustache!", 
+GB_Audience_HEI03_2,"Seeing people perform at the top of
+their game just gets me SO AMPED!", 
+GB_RedRescue29,"So I spent the majority of my
+vacation stuffed inside a musty old
+trunk with a bunch of sweaty Toads.
+Righteous!", 
+GB_StageBattle_Lemmy02_04,"Ooh! It's a backup trainer.
+Lucky you.", 
+GB_Audience_HEI03_3,"I auditioned for the circus, but I
+didn't make the cut.", 
+GB_Receipt_HEI00_1,"But you're the only one here.
+Everyone else must be stuck in
+traffic...  Although I thought there was
+someone else here a minute ago...", 
+GB_Receipt_HEI00_2,"Just one person in line?  We can't perform until we have a
+packed house!", 
+GB_Receipt_HEI00_3,"This crowd is pathetic.  We can't perform until the house is
+absolutely packed!", 
+GB_AfterOpenTent_HEI03,"The show got interrupted, and the
+audience is getting restless!  Someone's got to entertain them
+until the next performer is ready!", 
+GB_MagicShow_Painky01,"  
+ The Big Paint Star!", 
+GB_StageBattle_Painky01,"Merch table?! I don't care about the
+stinking merch table!  I want that Big Paint Star!
+Where's that clown Lemmy?!", 
+GB_Receipt_HEI00_4,"That's more like it. But there still
+aren't enough people to fill the seats.  We need the line to be longer than
+this. It's gotta at least go down the
+slope back there.", 
+GB_AfterOpenTent_HEI04,"The Yoshis escaped during the
+confusion! They're a rowdy bunch,
+so be careful!", 
+GB_StageBattle_Audience_01_01,"Boooooo!", 
+GB_Receipt_HEI00_5,"There's my audience!
+The house is almost packed!
+We're close to starting the show...", 
+GB_BoforeOpenTent_HEI01,"I heard the ringleader is preparing a
+special surprise for this performance.
+I wonder what it is.", 
+GB_MagicShow_Painky03,"  Where did the Paint Star go?!
+That Lemmy guy made it disappear
+before he escaped!", 
+GB_StageBattle_Audience_01_02,"Whaaa?", 
+GB_Audience_HEI01_1,"Boo! No intermissions!
+I want my money back!", 
+GB_BoforeOpenTent_HEI02,"There was a limit of 50 tickets for
+Shy Guys, and they're all sold out!", 
+GB_MagicShow_Painky04,"Mario, that Lemmy guy must be
+Bowser's underling! I knew it the
+moment I saw that mug of his.  I can still smell the Big Paint Star,
+so it must be close.  Let's go find it!", 
+GB_Performance_Painky01,"NO. ̠No no no no...
+I don't do well in front of crowds.̠
+Well, here goes nothing. *gulp*", 
+GB_StageBattle_Audience_01_03,"BOO!", 
+GB_Audience_HEI01_2,"I can totally relate to the stage-
+fright thing. They don't call me
+Shy Guy for nothing.", 
+GB_BoforeOpenTent_HEI03,"This is the performers' entrance.
+You a performer?
+Nah, didn't think so.", 
+GB_Performance_Painky02,"Tin cans always be like...", 
+GB_Audience_HEI01_3,"If there's one thing I've learned in
+this life, it's that Mario always wins.", 
+GB_RedRescue40,"Riding on top of the train was kinda
+rough, but the stargazing was worth
+it.", 
+GB_BoforeOpenTent_HEI04,"These guys aren't trained, so we
+can't put them in the circus yet.
+Their tongues are a liability.", 
+GB_MagicShow_Painky06,"Wow. So this is a circus?
+It's so lively in here!  Every seat is full, and the audience
+is giddy with anticipation!   I've never actually been to the
+circus before, so I'm super excited!", 
+GB_Performance_Painky03,"Tough crowd.
+That joke used to kill back at
+the recycling plant.  I thought maybe...because paper is
+recyclable too...?", 
+GB_RedRescue41,"I live a totally carefree life.
+Nothing bothers me at all.
+Well, except for the soul-crushing
+burden of trying to stay optimistic.", 
+GB_Performance_Painky04,"Really?!̠
+They liked THAT but my tin-can
+impression flopped?!  Where was MY mushroom at?", 
+GB_RedRescue42,"You're a good listener, Mario.
+Everyone tells you their problems,
+but not many people stop to ask:
+How's Mario doing?", 
+GB_Performance_Painky03_2,"OK, Mario...
+Got any jokes up your sleeve?
+Please tell me you've got something.", 
+GB_RedRescue43,"Thanks again for rescuing me from  
+Draggadon. Ahem!", 
+GB_RedRescue44,"Sometimes you gotta just let it all
+hang out. Live a little!", 
+GB_RedRescue45,"Ahhhh...
+The Redpepper Hot Spring 
+is the best. I'm so relaxed!", 
+GB_RedRescue46,"I was in that bleepy bloopy digital
+world for so long, I'm starting to
+think in code!", 
+GB_RedRescue47,"I saw a circus troupe at Mossrock
+Theater, too. I wonder if that was
+a rehearsal.", 
+GB_Performance_Lemmy01,"Adadadadadadadadadadand we're back!
+Thanks for your patience, folks.  Please put your hands together for...", 
+GB_RedRescue48,"After experiencing the freedom of
+flying through the air, I think I'm
+going to start my own circus!", 
+GB_Battle_Boss_01,"This is it! The moment you've all
+been waiting for. The FINAL
+performance of Mario's career!", 
+GB_AfterBattle_Lemmy01,"Heeheekeeeee...
+You're really fired up tonight, Mario.
+You must've really enjoyed the show.  I admit defeat. A spectacular defeat!
+There's more drama in defeat
+anyway. Victory is soooo overdone.  And...̠scene.", 
+GB_RedRescue49,"What's up with everyone saluting all
+the time? This isn't the army!", 
+GB_Performance_Painky01_2,"Um.
+Uh...", 
+GB_Performance_Lemmy03,"Oh, that was just classic, Mario.  And now...the moment you've all
+been waiting for...
+The Emerald Circus main act!  These (potentially) death-defying
+performances will keep you on the
+edge of your seat!  And with that, let's get this
+party started!", 
+GB_Battle_Boss_03,"The show is in full swing.
+It's almost time for the grand finale!", 
+GB_Receipt_HEI00,"Welcome to the world-renowned
+Emerald Circus!  The show will start as soon as the
+house fills up. We only perform in
+front of sellout crowds!", 
+GB_Performance_Painky01_3,"You guys, uh...
+You guys like impressions?", 
+GB_Battle_Boss_04,"Yes!
+My magic wand can transform into
+a magic ball...  A Wonder Ball!
+Yes, yes! Clap for the Wonder Ball!", 
+GB_Receipt_HEI01,"The Emerald Circus will start as soon
+as we've got a sellout crowd!", 
+GB_StageBattle_Lemmy01_01,"Understudy refill!
+They're a dime a dozen!", 
+GB_Battle_Boss_05,"My Wonder Ball deftly avoids your
+pathetic attack.
+APPLAUSE!", 
+GB_Performance_Lemmy01_2," The Mario and Huey-gee
+ Super Funtime Show!  Don't be shy, fellas!", 
+GB_StageBattle_Lemmy01_02,"How about that unicycle
+battle cry, eh?", 
+GB_Battle_Boss_06,"That Disco Ball Replica is just sooooo
+last decade! Can't really get into it!", 
+GB_Receipt_HEI03,"The Emerald Circus is starting!
+Please take your seat.", 
+GB_MagicShow_Lemmy01,"Thank you, thank you!
+It is I, Lemmy, the greatest and most
+humble illusionist in all the world!  The things you're about to see may
+shock you. They might astound you.
+But they'll definitely impress you.", 
+GB_StageBattle_Lemmy01_03,"Ooh. Tough break, kid!
+That didn't do squat!", 
+GB_Battle_Boss_07,"Thing Cards?!
+What is this, baby's first battle?
+APPLAUSE!", 
+GB_Receipt_HEI04,"I had no idea that Lemmy was going
+to vanish like that! What a
+showman!", 
+GB_Battle_Boss_08,"Here it comes—the grand finale!", 
+GB_Receipt_HEI05,"Ha! The crowd ate that up!", 
+GB_MagicShow_Lemmy03,"That's right!
+(That's EXACTLY right!)
+It's a shiny green Big Paint Star!  Now, watch closely!", 
+GB_Battle_Boss_09,"This is it!
+Wonder Ballistic!  Eheeheekee!
+Go ahead and struggle!
+It adds to the drama of it all!", 
+GB_Receipt_HEI06,"I'm so glad that the circus turned
+out to be a success.", 
+GB_MagicShow_Lemmy05,"Heeheekee!
+Now, wherever could the
+Big Paint Star have gone?", 
+GB_MagicShow_Lemmy06,"You, there! With the ridiculous
+mustache and the rusty can.  Where do you think that extra-
+special Big Paint Star ran off to?̠
+You didn't need that, did you?  Heeheekeeeeeeeeee!", 
+GB_StageBattle_Audience_03_01,"Good show!", 
+GB_StageBattle_Audience_03_02,"Encore!", 
+GB_StageBattle_Audience_03_03,"Bravo!", 
+GB_StageBattle_Audience_03_04,"WOW!", 
+GB_Audience_KNP03_1,"I liked the part when the guy
+disappeared and then he was gone
+and he never came back.", 
+GB_RedRescue10,"As long as someone's being rescued,
+we've done our job. Even if that
+someone is us!", 
+GB_Audience_KNP03_2,"Mario! The Rescue Squad has your
+back. Good luck!", 
+GB_RedRescue11,"This is just between you and me, but
+the squad leader said he wants me
+to replace him when he retires.", 
+GB_Audience_KNP03_3,"I wonder why they left the
+trampoline on the stage...", 
+GB_RedRescue12,"♪Rescue ohh, rescue ohhh!
+Rescue, beep beep, rescue,
+Ohh rescue, rescue hey!♪", 
+GB_RedRescue13,"You've already beaten Morton, Iggy,
+Ludwig, Wendy, and Larry.
+Just two Koopalings left!", 
+GB_StageBattle_Yoshi_03,"What's this?
+Who let that Yoshi out?!", 
+GB_RedRescue14,"That guy the Shy Guys are talking
+about... I wonder if it's another one
+of Bowser's protégés?", 
+GB_StageBattle_Yoshi_04,"Poor Mario!
+That Yoshi ate your precious card,
+didn't he?!", 
+GB_RedRescue15,"Wanna know why I joined the Rescue
+Squad? The rad uniforms!", 
+GB_StageBattle_Yoshi_05,"Mario expertly guards himself against
+the Yoshi's ravenous appetite!", 
+GB_RedRescue16,"The 30 of us all joined the Rescue
+Squad at the same time.
+At least we're sticking together.", 
+GB_Audience_KNP01_1,"There's an intermission already?!
+This thing just started!", 
+GB_RedRescue17,"I'm tired.", 
+GB_Audience_KNP01_2,"Running away in the middle of the
+show? Some hero you are!", 
+GB_RedRescue18,"Hey...guy in front of me!
+Quit dozing off!", 
+GB_Audience_KNP01_3,"Mario!
+What a show!
+Were you following a script?", 
+GB_RedRescue19,"I really wanted to join the blue 
+Rescue Squad, but I'm a red Toad.
+C'est la vie...", 
+GB_Rescue_Leader01_3,"Thanks again for saving me back
+there, Mario.  One of our informants told me that
+there's a Big Paint Star inside
+this circus tent.   The red Rescue Squad is gearing up
+to bust in and seize it, but none of
+my 49 squad members have shown
+up yet!  If you see any red Rescue Squad
+members at our headquarters in
+Port Prisma, please send them my
+way!  Over and out!", 
+GB_StageBattle_Lemmy03_01,"Rigorous training has provided the
+Buzzy Beetle Tower with a
+world-class sense of balance!", 
+GB_MagicShow_HEI02_2,"Lemmy's Super Illusion Show!", 
+GB_StageBattle_Lemmy03_02,"Ooooh, the Spike Guy slips and falls!
+Ouch!", 
+GB_StageBattle_Lemmy03_03,"WHAT?!
+They lost their balance?!
+That's not in the script!", 
+GB_AfterOpenTent_JHBRS01,"The ball that Lemmy rides is a lot
+more fragile than it looks. I bet a
+super-sharp Thing could pop it.  He'd have to be distracted first,
+though.", 
+GB_BossBattle_Lemmy01,"Well done! It seems I've been caught.", 
+GB_BossBattle_Lemmy02,"For some reason, my magic wand
+doesn't have any effect on the
+Paint Star.  So the only way I could make it
+disappear was to employ a little...
+sleight of hand.  But no matter—the point of this
+circus wasn't to show off my
+magical prowess.  The point was to steal the Paint Star
+and embarrass you in front of a giant
+crowd at the same time!  And now it's time for the 
+grand finale!
+Heeheekee!", 
+GB_Receipt_HEI01_2,"Oh yeah! Now that's an audience!
+It's going to be a full house!  Thank you all for waiting!
+Please go in and take your seats.", 
+GB_MagicShow_HEI01,"Um, uh... Hey, folks.  We're experiencing some technical
+difficulties. It seems that our main
+performer has vanished! Hehhhh...  So please enjoy this unscheduled
+intermission!", 
+GB_RedRescue30,"Must've been pretty cool to see all
+30 of us Toads explode out of 
+that trunk, huh?", 
+GB_MagicShow_HEI02,"Ladies and gentlemen,
+Toads and Shy Guys,
+plumbers of all ages!   You are moments away from
+experiencing the Emerald Circus in
+all its glory!   Without further ado, allow me to
+introduce our first act. It's the show
+everyone's talking about...", 
+GB_BossBattle_Lemmy04,"You're back! Such tenacity.
+Oooh, yes. I like you!  Come now—the show must go on!", 
+GB_AfterBattle_Painky01,"Well...that was definitely the best
+circus I've ever been to.  Now let's wake the Big Paint Star!
+It's the last one!", 
+GB_RedRescue31,"I was the second from the bottom
+out of the 30 of us stuffed in that
+train trunk. Meaning I was the 29th
+to come out.", 
+GB_MagicShow_HEI03,"WHAT?!
+Lemmy disappeared?!
+That's not in the script!", 
+GB_RedRescue32,"I was on the very bottom of the
+30-Toad stack in that train trunk.
+Meaning I was the 30th to come out.", 
+GB_MagicShow_HEI04,"Oh geez! ̠Oh no...̠
+We've gotta stall!
+Get out there and...̠do something!", 
+GB_Audience_HEI02_1,"How did he do that?!
+He just vanished into thin air!", 
+GB_RedRescue33,"Thanks for defeating those creeps
+who were running wild inside the
+Sunset Express!", 
+GB_Audience_HEI02_2,"Typical circus. What a letdown...", 
+GB_RedRescue34,"Why can't it start until they sell
+every last seat? Maybe it's not
+profitable unless the tent is full.", 
+GB_Audience_HEI02_3,"Where did Lemmy go?
+Maybe he vanished to another
+dimension!", 
+GB_RedRescue35,"Hey, Mario! Remember me? Toad?
+From that other game we were in
+together?", 
+GB_RedRescue36,"It was so cramped in that trunk!
+My neck and shoulders are as stiff
+as cardboard! I need a massage...", 
+GB_Yoshi_Painky01,"Listen here, dino-dragon things!
+It's not OK to go around eating
+people whole.  I mean, you don't even know where
+Mario has been! I'd go brush my
+teeth, if I were you.", 
+GB_RedRescue37,"I haven't seen a circus since I was
+but a wee spore!", 
+GB_Yoshi_Painky02,"HOW RUDE!
+At least buy the guy dinner first.
+Sheesh!", 
+GB_RedRescue38,"Those fire-breathing dinosaurs!
+I've never seen anything like them
+before!", 
+GB_RedRescue39,"I'm more excited about the illusions
+than anything else! I hope they blow
+my mind like ""P'SHEEEEEEEEEEW!""", 
+GB_AfterOpenTent_JBBRS01,"Lemmy vanished into thin air?
+Knowing him, it's probably part of
+his act.  I bet he's somewhere shaking his
+groove thing. I swear—that guy!
+Once he hits the dance floor,
+he's totally incapacitated!", 
+GB_BOSS2nd_Painky03,"Mario!
+Lemmy's Wonder Ball dodges
+instantly, so you won't hit it with
+a normal attack, but I have an idea.  Let's trick them into dancing, and
+then pop the ball with something
+sharp while their guard is down!", 
+GB_Battle_Boss_10,"A discotheque with a Disco Ball!
+The groove...is too much to bear!
+I'VE GOT TO BOOGIE!", 
+GB_Battle_Boss_11,"Oooh, you sly dog!
+How am I supposed to defend myself
+when I'm getting down? Ya dig?  I better hit you with the
+Wonder Ball!", 
+GB_RedRescue01,"I'm the first in line, which means that
+I'll be the very first to go inside!
+Yep, it feels good to be #1!", 
+GB_RedRescue02,"No matter what I do, I'm #2.
+Now I know what Luigi feels like...", 
+GB_Battle_Boss_13,"Eheeheekee!
+You think I care that you popped my
+ball?  I don't care!
+Because... I've got THIS!", 
+GB_RedRescue03,"That trunk smelled like old socks.
+Well, more like new socks that an
+old person wore.", 
+GB_Battle_Boss_14,"Now you see it! Now you don't!", 
+GB_BossBattle_Painky01,"It's the green Big Paint Star!
+It was probably up here all along!", 
+GB_RedRescue04,"It was really quiet in the trunk, so I
+was able to devote my thoughts to
+the existential paradox of being
+trapped in this trunk of mortality.", 
+GB_Battle_Boss_15,"Bye-bye, card!
+Surprised ya, huh?
+APPLAUSE!", 
+GB_StageBattle_Lemmy01,"Please welcome to the stage...  A terrifying green beast with eight
+heads, sixteen eyes...̠and one wheel!  The trick-riding,̠ introverted̠
+UNICYCLE SHY GUUUUUUUUYS!", 
+GB_BossBattle_Painky02,"Huh?
+There's a hole in the tent.  This must be where the star came 
+out of the tent! Some illusion.  Does that mean...Lemmy came out
+through this hole too?", 
+GB_RedRescue05,"I noticed that my thumb is angled
+slightly more inward than normal
+when I salute. I should get that
+checked out.", 
+GB_Battle_Boss_16,"Oooh! Nicely done!
+APPLAUSE!", 
+GB_StageBattle_Lemmy02,"Well, THOSE guys are fired.
+Speaking of fired...  Let's give an unseasonably warm
+welcome to our next guests...  The fire-breathing dino beasts
+and their miserable trainerrrrrrr!", 
+GB_RedRescue06,"I'm really good at seeing through
+illusions! I'll definitely see through
+this, too!", 
+GB_Battle_Boss_17,"NOOO! You popped my Wonder Ball!
+Do you even know what that thing
+retails for?!", 
+GB_StageBattle_Lemmy03,"Let's keep this party rocking!  It's a balancing act the likes of which
+the world has never seen!  Say hello to the iron-shelled
+Buzzy Beetle Tower of TERROR!", 
+GB_RedRescue07,"Rescue Squadet #12 sings the most
+AMAZING rescue song. I get chills
+every time I hear it.", 
+GB_Battle_Boss_18,"That Ice Pick Replica looks like it's
+from the bargain bin!", 
+GB_StageBattle_Lemmy04,"Ahem... And now for the final act!  The high-flying acrobatic bad boys...
+the Trampoline Shy Guys!", 
+GB_RedRescue08,"Ugh, this line!
+I'd rather be back in the trunk.", 
+GB_Battle_Boss_19,"Oooh, you sly dog!
+How am I supposed to defend myself
+when I'm getting down? Ya dig?  And now for the grand finale!", 
+GB_StageBattle_Audience_02_01,"Ohhhhh!", 
+GB_StageBattle_Lemmy05,"And that's our show, folks!
+Many thanks to the stars of our
+show tonight...Mario and Hueeeey!  Thanks for joining us tonight. Don't
+forget to stop by the merch table
+on your way out!", 
+GB_RedRescue09,"I haven't rescued a single person
+since I joined the Rescue Squad.", 
+GB_StageBattle_Audience_02_02,"Go!", 
+GB_StageBattle_Lemmy06,"Awww. It looks like our star performer
+has come down with a bad case of
+stage fright!  Come back soon, Mario, so we can
+give this crowd the entertainment
+they deserve!", 
+GB_StageBattle_Audience_02_03,"Aw yeah!", 
+GB_StageBattle_Lemmy07,"Returning to the stage...
+it's the one, the only...
+MARIO!", 
+GB_StageBattle_Lemmy08,"Let's take it from the top and give
+this crowd its money's worth!  The show must go on!", 
+GB_Audience_KNP02_1,"More illusions! I love illusions!
+Bring back the illusions!", 
+GB_Rescue_Leader00,"HERP MER!", 
+GB_MagicShow_Lemmy02_0,"SPOTLIGHT!", 
+GB_StageBattle_Lemmy09,"What a breathtaking show!
+Put your hands together for all of
+our performers tonight!", 
+GB_Audience_KNP02_2,"Just imagine the audience in their
+underwear! Always works for me!", 
+GB_Audience_KNP02_3,"To be able to see a circus this close!
+I'm really glad I joined the Rescue 
+Squad!", 
+GB_Rescue_Leader02_2,"Red Rescue Squad leader reporting
+in!  If you see any red Rescue Squad
+members at our headquarters in
+Port Prisma, please send them my
+way!", 
+GB_MagicShow_Lemmy02_2,"Now, the ringmaster here is just your
+average, garden-variety Shy Guy.  Yes, you.
+Don't look so surprised.", 
+GB_StageBattle_Lemmy04_01,"Eeeeeh?!
+The Trampoline Shy Guys fell down!", 
+GB_Rescue_Leader03,"Roll call!", 
+GB_FirstEntry_Painky01,"Ooh!
+A giant tent in the middle of the
+forest!  This must be the Emerald Circus,
+right?", 
+GB_MagicShow_Lemmy02_3,"Now feast your eyes on this!
+My magic wand!  PHENOMENAL ARCANE POWER...<
+in a slim and user-friendly stick!  Now you see him...", 
+GB_StageBattle_Lemmy04_02,"The Trampoline Shy Guys spring into
+action and deftly dodge our hero's
+attack!", 
+GB_Rescue_Leader04,"Red Rescue Squadets MIA:  %d.", 
+GB_MagicShow_Lemmy02_4,"What?! Where did he go?
+Did I vaporize him?!", 
+GB_StageBattle_Lemmy04_03,"Oooh! The Trampoline Shy Guys
+nimbly dodge the blow with a
+big jump!", 
+GB_Rescue_Leader05,"All 50 members of the red Rescue
+Squad have gathered!  All that's left now is to wait until
+the show opens!", 
+GB_RedRescue20,"Mario, you're definitely squad-leader
+material! You should join us!", 
+GB_MagicShow_Lemmy02_5,"You, sir! Have you seen him?", 
+GB_RedRescue21,"Shoulda brought some hanafuda
+cards or something.", 
+GB_MagicShow_Lemmy02_6,"Thank you! Thank you!
+You're easily entertained.", 
+GB_Rescue_Leader00_0,"H... M...!", 
+GB_RedRescue22,"I heard the Mushroom Kingdom
+doesn't have Rescue Squads!
+Sounds like a dangerous place.", 
+GB_MagicShow_Lemmy02_7,"And now...", 
+GB_Rescue_Leader00_1,"HER... ME...!", 
+GB_RedRescue23,"Mario, sir! I'm a huge fan!
+Thanks for taking the time to talk to
+a normal Toad like me with no unique
+traits or discernable characteristics!", 
+GB_Rescue_Leader00_2,"Thanks a ton for rescuing me, Mario!
+I went to pet a Yoshi, but it suddenly
+chewed me up and spit me out!  I'm the leader of the red
+Rescue Squad.", 
+GB_RedRescue24,"Mario, are you helping us with our
+mission? Get your head in the game!", 
+GB_Rescue_Leader00_3,"Wish I could stay and chat, but I've
+got to get to the rendezvous spot,
+pronto!", 
+GB_RedRescue25,"I don't really mind waiting in long
+lines. Gives me time to contemplate
+my mortality.", 
+GB_Escape_Yoshi01,"Yoshi!
+(Long time no see, Mario!)  Yoshi!
+(Thanks for helping me escape that
+haunted inn!)  Yoshi!
+(Just thinking about that place
+gives me the creeps!)  Yoshi!
+(I owe you BIG-time!)", 
+GB_RedRescue26,"We flew out of the trunk really
+quickly! Sounds like a pretty good
+circus act, if you ask me!", 
+GB_Escape_Yoshi02,"Yoshi!
+(I came here to bust my friends out
+of this cage.)  Yoshi!
+(Though I'm not sure why they
+wanted to get out so badly.)", 
+GB_RedRescue27,"Larry totally ruined our plans to 
+save the day, but at least we get
+to enjoy the circus!", 
+GB_Escape_Yoshi03,"Yoshi!
+(Looking closely, that cage isn't as
+nice as I thought it was. I've decided
+I want to be a cage-free Yoshi!)", 
+GB_StageBattle_Lemmy02_02,"You extincted the Wild Dino Rhinos
+and broke their trainer's heart!
+Shame on you, Mario!", 
+GB_Audience_HEI03_1,"I wonder if that magic wand is
+really magic. Looks fake to me.", 
+GB_RedRescue28,"All of us Toads stacked on one
+another in that trunk must've looked
+like some kind of Toad notebook.
+A Toadbook, if you will!", 
