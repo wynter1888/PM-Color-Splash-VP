@@ -358,24 +358,301 @@ TN_aTalk_Peach4,"I think we'd better head to
 the fountain.", 
 TN_aTalk_Kinopio3,"The fountain really WAS dry,
 wasn't it?", 
-
-
-
-
-
-
-
-
-
-TN_BlueArea_ShopKNP_12,"New Battle Cards for sale!
-Don't miss our exciting new selection
-of Battle Cards!", 
+TN_StoreRoom_Info00_2_First,"Mario! Welcome to my dojo!  I've watched more kung-fu movies
+than any other Toad in the area,
+so I'm kind of an expert on combat.  If you're going to be out there
+defending yourself from wild
+Goombas and Shy Guys, you're
+going to have to learn good timing.  And I'm just the Toad to help!", 
+TN_StoreRoom_Info00_3_First_00,"Let's get started, shall we?
+Which Action Command do
+you want to practice first? 6  Ĭ,TN_StoreRoom_InfoSel00", 
+TN_StoreRoom_InfoSel00,"Jump.
+Hammer.
+Block.
+Never mind.", 
+TN_StoreRoom_InfoJump01,"Ah, Jump. ʼClassic.  All right, take your position!", 
+TN_StoreRoom_InfoJump02,"OK, so this might be reasonably
+familiar to you.  If you press  just before landing
+on an enemy, you'll get an extra
+Jump attack.  With most basic Jump Battle Cards,
+you can string together five Jump
+attacks in a row!  You can also tap the GamePad
+instead of pressing . Up to you.  Ready to give it a try?", 
+TN_StoreRoom_JUMP_AC_Early,"Early!", 
+TN_StoreRoom_JUMP_AC_Slowly,"Late!", 
+TN_StoreRoom_JUMP_AC_Nice,"Perfect!", 
+TN_StoreRoom_InfoGood,"Pretty good. Build on that! Your
+last one was early.", 
+TN_StoreRoom_InfoGood_2,"Pretty good. Build on that! Your
+last one was late.", 
+TN_StoreRoom_InfoNice,"Nice! Not bad at all. The last one
+was a little early.", 
+TN_StoreRoom_InfoNice_2,"Nice! Not bad at all. The last one
+was a little late.", 
+TN_StoreRoom_InfoGreat,"Great! Very close! The last one was
+just a tiny bit early.", 
+TN_StoreRoom_InfoGreat_2,"Great! Very close! The last one was
+just a tiny bit late.", 
+TN_StoreRoom_InfoExcellent,"Excellent! You nailed it! I don't
+even think I've seen that done
+in a movie!", 
+TN_StoreRoom_Continue00,"Wanna practice again? >  Ĭ4TN_StoreRoom_ContinueSel00", 
+TN_StoreRoom_ContinueSel00,"Yep.
+No, thanks.", 
+TN_StoreRoom_Info00_2,"All right, which Action Command do
+you want to practice now? 6  Ĭ,TN_StoreRoom_InfoSel00", 
+TN_StoreRoom_Info00_4,"All right, which Action Command do
+you want to practice now? 6  Ĭ,TN_StoreRoom_InfoSel00", 
+TN_StoreRoom_InfoHammer01,"Ah, the tried and true. Hammer
+never lets you down, does it?
+All right, get ready!", 
+TN_StoreRoom_InfoHammer02,"So here's a crash course in smashing
+with the hammer!  When you rear back to swing, watch
+for a burst of light coming from the
+top of the hammer.  Press  or tap your GamePad when
+the light is at its brightest to swing
+with max force!  (Incidentally, Max Force is the
+working title of my autobiographical
+kung-fu script. ʼBut we can talk
+about that later.)  If you time it just right, you'll get
+an ""Excellent!"" and inflict huge
+damage on your enemy.  But be careful! Wait too long, and
+you'll bungle it and do almost no
+damage.  Ready to do this thing? Engage Max
+Force! ʼI mean...ʼgo ahead. Sorry,
+that's kind of my catchphrase.", 
+TN_StoreRoom_InfoEarlyGood,"Not bad. Build on that! Your timing
+was a little bit early.", 
+TN_StoreRoom_InfoEarlyNice,"Nice! Not bad at all. You were just
+a little bit early.", 
+TN_StoreRoom_InfoSlowNice,"Nice! Not bad at all. You were just
+a little bit late.", 
+TN_StoreRoom_InfoEarlyGreat,"Great! Almost perfect. Your timing
+was just a little bit early.", 
+TN_StoreRoom_InfoGuard01,"Nice, sticking to the fundamentals.
+Not every player will try this one.
+But you will, because you're a boss!", 
+TN_StoreRoom_InfoGuard02,"OK, let me show you the proper
+way to guard against attacks.  If you press  just before being hit
+by an attack, you'll block the attack
+and take less damage.  Even if you get hit with the start of
+an enemy's combo attack, you can
+still recover and block some damage,
+so don't give up!  You can also tap the GamePad
+screen instead of pressing .
+Whatever floats your boat!  OK. Let's try it!", 
+TN_StoreRoom_InfoSlowly_00,"I'm looking for a little more urgency
+in your action... Try again!", 
+TN_StoreRoom_InfoEarly_00,"Whoa! Slow down, grasshopper!
+I've always wanted to say that.
+Your timing is too early.", 
+TN_StoreRoom_InfoGuard_00,"That's how it's done!
+A successful block!
+That'll reduce the damage you take.", 
+TN_StoreRoom_Info00_3_First,"Let's get started, shall we?
+Which Action Command do
+you want to practice first? 6  Ĭ,TN_StoreRoom_InfoSel01", 
+TN_StoreRoom_Info00_3,"All right, which Action Command do
+you want to practice now? 6  Ĭ,TN_StoreRoom_InfoSel01", 
+TN_StoreRoom_Info00_5,"All right, which Action Command do
+you want to practice now? 6  Ĭ,TN_StoreRoom_InfoSel01", 
+TN_StoreRoom_InfoSel01,"Jump.
+Hammer.
+Fire Flower.
+Block.
+Never mind.", 
+TN_StoreRoom_InfoFire01,"Ooh, Fire Flower. Yes. This one is
+spicy. All right, let's get ready!", 
+TN_StoreRoom_InfoFire02,"OK, so here's the trick to
+the Fire Flower.  When the fireball forms in your hand,
+press  to throw it!  If you press  too early or too late,
+it'll fizzle into a tiny failball and the
+attack will end prematurely.  But if you keep pressing  at the
+right time, you can launch up to four
+fireballs!  You can also tap the GamePad
+screen instead of pressing .
+Whatever's clever!  OK. Let's fire it up!", 
+TN_StoreRoom_InfoEarly,"Hmm...you're a bit trigger-happy
+there. You need to be a little
+more patient. Maybe try again?", 
+TN_StoreRoom_InfoSlowly,"Hmm...you're a bit slow on the draw
+there. You need to be a little more
+aggressive. Maybe try again?", 
+TN_StoreRoom_InfoEarlyGood_Fire,"Pretty good. Build on that! Your
+last one was early.", 
+TN_StoreRoom_InfoSlowlyGood_Fire,"Pretty good. Build on that! Your
+last one was late.", 
+TN_StoreRoom_InfoEarlyNice_Fire,"Nice! Not bad at all. The last one
+was a little early.",
+TN_StoreRoom_InfoSlowlyNice_Fire,"Nice! Not bad at all. The last one
+was a little late.", 
+TN_StoreRoom_InfoEarlyGreat_Fire,"Great! Very close! The last one was
+just a tiny bit early.",  
+TN_StoreRoom_InfoSlowlyGreat_Fire,"Great! Very close! The last one was
+just a tiny bit late.", 
+TN_StoreRoom_InfoEnd00,"All right. Good job today! I hope
+you can put this training to use
+out there in the real world.  Come see me again anytime if
+you feel like training some more.", 
+TN_StoreRoom_InfoEnd01,"Great work today, Mario! I think
+you're ready to put this stuff to
+use out there in the wild!  ύJust so you know, you can always
+tap  on the GamePad to check
+out the manual, too.  ྠ", 
+TN_StoreRoom_InfoEnd02,"Yeah, yeah, I get it. You're Mario!
+You know what you're doing out
+there! It's true...  Well, if you ever do decide that you
+want a little more practice, you can
+come back anytime.  ύOh, and just so you know, you can
+tap  on the GamePad to check out
+the manual, too.  ྠ", 
+TN_StoreRoom_InfoCancel01,"Oh? Going to play your way into
+shape? That's cool.  If you ever change your mind and
+feel like you want a refresher,
+just come see me, OK?", 
+TN_StoreRoom_after,"Well, Mario... ǴShall we go and check
+on the fountain?", 
+TN_RedArea_Opening2_Painky30,"AAAAAAAAAAAAAAUGHUUGH!Ĭ
+My precious Big Paint Stars.Ĭ
+They're gone... All gone!", 
+TN_RedArea_Opening2_Kinopio10,"I'm pretty sure he's ugly-crying in
+there.", 
+TN_RedArea_Opening2_Peach10,"Um... ƐDon't cry...Ɛpaint can.  Maybe we could help you find the,
+uh...what were they called?̠
+Big Paint Stars?", 
+TN_RedArea_Opening2_Painky50,"It's no use...  They're gone... All gone!  Port Prisma without Big Paint Stars is
+like...Èlike...Èa tuna-fish sandwich
+without ketchup! *sob*", 
+TN_RedArea_Opening2_Kinopio20,"First of all, I don't really understand
+that analogy. ̠And secondly,̠ gross...  But thirdly, those Paint Stars do
+seem really important to you, and
+you DID just save my life.", 
+TN_RedArea_Opening2_Painky60,"WAAAAAAAAAAAAAAH!
+*sniff* *sniff*", 
+TN_RedArea_Opening2_Painky61,"Wait a second... What's that smell?
+It smells like...a Paint Star!", 
+TN_RedArea_Opening2_Painky62,"  I knew it!  Guys, look up there!
+It's one of our Big Paint Stars!", 
+TN_RedArea_Opening2_Painky62_2,"  Oh, isn't it glorious!", 
+TN_RedArea_Opening2_Painky63,"OK! Princess...Mario...Toad...
+you guys CAN help me after all!  Help me recover that Big Paint Star!", 
+TN_RedArea_Opening2_Painky63_2,"I mean, I did basically sacrifice my
+lifeblood to get you out of that
+pickle back there...", 
+TN_RedArea_Opening2_Peach20,"He's right. We definitely owe him
+a favor.  And besides...I have a feeling that
+this is related to OUR mystery:
+the poor Toad who was mailed to us!  What do you say, Mario?
+Will you help Mr. Can?", 
+TN_RedArea_Opening2_Painky64,"Mr. Can is my father.È
+ You can call me Huey!  Thanks for the help, guys.
+It means a lot.   All right. Let's go get that
+Big Paint Star, shall we?", 
+TN_RedArea_Opening2_Painky64_2,"Don't mind me. I'll just tuck myself
+into your pocket!", 
 TN_RedArea_Opening2_Painky65,"If you wanna chat, just press 
 to summon me. It's easier and
 less painful than hitting me with
 a hammer!  I know this town like the back of my
 can, so don't hesitate to ask me
 for advice if you get lost.", 
+TN_RedArea_Opening2_Kinopio30,"We're going to wait here for a while,
+Mario. Go paint the town red!̠
+And hopefully other colors too...", 
+TN_RedArea_Opening2_Peach30,"May you stay crisp in the face of
+crumpling adversity.", 
+TN_RedArea_Opening2_Peach31,"Come see me anytime you're feeling
+a bit wrinkly.  I can help flatten you out and
+restore your HP.", 
+TN_RedArea_Kinopio_Postman00,"Stop! Leave me alone! I'm just
+trying to deliver the mail!", 
+TN_RedArea_Kinopio_Postman01,"Mario?! What happened to me?  The last thing I remember, I was
+being assaulted by a bunch of
+Shy Guys with...ʼstraws?", 
+TN_RedArea_Kinopio_Postman02,"Was that just a dream? I still feel
+like there's something wrong with
+my head. Can you take a look?", 
+TN_RedArea_Kinopio_Postman03,"Wait, first things first. I haven't even
+introduced myself. I'm Toadmaster
+general here in Port Prisma!  Please feel free to stop by my
+humble postal branch over in the
+blue district when you get a chance.  You can even set up your mail
+to be forwarded here while you're
+in town. Isn't that great?  Well, thanks for saving me, Mario.
+Gotta get back to work!", 
+TN_RedArea_Kinopio01,"Whoa! It wasn't a nightmare...ʼ
+It was REAL!", 
+TN_RedArea_Kinopio01_00,"They really did destroy our beautiful
+Prisma Fountain...", 
+TN_RedArea_Kinopio01_01,"But...now that you're here, Mario,Ǵ
+everything's going to be all right!  Please save us from a lifetime of
+crushing despair and sadness.
+No pressure.  Welcome to the red district, by the 
+way!", 
+TN_RedArea_Kinopio01_2,"This is the red district.
+It's kind of the central plaza of
+Port Prisma.", 
+TN_RedArea_Kinopio04,"I was just admiring the flowers, when
+all of a sudden, I felt so...empty!  If I had my own hammer, I could have
+tried hitting some of the flowers or
+trees around here to restore myself.  Well...if I had my own hammer...and
+if I had been conscious.  Anyway, Port Prisma is so rich in
+color that paint comes bursting out
+of just about everything you see!  Try it for yourself. You won't hurt
+anything.", 
+TN_RedArea_Kinopio04_2,"Have you tried hitting the flowers
+with your hammer yet?
+Go on—Ǵtry it!", 
+TN_BlueArea_WhiteDoorRepair_00,"This door looks like it could use
+some fresh color. Try giving it a
+whack with the paint hammer!", 
+TN_BlueArea_WhiteDoorRepair,"Look at you, Mr. Fix It!
+This door's as good as new!
+It should open right up now.  Colorless objects won't work right
+until you restore their color, so don't
+be stingy with that paint hammer!", 
+TN_RedArea_Opening2_Painky66,"Hey, just a quick reminder. If you're
+lost or not sure what to do, just
+press  to talk to me!", 
+TN_BlueArea_Kinopio_Postman01,"I'm afraid I can't make it back to my
+post until the bridge is fixed.", 
+TN_BlueArea_RepairBridge_01,"Not the bridge!
+Anything but the bridge!", 
+TN_BlueArea_RepairBridge_01_2,"OĬhĬ.Ĭ.Ĭ.   That really stinks. Most of the
+good stuff in the blue district is
+on the other side of this bridge.   I'm no expert on bridge repairs, but
+I am an expert on bridge experts, and
+we're definitely gonna need one.", 
+TN_BlueArea_Painky_BreakBridge_01,"Yes, a bridge expert would be nice
+right about now. Don't we have one
+here in Port Prisma?", 
+TN_BlueArea_RepairBridge_03,"We usually do, but he's out of town...
+somewhere doing...something.", 
+TN_BlueArea_Painky_BreakBridge_02,"Somewhere? ʼSomething? ʼ
+I thought you said you were an
+expert on bridge experts!  Never mind. I guess we'll have to
+forget about the bridge for now.", 
+TN_BlueArea_RepairBridge_02,"The bridge guy left town to do
+something...somewhere.
+Trust me—I'm an expert.", 
+
+
+
+
+
+
+
+
+
+TN_BlueArea_Painky_BreakBridge_03,"Somewhere? ʼSomething? ʼ
+I thought you said you were an
+expert on bridge experts!  I suppose we'll have to keep an eye
+out for this bridge expert next time
+we leave town.", 
+TN_BlueArea_ShopKNP_12,"New Battle Cards for sale!
+Don't miss our exciting new selection
+of Battle Cards!", 
 TN_StoreRoom_Painky03,"Wait...a secret door?! What's with
 all this high-tech stuff just sitting
 around in a crummy storage room?  This is weird, Mario, but I'm thinking
@@ -398,8 +675,6 @@ round, so why not give it a try now?
 You literally have nothing to lose...", 
 TN_Smole_SKNP01," FExcuse me, sir! I'd like to volunteer for the Rescue
 Squad. I'm small, but I'm fierce. Please! d", 
-TN_RedArea_Opening2_Kinopio10,"I'm pretty sure he's ugly-crying in
-there.", 
 TN_YellowArea_GuestHouse02,"Ah, Princess Peach! I offer you a
 belated welcome to our humble
 town.  I'm sure you must be tired from your
@@ -410,8 +685,6 @@ TN_Smole_SKNP02," FArrrrgh! d",
 TN_RedArea_Kinopio05_2,"I'll just be here, waiting for you
 to save the day...", 
 TN_GuestHouse_Recovery01,"Welcome back.   Let me flatten your crinkles.", 
-TN_StoreRoom_InfoSlowlyNice_Fire,"Nice! Not bad at all. The last one
-was a little late.", 
 TN_Smole_SKNP03,"Whoa! This is great! Anyone got
 a basketball? I'm gonna go see
 if I can dunk. d   dNo, wait—even better...
@@ -421,38 +694,18 @@ There's quite a lot to attend to.
 Good luck out there, Mario!", 
 TN_GuestHouse_Recovery02,"There! Fresh as the day you were
 painted. Come back anytime!", 
-TN_StoreRoom_Info00_2,"All right, which Action Command do
-you want to practice now? 6  Ĭ,TN_StoreRoom_InfoSel00", 
-TN_StoreRoom_InfoGuard01,"Nice, sticking to the fundamentals.
-Not every player will try this one.
-But you will, because you're a boss!", 
 TN_Smole_SKNP04,"Excuse me, sir!", 
 TN_YellowArea_GuestHouse05,"It sounds like someone's in trouble!
 Let's save the day!", 
-TN_StoreRoom_Info00_3,"All right, which Action Command do
-you want to practice now? 6  Ĭ,TN_StoreRoom_InfoSel01", 
-TN_StoreRoom_InfoGuard02,"OK, let me show you the proper
-way to guard against attacks.  If you press  just before being hit
-by an attack, you'll block the attack
-and take less damage.  Even if you get hit with the start of
-an enemy's combo attack, you can
-still recover and block some damage,
-so don't give up!  You can also tap the GamePad
-screen instead of pressing .
-Whatever floats your boat!  OK. Let's try it!", 
 TN_Smole_SKNP05,"Thank you, sir!", 
 TN_YellowArea_GuestHouse06,"How's it going so far, Mario?
 Have you recovered that Paint Star
 for Huey yet?", 
-TN_StoreRoom_Info00_4,"All right, which Action Command do
-you want to practice now? 6  Ĭ,TN_StoreRoom_InfoSel00", 
 TN_Smole_SKNP06,"Thanks for everything, Mario.
 Maybe I can rescue you someday!", 
 TN_YellowArea_GuestHouse07,"HAHAHA! Did you hear that squeaky,
 annoying voice? I totally CRUSHED
 that Toad impression!", 
-TN_StoreRoom_Info00_5,"All right, which Action Command do
-you want to practice now? 6  Ĭ,TN_StoreRoom_InfoSel01", 
 TN_Smole_SKNP07," FI'm never gonna triple in size...which means I'll
 never be able to join the Rescue Squad... d", 
 TN_YellowArea_GuestHouse08,"Oh, Mario. My heeeeero.", 
@@ -464,10 +717,6 @@ pretty much acquired most of my
 goods basically legally...̠more or less.  I provide a service that allows you to
 take some of your favorite Things
 and give 'em the old SQUEEZE.  They call me...Ǵthe Wringer.", 
-TN_StoreRoom_InfoEnd00,"All right. Good job today! I hope
-you can put this training to use
-out there in the real world.  Come see me again anytime if
-you feel like training some more.", 
 TN_Smole_SKNP08,"Wait...what happened?
 I feel different...", 
 TN_YellowArea_GuestHouse09,"Oh, thank you...ɘpurple Toad.  We are a bit tired after all of this
@@ -478,29 +727,10 @@ your first squeeze is on us.  Now, don't worry about the Wringer.
 I'll be just fine.  See, once you get your first squeeze,
 you never wanna let go. You're
 hooked. That's how I turn a profit.   Enough talk. Let's get to squeezin'.", 
-TN_StoreRoom_InfoEnd01,"Great work today, Mario! I think
-you're ready to put this stuff to
-use out there in the wild!  ύJust so you know, you can always
-tap  on the GamePad to check
-out the manual, too.  ྠ", 
 TN_Smole_SKNP09,"Mario! Did you shrink?!", 
 TN_TheEnd,"The End", 
-TN_BlueArea_Painky_BreakBridge_01,"Yes, a bridge expert would be nice
-right about now. Don't we have one
-here in Port Prisma?", 
-TN_StoreRoom_InfoEnd02,"Yeah, yeah, I get it. You're Mario!
-You know what you're doing out
-there! It's true...  Well, if you ever do decide that you
-want a little more practice, you can
-come back anytime.  ύOh, and just so you know, you can
-tap  on the GamePad to check out
-the manual, too.  ྠ", 
 TN_Rainbow_KNP01,"That road is beautiful! Why aren't
 all of our roads painted like this?", 
-TN_BlueArea_Painky_BreakBridge_02,"Somewhere? ʼSomething? ʼ
-I thought you said you were an
-expert on bridge experts!  Never mind. I guess we'll have to
-forget about the bridge for now.", 
 TN_BlueArea_Slot_Painky01,"Um...were you thinking about giving
 our cards back? We could be
 attacked at any moment.", 
@@ -510,11 +740,6 @@ Creepy!",
 TN_YellowArea_Painky01_11,"No running from this fight, Mario!
 You think I let you wring me out
 for fun?!", 
-TN_BlueArea_Painky_BreakBridge_03,"Somewhere? ʼSomething? ʼ
-I thought you said you were an
-expert on bridge experts!  I suppose we'll have to keep an eye
-out for this bridge expert next time
-we leave town.", 
 TN_BlueArea_Slot_Painky02,"What an odd Toad.  Whatever! All's well that ends well.
 And learning about Battle Spin and
 getting a Mini Paint Star count as
@@ -529,31 +754,17 @@ TN_BlueArea_Painky_BreakBridge_04,"Somewhere? ʼSomething? ʼ
 I thought you said you were an
 expert on bridge experts!  ...Wait. I think we DID meet a bridge
 expert somewhere! Think, Mario!", 
-TN_StoreRoom_InfoJump01,"Ah, Jump. ʼClassic.  All right, take your position!", 
 TN_Rainbow_KNP04,"Good luck, Mario! Say hello to
 Princess Peach for me!", 
 TN_BlueArea_ExpHammer_Kuribo02,"If only I had said BOOM instead of
 GOOM...", 
-TN_BlueArea_RepairBridge_01,"Not the bridge!
-Anything but the bridge!", 
 TN_BlueArea_Kiritori_Painky01,"Wow, we're on the roof!", 
 TN_PostOffice_PostMan01,"Sorry, Mario. You don't have any
 new mail right now.", 
-TN_StoreRoom_InfoJump02,"OK, so this might be reasonably
-familiar to you.  If you press  just before landing
-on an enemy, you'll get an extra
-Jump attack.  With most basic Jump Battle Cards,
-you can string together five Jump
-attacks in a row!  You can also tap the GamePad
-instead of pressing . Up to you.  Ready to give it a try?", 
-TN_StoreRoom_JUMP_AC_Slowly,"Late!", 
 TN_BlueArea_Kinopio05_2,"Oh, I suppose there's occasionally
 an interesting tidbit or two in the
 newspaper...if you can stay awake
 long enough to find it.", 
-TN_BlueArea_RepairBridge_02,"The bridge guy left town to do
-something...somewhere.
-Trust me—I'm an expert.", 
 TN_PostOffice_PostMan02,"Hey, Mario!
 Great timing—you've got new mail!", 
 TN_RedArea_CompleteFlag01," Title: ???
@@ -569,8 +780,6 @@ damage you'll do! Really strong
 attacks can even hit multiple
 enemies!  You can also tap the GamePad
 screen instead of pressing .", 
-TN_BlueArea_RepairBridge_03,"We usually do, but he's out of town...
-somewhere doing...something.", 
 TN_PostOffice_PostMan03,"And here's another new letter
 for you. Exciting!", 
 TN_RedArea_CompleteFlag02," Title: ???
@@ -583,9 +792,6 @@ coursing through our bodies?
 No?", 
 TN_RedArea_StomachAcheHeiho01,"Hey, you...  You wanna hear a juicy secret?̠
 Just come a little closer...̠ That's it...", 
-TN_RedArea_Kinopio01_2,"This is the red district.
-It's kind of the central plaza of
-Port Prisma.", 
 TN_RedArea_Civilian01_01,"Port Prisma is definitely the cultural
 hub of Prism Island.  We've got the most shops and our
 beautiful foudnÈtĬaƐiǴ—ʼ
@@ -605,17 +811,12 @@ fellow with the hammer!",
 TN_PostOffice_PostMan05,"Remember, you can always reread
 old letters. Just open the menu, tap
 Items, and then tap the mail icon.", 
-TN_StoreRoom_after,"Well, Mario... ǴShall we go and check
-on the fountain?", 
 TN_RedArea_CompleteFlag04," Title: ???
  Perform all Cutouts to unlock. 
  You've performed  %d%.", 
 TN_Epilogue_Painky03,"The only thing left to do...Ǵis take
 this paint far away from Prism Island.  So far...ʼthat it can never hurt
 anyone ever again...", 
-TN_RedArea_Opening2_Kinopio30,"We're going to wait here for a while,
-Mario. Go paint the town red!̠
-And hopefully other colors too...", 
 TN_RedArea_StomachAcheHeiho03,"Where'd my straw go?", 
 TN_BlueArea_Slot_Kinopio04,"You seem as though you've seen a
 battle or two, which means you
@@ -650,27 +851,16 @@ Cards? I dare say...that's rather
 unsettling.  Please come back and see me once
 you've obtained some Battle Cards.
 Good DAY, sir!", 
-TN_StoreRoom_Info00_3_First_00,"Let's get started, shall we?
-Which Action Command do
-you want to practice first? 6  Ĭ,TN_StoreRoom_InfoSel00", 
 TN_RedArea_Kinopio_Gate03,"I hate that we even have to HAVE
 an Emergency Toilet Paper system,
 but these are the times we live in.", 
 TN_BlueArea_Slot_Kinopio07,"Oh, yes. Exquisite...  You, sir, have the finest collection
 of Battle Cards I've ever laid my
 stubby fingers on. Bar none!", 
-TN_BlueArea_WhiteDoorRepair,"Look at you, Mr. Fix It!
-This door's as good as new!
-It should open right up now.  Colorless objects won't work right
-until you restore their color, so don't
-be stingy with that paint hammer!", 
 TN_BlueArea_Slot_Kinopio08,"Oh, come now! I just want to look at
 them, and also touch all of them!
 Sir, I must insist!   Ĭ
 yesno", 
-TN_StoreRoom_InfoSlowly,"Hmm...you're a bit slow on the draw
-there. You need to be a little more
-aggressive. Maybe try again?", 
 TN_Information_Board_01,"Ahoy there, Mario! I'm your friendly
 neighborhood Guide Toad!  Did you know you can open up
 a map of Port Prisma by touching 
@@ -681,7 +871,6 @@ TN_GuestHouse_Painky01,"I think I speak for Mario when I say
 not at all, Princess.  Rest up! With any luck, we'll have
 recovered all of the Paint Stars
 before you even finish napping.", 
-TN_StoreRoom_Continue00,"Wanna practice again? >  Ĭ4TN_StoreRoom_ContinueSel00", 
 TN_Information_Board_02,"The blue district.
 The yellow district.
 The harbor district.
@@ -695,14 +884,9 @@ Or,Ǵ well...Ǵit used to be.  Who knows how much paint those
 suckers have stolen by now...
 Good luck tracking 'em down!", 
 TN_GuestHouse_Painky02,"Aww, you're such a sweetheart!", 
-TN_StoreRoom_InfoEarlyNice,"Nice! Not bad at all. You were just
-a little bit early.", 
 TN_Information_Board_03,"Ahoy, Mario! Good news!ˍ  I have taken a refresher course on
 the harbor district and can now
 offer you a full report.  So, how can I help you today? 8  Ĭ.TN_Information_Board_04", 
-TN_RedArea_Opening2_Peach10,"Um... ƐDon't cry...Ɛpaint can.  Maybe we could help you find the,
-uh...what were they called?̠
-Big Paint Stars?", 
 TN_BlueArea_Kinopio_Brother_01,"This guy really knows bridges.
 Trust me—I really know guys who
 know bridges.", 
@@ -729,19 +913,7 @@ TN_BlueArea_Kinopio05,"What happened? Did I fall asleep?  The last thing I rem
 Toad over there blathering on about
 something in his newspaper...Ǵ I'm
 getting sleepy just thinking about it.", 
-TN_StoreRoom_InfoSel00,"Jump.
-Hammer.
-Block.
-Never mind.", 
 TN_Information_Board_06,"Very well. Take care!  ྠ", 
-TN_StoreRoom_InfoSel01,"Jump.
-Hammer.
-Fire Flower.
-Block.
-Never mind.", 
-TN_StoreRoom_InfoExcellent,"Excellent! You nailed it! I don't
-even think I've seen that done
-in a movie!", 
 TN_Information_Board_07,"Ahoy, Mario!ˍ Looking for anything
 in particular around Port Prisma
 today? 8  Ĭ.TN_Information_Board_04", 
@@ -752,12 +924,7 @@ just been littered here like a
 piece of junk mail.  Why don't you try repainting him?
 Maybe he'll have some helpful
 information!", 
-TN_StoreRoom_InfoGuard_00,"That's how it's done!
-A successful block!
-That'll reduce the damage you take.", 
 TN_Smole_Painky01,"No, silly! You've gotten bigger!", 
-TN_StoreRoom_InfoEarlyGreat_Fire,"Great! Very close! The last one was
-just a tiny bit early.", 
 TN_YellowArea_Painky02_04,"Mario, your friend is languishing in
 a paint-free state. Press  to slap
 a fresh coat of paint on him!", 
@@ -783,14 +950,6 @@ you could use some help.",
 TN_BlueArea_ShopKNP_11,"Ah, Mario! Welcome!  We've got some great Battle Cards
 for you today. You're gonna love 'em.
 Come on in!", 
-TN_StoreRoom_Info00_2_First,"Mario! Welcome to my dojo!  I've watched more kung-fu movies
-than any other Toad in the area,
-so I'm kind of an expert on combat.  If you're going to be out there
-defending yourself from wild
-Goombas and Shy Guys, you're
-going to have to learn good timing.  And I'm just the Toad to help!", 
-TN_StoreRoom_InfoGood_2,"Pretty good. Build on that! Your
-last one was late.", 
 TN_Information_Board_20,"Let's see...in the yellow district,
 you'll find the Rescue Squad HQ.  Our own kung-fu-watching Action
 Toad lives there in his fragrant
@@ -806,18 +965,11 @@ yellow district.",
 TN_RedArea_Civilian03_01,"Hi, Mario. I'm the town bannersmith.̠
 It's totally a thing!  Anyway, I made some banners to
 celebrate your accomplishments.", 
-TN_BlueArea_RepairBridge_01_2,"OĬhĬ.Ĭ.Ĭ.   That really stinks. Most of the
-good stuff in the blue district is
-on the other side of this bridge.   I'm no expert on bridge repairs, but
-I am an expert on bridge experts, and
-we're definitely gonna need one.", 
 TN_Information_Board_22,"Our own kung-fu-watching Action
 Toad lives there in his fragrant
 Action Command Dojo.  And you can visit the Prisma Museum
 in the yellow district, too.  From here, head → to reach the
 yellow district.", 
-TN_RedArea_Opening2_Painky64_2,"Don't mind me. I'll just tuck myself
-into your pocket!", 
 TN_RedArea_Civilian03_02,"If you can unlock all of the banners, 
 Port Prisma will look way cooler!", 
 TN_ToKP_Painky01_2,"Well, there's nothing to do but
@@ -832,8 +984,6 @@ yellow district.",
 TN_YellowArea_Painky01_01_02_no,"Hey, uh... There's no real point in
 using this card right now.
 Try something else.", 
-TN_RedArea_Opening2_Peach30,"May you stay crisp in the face of
-crumpling adversity.", 
 TN_BlueArea_Kinopio_Wheel01,"This waterwheel is the best.
 It's easily in my top 500 favorite
 waterwheels.  And before you ask, yes, I HAVE
@@ -844,10 +994,6 @@ Cards, Action Commands,
 Colorless Spots, and Wizards.  I'll update each of them with all
 of your most recent activities,
 so be sure to check 'em out!", 
-TN_StoreRoom_JUMP_AC_Nice,"Perfect!", 
-TN_RedArea_Opening2_Peach31,"Come see me anytime you're feeling
-a bit wrinkly.  I can help flatten you out and
-restore your HP.", 
 TN_RedArea_StomachAcheHeiho03_2,"You want to hear that juicy secret?   FI wear a mask because I'm afraid
 to put myself out there... d", 
 TN_BlueArea_Kinopio_Wheel02,"Yeah, this is way more fun to
@@ -869,19 +1015,14 @@ Just tap this button to try it!",
 TN_BlueArea_Btl_Painky_03_2,"You're still light on coins? Bah.
 Fine. I'll throw in another 10 to
 cover you...mooch.", 
-TN_StoreRoom_InfoSlowNice,"Nice! Not bad at all. You were just
-a little bit late.", 
 TN_ToKP_Painky02,"Aw, come on! Our magical road is
 too slippery to walk on? After
 everything we've done? Gah!", 
-TN_RedArea_Opening2_Painky62_2,"  Oh, isn't it glorious!", 
 TN_GuestHouse_Kinopio00,"Ooh, look! Another message from
 Peach. A new Holo-Peach!", 
 TN_BlueArea_Btl_Painky_03,"You know what? I'll throw in 10
 coins to help you out. But that's it!
 I can't be paying for your lifestyle.", 
-TN_StoreRoom_InfoFire01,"Ooh, Fire Flower. Yes. This one is
-spicy. All right, let's get ready!", 
 TN_ToKP_Painky03,"It's like some kind of...ɘrainbow...ɘbut,
 like, also a road. ɘA road made OUT
 of RAINBOWS! That's ludicrous!", 
@@ -895,25 +1036,12 @@ YOU KNOW WHAT I MEAN!",
 TN_BlueArea_Btl_Painky_04,"There's no need to run, Mario. We
 can win this! We just need to get
 a card using Battle Spin!", 
-TN_StoreRoom_InfoFire02,"OK, so here's the trick to
-the Fire Flower.  When the fireball forms in your hand,
-press  to throw it!  If you press  too early or too late,
-it'll fizzle into a tiny failball and the
-attack will end prematurely.  But if you keep pressing  at the
-right time, you can launch up to four
-fireballs!  You can also tap the GamePad
-screen instead of pressing .
-Whatever's clever!  OK. Let's fire it up!", 
-TN_RedArea_Kinopio01,"Whoa! It wasn't a nightmare...ʼ
-It was REAL!", 
 TN_GuestHouse_Peach02,"Look, Mario. Isn't this a quaint
 room? How adorable!  I hope you don't mind me resting
 here while you and Huey go
 after the Paint Stars.", 
 TN_GuestHouse_Kinopio02,"Well, at least it sounds like Princess
 Peach is safe. That's a relief!", 
-TN_RedArea_Opening2_Painky60,"WAAAAAAAAAAAAAAH!
-*sniff* *sniff*", 
 TN_YellowArea_GuestHouse01_2,"My apologies for the rather...Ǵah,Ǵ
 nonexistent welcome to Port
 Prisma.  As you're no doubt aware, we've
@@ -931,8 +1059,6 @@ TN_PortArea_Squeezer02,"Oh, right...you haven't done this
 before.  Well, it's easy. Just get real close
 to the thing you want to squeeze,
 and press . Bada-bing, bada-boom.", 
-TN_RedArea_Opening2_Painky61,"Wait a second... What's that smell?
-It smells like...a Paint Star!", 
 Hint_EXP_01,"Ooh, it's a Hammer Scrap!  If you collect enough of these, you'll
 be able to store more paint in your
 paint hammer.  Enemies sometimes drop them after
@@ -944,16 +1070,6 @@ clouds. How awful!",
 TN_BlueArea_Kinopio_PreCoffee_00,"Oh, thank you, Mario!  Here, let me offer you a drink.
 It's the least I can do, seeing as how
 you saved me.  I'll just grab you...", 
-TN_RedArea_Opening2_Painky62,"  I knew it!  Guys, look up there!
-It's one of our Big Paint Stars!", 
-TN_RedArea_Kinopio04,"I was just admiring the flowers, when
-all of a sudden, I felt so...empty!  If I had my own hammer, I could have
-tried hitting some of the flowers or
-trees around here to restore myself.  Well...if I had my own hammer...and
-if I had been conscious.  Anyway, Port Prisma is so rich in
-color that paint comes bursting out
-of just about everything you see!  Try it for yourself. You won't hurt
-anything.", 
 TN_GuestHouse_Kinopio05,"I can't believe Princess Peach is in
 Bowser's Castle. No one could have
 foreseen this!", 
@@ -966,14 +1082,6 @@ straws. Because then only outlaws
 will have straws.  Maybe I need a break. The café
 game is too intense here in the city. 
 I need a change of scenery...", 
-TN_StoreRoom_InfoCancel01,"Oh? Going to play your way into
-shape? That's cool.  If you ever change your mind and
-feel like you want a refresher,
-just come see me, OK?", 
-TN_StoreRoom_InfoEarlyGreat,"Great! Almost perfect. Your timing
-was just a little bit early.", 
-TN_RedArea_Opening2_Painky63,"OK! Princess...Mario...Toad...
-you guys CAN help me after all!  Help me recover that Big Paint Star!", 
 TN_RedArea_Kinopio05,"Oh, Mario!
 I was hoping you'd show up!  So, is everything done? Have you
 repainted everything? Defeated the
@@ -989,10 +1097,6 @@ TN_PanelShop_Visitor02_2,"Wait...what's going on?
 Where'd they go?  I got swarmed by a bunch of rowdy
 customers with straws, and then
 everything went white!", 
-TN_RedArea_Opening2_Painky64,"Mr. Can is my father.È
- You can call me Huey!  Thanks for the help, guys.
-It means a lot.   All right. Let's go get that
-Big Paint Star, shall we?", 
 TN_GuestHouse_Kinopio07,"Ooh, I just know Bowser is planning
 something terrible. You've got to stop
 him, Mario!", 
@@ -1009,9 +1113,6 @@ you won't wanna stop...
 or your money back!", 
 TN_PanelShop_Visitor02_3,"I wasn't slacking off, boss—I swear!
 I'll go drum up some more customers.", 
-TN_RedArea_Kinopio04_2,"Have you tried hitting the flowers
-with your hammer yet?
-Go on—Ǵtry it!", 
 TN_GuestHouse_Kinopio08,"Oh no! What happened to the rest
 of the message? What does it mean?
 Hurry, Mario! You've got to save her!", 
@@ -1024,11 +1125,6 @@ TN_PortArea_Squeezer07,"Wowza! You sure you haven't done
 this before?  Now don't be a stranger. Come on
 back whenever you feel the need
 to squeeze!", 
-TN_RedArea_Opening2_Painky66,"Hey, just a quick reminder. If you're
-lost or not sure what to do, just
-press  to talk to me!", 
-TN_RedArea_Kinopio01_00,"They really did destroy our beautiful
-Prisma Fountain...", 
 TN_BlueArea_Painky_LookStar02,"It's Paint Star paint! Coming off a
 blue Paint Star, if I'm not mistaken.", 
 TN_StoreRoom_CuratorKNP02,"Come, this way.", 
@@ -1040,11 +1136,6 @@ TN_RedArea_Opening2_Painky67,"Hey, remember that time I told you
 that you can press  to talk to me?̠
 That was awesome.  Sorry, it's just really lonely in your
 pocket.", 
-TN_RedArea_Kinopio01_01,"But...now that you're here, Mario,Ǵ
-everything's going to be all right!  Please save us from a lifetime of
-crushing despair and sadness.
-No pressure.  Welcome to the red district, by the 
-way!", 
 TN_BlueArea_KNP02_BridgeInduce01,"Check it out! I fixed the bridge!
 It's as good as new.  Of course, you never saw it when
 it was new, so you'll just have to
@@ -1053,8 +1144,6 @@ I love to see people enjoy my work.",
 TN_StoreRoom_CuratorKNP03,"Oh, ho! Sorry, old sport, but I'm
 afraid you've made your choice.
 Please come with me.", 
-TN_StoreRoom_ContinueSel00,"Yep.
-No, thanks.", 
 TN_Smole_SKNP10,"I can't believe it! My dreams are
 coming true...", 
 TN_YellowArea_GuestHouse11,"Good luck, Mario. Don't hesitate to
@@ -1070,10 +1159,6 @@ that ""great bridge feel""?",
 TN_Epilogue_KNP01,"Oh, Princess Peach!
 I'm so relieved to see you!
 Thank you for everything, Mario!", 
-TN_RedArea_Opening2_Kinopio20,"First of all, I don't really understand
-that analogy. ̠And secondly,̠ gross...  But thirdly, those Paint Stars do
-seem really important to you, and
-you DID just save my life.", 
 TN_Smole_KNP01,"Sorry, kid. Rescue Squadding is
 dangerous work, and we need
 everyone to pull their own weight. d  Go eat vegetables until you triple
@@ -1085,9 +1170,6 @@ castle!  Who in the world could have
 done that?", 
 TN_YellowArea_Painky01_09,"Don't be shy!
 Fill that bad boy up with paint!", 
-TN_StoreRoom_InfoGood,"Pretty good. Build on that! Your
-last one was early.", 
-TN_StoreRoom_JUMP_AC_Early,"Early!", 
 TN_Smole_KNP02,"Great Scott! How many vegetables
 did you eat?!  You're more than qualified for
 the Rescue Squad now, son.
@@ -1099,14 +1181,10 @@ but they still got me.  Now that I have a new lease on
 life, I'm gonna take more risks.
 I've always wanted to try
 cordless bungee jumping!", 
-TN_StoreRoom_InfoEarlyGood_Fire,"Pretty good. Build on that! Your
-last one was early.", 
 TN_Smole_KNP03,"Yes, yes. Of course. Now, you'll
 start out as a mere trainee, of
 course, but I see great things
 in your future!", 
-TN_BlueArea_Kinopio_Postman01,"I'm afraid I can't make it back to my
-post until the bridge is fixed.", 
 TN_BlueArea_Kinopio_Postman02,"Oh, I'm so glad that the bridge is
 fixed. I hate to think of how much
 mail piled up back at the office!  Of course, with the bridge out...
@@ -1118,33 +1196,11 @@ TN_BlueArea_Kinopio_Postman03,"Crooked sign? That's a terrible
 sign! I can't have people thinking
 this is a crooked business!  I'll send myself to fix it right away!
 PRIORITY MAILTOAD!", 
-TN_StoreRoom_InfoHammer01,"Ah, the tried and true. Hammer
-never lets you down, does it?
-All right, get ready!", 
-TN_StoreRoom_InfoNice,"Nice! Not bad at all. The last one
-was a little early.", 
-TN_StoreRoom_InfoSlowly_00,"I'm looking for a little more urgency
-in your action... Try again!", 
 TN_BlueArea_Kinopio_Postman05,"How's it look? Better?  Nothing can stop the mail!
 Not rain, nor sleet, nor hail, nor
 crooked signs, nor Draggadon...  Well, maybe Draggadon. But the
 point is that we're back on the
 straight and narrow.", 
-TN_StoreRoom_InfoHammer02,"So here's a crash course in smashing
-with the hammer!  When you rear back to swing, watch
-for a burst of light coming from the
-top of the hammer.  Press  or tap your GamePad when
-the light is at its brightest to swing
-with max force!  (Incidentally, Max Force is the
-working title of my autobiographical
-kung-fu script. ʼBut we can talk
-about that later.)  If you time it just right, you'll get
-an ""Excellent!"" and inflict huge
-damage on your enemy.  But be careful! Wait too long, and
-you'll bungle it and do almost no
-damage.  Ready to do this thing? Engage Max
-Force! ʼI mean...ʼgo ahead. Sorry,
-that's kind of my catchphrase.", 
 TN_RedArea_Attention_Heiho01,"Hng...", 
 TN_PanelShop_Visitor02,"You gonna pay for that?!", 
 TN_RedArea_ReachStar_Painky30,"YES! We made it to the Big Paint
@@ -1155,14 +1211,9 @@ on that roof?",
 TN_RedArea_ReachStar_Painky31,"Hmm. Actually, this isn't a 
 Big Paint Star after all.
 It's much too small.  Mario, this is a Mini Paint Star!", 
-TN_RedArea_Kinopio_Postman00,"Stop! Leave me alone! I'm just
-trying to deliver the mail!", 
 TN_BlueArea_Kinopio_Bridge_01,"Want to know how I repaired the
 bridge so perfectly? Easy.Ǵ
 I'm the best!", 
-TN_StoreRoom_InfoEarly_00,"Whoa! Slow down, grasshopper!
-I've always wanted to say that.
-Your timing is too early.", 
 TN_RedArea_ReachStar_Painky32,"Not to worry—this is a good sign!
 Mini Paint Stars are kind of
 like...baby Big Paint Stars.  So we must be on the right track.
@@ -1170,9 +1221,6 @@ Mini Paint Stars will always lead to
 Big Paint Stars!  And Big Paint Stars will lead to my
 beautiful fountain being restored
 to its former glory!", 
-TN_RedArea_Kinopio_Postman01,"Mario?! What happened to me?  The last thing I remember, I was
-being assaulted by a bunch of
-Shy Guys with...ʼstraws?", 
 TN_BlueArea_Kinopio_Bridge_02,"Man, that Crimson Tower bridge
 looked good. You looked pretty
 OK crossing it, too.", 
@@ -1180,9 +1228,6 @@ TN_RedArea_ReachStar_Painky33,"Well, that's not good.  That airship is making 
 a huge bucket of paint!  Did they steal all of that from
 Port Prisma?!  Grab this red Mini Paint Star,
 and let's get moving!", 
-TN_RedArea_Kinopio_Postman02,"Was that just a dream? I still feel
-like there's something wrong with
-my head. Can you take a look?", 
 TN_BlueArea_Kinopio02_0,"Good night, cruel world...", 
 TN_BlueArea_Slot_Kinopio10,"I'll take my leave of you now. Thank
 you for sharing your wondrous Battle
@@ -1190,14 +1235,6 @@ Cards with me.",
 TN_RedArea_CompleteFlag11," ""Card Champion""
  You've collected all  %d
  Battle Cards!", 
-TN_RedArea_Kinopio_Postman03,"Wait, first things first. I haven't even
-introduced myself. I'm Toadmaster
-general here in Port Prisma!  Please feel free to stop by my
-humble postal branch over in the
-blue district when you get a chance.  You can even set up your mail
-to be forwarded here while you're
-in town. Isn't that great?  Well, thanks for saving me, Mario.
-Gotta get back to work!", 
 TN_RedArea_CompleteFlag12," ""Gold Bug""
  You've collected  %d coins! ", 
 TN_Star00,"Mario, you can count on our support
@@ -1225,9 +1262,6 @@ TN_RedArea_CompleteFlag13," ""Honorary Paint Can""
  colorless spots on Prism Island!", 
 TN_Star01,"Would you like to see my memories?   Ĭ
 yesno", 
-TN_RedArea_Opening2_Painky30,"AAAAAAAAAAAAAAUGHUUGH!Ĭ
-My precious Big Paint Stars.Ĭ
-They're gone... All gone!", 
 TN_BlueArea_Painky_Wheel01,"Usually there's water flowing here,
 making the wheel spin around and
 look super cool.  Now it's just sitting there looking
@@ -1241,8 +1275,6 @@ TN_RedArea_Painky_BridgeInduce01,"Hey, Mario, remember that bridge
 builder we met? I wonder if he's
 fixed the bridge in the blue
 district yet.", 
-TN_StoreRoom_InfoEarlyNice_Fire,"Nice! Not bad at all. The last one
-was a little early.", 
 TN_RedArea_CompleteFlag15," ""Excellence Embodied""
  You've performed  %d ""Excellent!""
  attacks!", 
@@ -1269,12 +1301,6 @@ blue district.",
 TN_BlueArea_ShopKNP_02,"Card shop here! Cards for sale!
 Battle Cards, that is! If you do
 battle, you'll need Battle Cards!", 
-TN_StoreRoom_InfoEarly,"Hmm...you're a bit trigger-happy
-there. You need to be a little
-more patient. Maybe try again?", 
-TN_StoreRoom_Info00_3_First,"Let's get started, shall we?
-Which Action Command do
-you want to practice first? 6  Ĭ,TN_StoreRoom_InfoSel01", 
 TN_ToKP_Luigi01,"Mario! It's-a me!  I don't know how it happened, but
 some green paint fell out of the sky
 and repainted my kart!  Let's-a race down Rainbow Road
@@ -1287,11 +1313,6 @@ Paint Stars would show us the
 way somehow...", 
 TN_ToKP_Luigi02,"Yes! Here we gooooo!", 
 TN_Epilogue_Peach01," ÍAww, everyone looks so happy... ", 
-TN_RedArea_Opening2_Peach20,"He's right. We definitely owe him
-a favor.  And besides...I have a feeling that
-this is related to OUR mystery:
-the poor Toad who was mailed to us!  What do you say, Mario?
-Will you help Mr. Can?", 
 TN_ToKP_Luigi03,"Aww. Just let me know when
 you're a-ready.", 
 TN_Epilogue_Peach02," Í dI'm so glad that peace has finally
@@ -1317,11 +1338,7 @@ scenic beauty and local hospitality.  And don't miss our number-one
 attraction—Port Prisma's Prisma
 Fountain. It's a glorious rainbow
 of happiness and joy!", 
-TN_StoreRoom_InfoEarlyGood,"Not bad. Build on that! Your timing
-was a little bit early.", 
 TN_Epilogue_Peach05," Í dWhat's wrong? You look so sad... d ", 
-TN_StoreRoom_InfoSlowlyGood_Fire,"Pretty good. Build on that! Your
-last one was late.", 
 TN_Rainbow_Star01,"Oh ye of little faith!   Mario, Huey...as promised, we will
 show you the way. Behold!
 The power of paint!", 
@@ -1353,30 +1370,17 @@ won't have anywhere to put it.  Go ahead and lighten your load
 some, and then come on back.
 OK, chief?", 
 TN_YellowArea_Painky01_21_02,"Ouch...", 
-TN_RedArea_Opening2_Painky50,"It's no use...  They're gone... All gone!  Port Prisma without Big Paint Stars is
-like...Èlike...Èa tuna-fish sandwich
-without ketchup! *sob*", 
 TN_RedArea_Aground_Kinopio04,"What's the holdup? Problem with
 the tracks?", 
 TN_PortArea_Twist_03,"We ain't got nothin' squeeze-worthy
 for ya at the moment.
 Sorry, pal.", 
-TN_StoreRoom_InfoSlowlyGreat_Fire,"Great! Very close! The last one was
-just a tiny bit late.", 
 TN_YellowArea_Peach03,"Please, Mario!
 Do as the paint can says!", 
 TN_PortArea_Twist_04,"Now, wait just a minute...
 You don't have enough coins!  Sorry, pal. This ain't a charity.
 Come back when you're serious
 about squeezin'.", 
-TN_StoreRoom_InfoNice_2,"Nice! Not bad at all. The last one
-was a little late.", 
-TN_RedArea_Opening2_Painky63_2,"I mean, I did basically sacrifice my
-lifeblood to get you out of that
-pickle back there...", 
-TN_BlueArea_WhiteDoorRepair_00,"This door looks like it could use
-some fresh color. Try giving it a
-whack with the paint hammer!", 
 TN_RedArea_Civilian02_01,"Please help us restore our fountain
 to its former glory! We need those
 precious Big Paint Stars!", 
@@ -1394,16 +1398,12 @@ noticed that your sign is crooked.
 Thought you'd want to know.", 
 TN_PortArea_Twist_06,"Hey! NOBODY walks out of here
 without squeezin' my goods!", 
-TN_StoreRoom_InfoGreat_2,"Great! Very close! The last one was
-just a tiny bit late.", 
 TN_YellowArea_Painky11_4,"You don't have a mushroom card?!
 All right, take this emergency 
 mushroom card that I keep stashed
 in my belly button!", 
 TN_PortArea_Twist_07,"So just press , and get to squeezin'
 already! Sheesh!", 
-TN_StoreRoom_InfoGreat,"Great! Very close! The last one was
-just a tiny bit early.", 
 TN_Information_Board_30,"Yes, the harbor district.
 Some prime real estate there!  Well, you'll find the Wringer down
 there, of course.  And there's a Toad there who
