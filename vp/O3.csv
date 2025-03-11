@@ -1,0 +1,539 @@
+﻿"Label","String","Translation"
+"O3_Repair_CraneKNP00","Half of my color has been sapped...
+I can't move!","Half of my color has been sapped...
+I can't move!"
+"O3_All_EngineerKNP02","Congratulations on coming back to
+active duty!","Congratulations on coming back to
+active duty!"
+"O3_Repair_CraneKNP01","Thank you so much for saving me!  By the way, I got put in charge of 
+operating this crane, but I just
+started here, and I...̠have no idea
+what I'm doing.  I'm scared to ask the boss because
+he'll find out I lied on my résumé.
+Wanna help me out?","Thank you so much for saving me!  By the way, I got put in charge of 
+operating this crane, but I just
+started here, and I...̠have no idea
+what I'm doing.  I'm scared to ask the boss because
+he'll find out I lied on my résumé.
+Wanna help me out?"
+"O3_Repair_EngineerKNP7_04","So there were a buncha bad guys
+stuck to the back side of that thing?
+How'd they even get in there?","So there were a buncha bad guys
+stuck to the back side of that thing?
+How'd they even get in there?"
+"O3_Repair_CraneKNP02","Nailed it! We're a couple of pros!  Thanks for talking me through it,
+Mario.","Nailed it! We're a couple of pros!  Thanks for talking me through it,
+Mario."
+"O3_RepairProgress_ManagerKNP10","Go ahead and refer to the chart
+over there on that wall.","Go ahead and refer to the chart
+over there on that wall."
+"O3_Repair_PassengerKNP2_01","The train will head over to Tangerino
+Grill after this.","The train will head over to Tangerino
+Grill after this."
+"O3_RepairProgress_ManagerKNP11","Smokestack set!","Smokestack set!"
+"O3_Repair_EngineerKNP2_01","This chute is supposed to move coal
+from the tank outside the factory.
+But this darn box is in the way!","This chute is supposed to move coal
+from the tank outside the factory.
+But this darn box is in the way!"
+"O3_RepairProgress_ManagerKNP12","Coal car set!","Coal car set!"
+"O3_Repair_EngineerKNP2_02","The coal's in place!","The coal's in place!"
+"O3_RepairProgress_ManagerKNP13","Coal set!","Coal set!"
+"O3_Repair_EngineerKNP5_01","This car stores the coal that the
+train runs on.  I tried pulling it by hand to try to 
+link it up with the train over there,
+but it won't budge.   Maybe I should be pushing instead
+of pulling? I dunno...Ĭ Regardless, I
+don't think I can do this with just
+my bare hands.","This car stores the coal that the
+train runs on.  I tried pulling it by hand to try to 
+link it up with the train over there,
+but it won't budge.   Maybe I should be pushing instead
+of pulling? I dunno...Ĭ Regardless, I
+don't think I can do this with just
+my bare hands."
+"O3_RepairProgress_ManagerKNP14","Boiler set!","Boiler set!"
+"O3_Repair_EngineerKNP5_02","I expected nothing less from you,
+Mario! Great job!  If you could go ahead and refill the
+coal car too, that would be great.","I expected nothing less from you,
+Mario! Great job!  If you could go ahead and refill the
+coal car too, that would be great."
+"O3_RepairRequest_ManagerPainky01","Mario! This guy gave us a Paint
+Star before like it was nothing.  The least we can do is help him go
+out with a bang here!","Mario! This guy gave us a Paint
+Star before like it was nothing.  The least we can do is help him go
+out with a bang here!"
+"O3_RepairProgress_ManagerKNP15","Cabin set!","Cabin set!"
+"O3_RepairProgress_ManagerKNP16","Lid set!","Lid set!"
+"O3_RepairProgress_ManagerKNP17","All parts accounted for!
+Repairs complete!","All parts accounted for!
+Repairs complete!"
+"O3_CoalWave_HEI01","You asked for it!","You asked for it!"
+"O3_CoalWave_EngineerKNP01","Thanks, Mario.̠
+But why isn't the coal coming
+through?  Would you mind going outside and
+checking the coal tank?","Thanks, Mario.̠
+But why isn't the coal coming
+through?  Would you mind going outside and
+checking the coal tank?"
+"O3_CoalWave_EngineerKNP02","There's no coal coming through.
+Would you mind going outside and
+checking the coal tank?","There's no coal coming through.
+Would you mind going outside and
+checking the coal tank?"
+"O3_CoalWave_HEI04","You...̠rang?","You...̠rang?"
+"O3_FinishPicture_KNP01","The color has been drained here...Ĭ
+but I feel like something really
+important was drawn on this wall...","The color has been drained here...Ĭ
+but I feel like something really
+important was drawn on this wall..."
+"O3_Repair_PassengerKNP12_01","Apparently this is the VIP car.
+It's a fancy car for celebrities
+and other important people.  I wish I could afford a ticket to
+ride in that car...","Apparently this is the VIP car.
+It's a fancy car for celebrities
+and other important people.  I wish I could afford a ticket to
+ride in that car..."
+"O3_FinishPicture_KNP02","Whoa! It's a complete diagram of the
+train engine! Awesome!  You can check this diagram against
+the real train engine!","Whoa! It's a complete diagram of the
+train engine! Awesome!  You can check this diagram against
+the real train engine!"
+"O3_CoalWave_EngineerKNP04","How long am I gonna have to wait
+for the coal to—","How long am I gonna have to wait
+for the coal to—"
+"O3_FinishPicture_KNP03","You can check this diagram against
+the real train engine!","You can check this diagram against
+the real train engine!"
+"O3_Departure_Driver01","Thank you, everyone, for all you've
+done! The train is in perfect form!  The passengers are waiting, and
+hungry, so we're off to Tangerino
+Grill!","Thank you, everyone, for all you've
+done! The train is in perfect form!  The passengers are waiting, and
+hungry, so we're off to Tangerino
+Grill!"
+"O3_Repair_PassengerKNP9_01","They're not even letting us see the
+train-repair factory? That stinks.","They're not even letting us see the
+train-repair factory? That stinks."
+"O3_Departure_Manager05_2","This is the end for me.
+I'm officially retiring now.
+Thanks for all the good memories.","This is the end for me.
+I'm officially retiring now.
+Thanks for all the good memories."
+"O3_Departure_Manager01","At a glance, the train doesn't look
+no different, but all of the parts
+have been overhauled and tuned up.  Should run just as well as it did
+before it was crushed.  Hope that I can say the same about
+myself, seein' as how me and this
+train seemed to be connected to
+each other!","At a glance, the train doesn't look
+no different, but all of the parts
+have been overhauled and tuned up.  Should run just as well as it did
+before it was crushed.  Hope that I can say the same about
+myself, seein' as how me and this
+train seemed to be connected to
+each other!"
+"O3_Departure_Manager03","One last run...
+Give it everything you've got,
+engine.","One last run...
+Give it everything you've got,
+engine."
+"O3_Departure_Manager04","This is all thanks to you, Mario, so
+please take this.","This is all thanks to you, Mario, so
+please take this."
+"O3_Repair_EngineerKNP4_00","Well done! The cabin is in the
+perfect spot! Now raise the crane.","Well done! The cabin is in the
+perfect spot! Now raise the crane."
+"O3_Repair_PassengerKNP4_01","I've been riding this train since
+Kiwano Temple. My stomach is
+growling up a storm!","I've been riding this train since
+Kiwano Temple. My stomach is
+growling up a storm!"
+"O3_Departure_Manager05","Right. Gather round, boys.","Right. Gather round, boys."
+"O3_Repair_EngineerKNP4_01","Strange... The engine's cabin is in
+place, but the foreman isn't
+giving the go-ahead...","Strange... The engine's cabin is in
+place, but the foreman isn't
+giving the go-ahead..."
+"O3_Departure_Manager06","I'm going to stay and soak in this
+trainworks for a while. Try to cement
+these memories in my heart...  But unlike me, your work isn't over
+yet. You've got a bright future
+ahead of you. Enjoy it.
+It goes so fast...","I'm going to stay and soak in this
+trainworks for a while. Try to cement
+these memories in my heart...  But unlike me, your work isn't over
+yet. You've got a bright future
+ahead of you. Enjoy it.
+It goes so fast..."
+"O3_Before_EngineerKNP2_01","I hope the foreman's last job takes
+full advantage of everything this
+factory has to offer!","I hope the foreman's last job takes
+full advantage of everything this
+factory has to offer!"
+"O3_Repair_Boiler_Painky01","It's pitch black in here.
+Isn't there an exit somewhere?","It's pitch black in here.
+Isn't there an exit somewhere?"
+"O3_Repair_CraneKNP_Help01","Press  in the right place to signal
+when I should lower the crane.","Press  in the right place to signal
+when I should lower the crane."
+"O3_Repair_CraneKNP_Help02","Press  when there's no space
+between the cabin and the boiler.","Press  when there's no space
+between the cabin and the boiler."
+"O3_Repair_CraneKNP_Help03","The Toad above the cabin will give
+you a sign. Look carefully!","The Toad above the cabin will give
+you a sign. Look carefully!"
+"O3_RepairRequest_ManagerKNP01","Boy, am I glad to see you, Mario.
+You'll never guess what happened...  We got an order. A real order! Ĭ
+An engine needs repairing.
+It's just so perfect for my last job!  But these hooligans are...Ĭoh, how
+do you kids say it...? All up in our
+biz, so now we can't do any repairs!
+And repairs is my biz!   I'm a lover and a fixer, but I've never
+been much of a fighter.Ĭ
+Think you could help us out?","Boy, am I glad to see you, Mario.
+You'll never guess what happened...  We got an order. A real order! Ĭ
+An engine needs repairing.
+It's just so perfect for my last job!  But these hooligans are...Ĭoh, how
+do you kids say it...? All up in our
+biz, so now we can't do any repairs!
+And repairs is my biz!   I'm a lover and a fixer, but I've never
+been much of a fighter.Ĭ
+Think you could help us out?"
+"O3_Repair_PassengerKNP8_01","This train IS going to the restaurant,
+right? Is that right?","This train IS going to the restaurant,
+right? Is that right?"
+"O3_Before_Manager_Painky00","Well, I hope your last job will be a
+memorable one at least!  On another note, have you guys
+seen any Paint Stars around here?","Well, I hope your last job will be a
+memorable one at least!  On another note, have you guys
+seen any Paint Stars around here?"
+"O3_Repair_CraneKNP01_2","It seems the crane moves left and
+right by itself. All you have to do is
+press  when it's in the right place.","It seems the crane moves left and
+right by itself. All you have to do is
+press  when it's in the right place."
+"O3_Before_Manager_Painky01","Whaaat?! Really?
+Just like that?!  Like, you mean we don't have to
+go on a big voyage to some island,
+or fall in a hole and then escape 
+from jail?  All we had to do was talk to you?!
+This is my kinda mission!","Whaaat?! Really?
+Just like that?!  Like, you mean we don't have to
+go on a big voyage to some island,
+or fall in a hole and then escape 
+from jail?  All we had to do was talk to you?!
+This is my kinda mission!"
+"O3_Repair_CraneKNP01_3","I think you need to set the boiler
+before the cabin.   Try setting the boiler first, and then
+come back here!","I think you need to set the boiler
+before the cabin.   Try setting the boiler first, and then
+come back here!"
+"O3_Repair_CraneKNP01_4","I think you need to set the boiler
+before the cabin.  Try setting the boiler first, and then
+come back here!","I think you need to set the boiler
+before the cabin.  Try setting the boiler first, and then
+come back here!"
+"O3_Battle_KNP_10","My foot's asleep too!","My foot's asleep too!"
+"O3_RepairRequest_ManagerKNP01_2","We've already repaired or replaced
+all of the train's parts.  Now we just have to put the parts
+in the right places!  I know it won't be easy to do while
+you're fending off these lug nuts,
+but you're Mario, right?  Talk to me if you want to get a
+status update, OK? I'm always
+happy to help.","We've already repaired or replaced
+all of the train's parts.  Now we just have to put the parts
+in the right places!  I know it won't be easy to do while
+you're fending off these lug nuts,
+but you're Mario, right?  Talk to me if you want to get a
+status update, OK? I'm always
+happy to help."
+"O3_Repair_CraneKNP01_5","You've set the boiler? Great!  I'll just, uh...set the cabin with the
+crane. Any help you could offer
+would be really helpful!","You've set the boiler? Great!  I'll just, uh...set the cabin with the
+crane. Any help you could offer
+would be really helpful!"
+"O3_Battle_KNP_11","I'm bored!","I'm bored!"
+"O3_RepairProgress_ManagerKNP02","There are six parts that need to
+be set. Each part has a Toad in
+charge of it, so listen closely to
+what they've got to say!","There are six parts that need to
+be set. Each part has a Toad in
+charge of it, so listen closely to
+what they've got to say!"
+"O3_Battle_KNP_12","GAAH!","GAAH!"
+"O3_RepairProgress_ManagerKNP03","Still five parts that need to be set.
+Lot left to do, so hop to it!","Still five parts that need to be set.
+Lot left to do, so hop to it!"
+"O3_RepairProgress_ManagerKNP04","Still four parts that need to be set.
+Get a move on!","Still four parts that need to be set.
+Get a move on!"
+"O3_RepairProgress_ManagerKNP05","Still three more parts to be set!
+I'm not payin' you to stand around!
+In fact, I ain't payin' you at all!","Still three more parts to be set!
+I'm not payin' you to stand around!
+In fact, I ain't payin' you at all!"
+"O3_Repair_PassengerKNPBattle01","Oh, Mario!
+So glad you're here!","Oh, Mario!
+So glad you're here!"
+"O3_Departure_EngineerKNP01_2","We're sad to hear that this is your
+last job! You're still gonna do odd
+jobs here and there, right?","We're sad to hear that this is your
+last job! You're still gonna do odd
+jobs here and there, right?"
+"O3_RepairProgress_ManagerKNP06","Just two more parts that need to be
+set! If you got time to lean, you got
+time to...Ǵget those last two parts!","Just two more parts that need to be
+set! If you got time to lean, you got
+time to...Ǵget those last two parts!"
+"O3_Repair_PassengerKNPBattle02","Thanks for letting us blow off some
+steam...","Thanks for letting us blow off some
+steam..."
+"O3_Repair_PassengerKNP6_01","Surely they don't expect us
+passengers to push the train we're 
+supposed to be riding, do they?","Surely they don't expect us
+passengers to push the train we're 
+supposed to be riding, do they?"
+"O3_Departure_EngineerKNP01_3","Let's toss the foreman in the air
+in a heartfelt-but-super-dangerous
+show of gratitude!","Let's toss the foreman in the air
+in a heartfelt-but-super-dangerous
+show of gratitude!"
+"O3_Before_EngineerKNP1_01","The foreman used to be really
+passionate about his work. We used
+to be proud of what we did here!  But when there's no work to do,
+he's just a paper-thin fool.","The foreman used to be really
+passionate about his work. We used
+to be proud of what we did here!  But when there's no work to do,
+he's just a paper-thin fool."
+"O3_RepairProgress_ManagerKNP07","Only one more part that needs to be
+set! You're so, so...Ĭso, so, so...Ĭvery
+very, just soǴ...like, you can almost
+taste it close!̠ HURRY! GO!","Only one more part that needs to be
+set! You're so, so...Ĭso, so, so...Ĭvery
+very, just soǴ...like, you can almost
+taste it close!̠ HURRY! GO!"
+"O3_Repair_EngineerKNP6_01","These jerks are interfering with my
+work! I wish I could squish them all!","These jerks are interfering with my
+work! I wish I could squish them all!"
+"O3_Departure_EngineerKNP01_4","*PSST* Change of plans.
+Let's do the same thing to Mario
+and the paint can...","*PSST* Change of plans.
+Let's do the same thing to Mario
+and the paint can..."
+"O3_RepairProgress_ManagerKNP08","You're down to the last part that
+needs to be set! I got a feeling it's
+not quite shut!","You're down to the last part that
+needs to be set! I got a feeling it's
+not quite shut!"
+"O3_Repair_EngineerKNP3_04_01","I'm trying to move this boiler with all
+of my might, but I'm not getting
+anywhere! Mario, could you have a
+look inside for me?","I'm trying to move this boiler with all
+of my might, but I'm not getting
+anywhere! Mario, could you have a
+look inside for me?"
+"O3_Repair_EngineerKNP6_02","Ah! So glad those little freaks
+are gone so I can work again!","Ah! So glad those little freaks
+are gone so I can work again!"
+"O3_Departure_EngineerKNP01_5","Heave ho!","Heave ho!"
+"O3_FanKinopio01","I DID IT! I spotted a train!
+This is what we railfans train for!  I mean, the engine is in pretty bad
+shape, but it still helped me forget
+how sad my life is for a split second!","I DID IT! I spotted a train!
+This is what we railfans train for!  I mean, the engine is in pretty bad
+shape, but it still helped me forget
+how sad my life is for a split second!"
+"O3_RepairProgress_ManagerKNP09","I think we're almost ready to roll...
+But one of the engineers is still
+missing!","I think we're almost ready to roll...
+But one of the engineers is still
+missing!"
+"O3_Repair_EngineerKNP3_04_02","What do you see?
+Talk to me!","What do you see?
+Talk to me!"
+"O3_Repair_PassengerKNP1_01","In spite of that, I wonder when the
+repairs will be finished.","In spite of that, I wonder when the
+repairs will be finished."
+"O3_Repair_EngineerKNP1_01","This smokestack is too low. It can't
+put out smoke like this.","This smokestack is too low. It can't
+put out smoke like this."
+"O3_Repair_EngineerKNP5_01_1","I tried pulling it by hand to try to 
+link it up with the train over there,
+but it won't budge.   Maybe I should be pushing instead
+of pulling? I dunno...Ĭ Regardless, I
+don't think I can do this with just
+my bare hands.","I tried pulling it by hand to try to 
+link it up with the train over there,
+but it won't budge.   Maybe I should be pushing instead
+of pulling? I dunno...Ĭ Regardless, I
+don't think I can do this with just
+my bare hands."
+"O3_Repair_EngineerKNP5_01_2","Amazing! So that's how you use that
+thing! ĬThink you can push it all the
+way to the train?","Amazing! So that's how you use that
+thing! ĬThink you can push it all the
+way to the train?"
+"O3_Repair_EngineerKNP5_01_3","Looking good! Looks like you just
+need one...more...PUSH!","Looking good! Looks like you just
+need one...more...PUSH!"
+"O3_FinishPicture00","No jobs planned at this time.","No jobs planned at this time."
+"O3_Repair_EngineerKNP1_01_01","This smokestack is too low. It can't
+put out smoke like this.","This smokestack is too low. It can't
+put out smoke like this."
+"O3_Repair_EngineerKNP5_01_4","Please use the handcar like that to
+move the coal car up to the rest
+of the train!","Please use the handcar like that to
+move the coal car up to the rest
+of the train!"
+"O3_CoalWave_Painky01","These Shy Guys seem awfully...Ĭbold.  Hey! Get your grimy little stumps off
+that coal!","These Shy Guys seem awfully...Ĭbold.  Hey! Get your grimy little stumps off
+that coal!"
+"O3_Departure_Painky01","Thanks, foreman.  Mario, let's go to the restaurant.
+There must be a Mini Paint Star
+there!","Thanks, foreman.  Mario, let's go to the restaurant.
+There must be a Mini Paint Star
+there!"
+"O3_CoalWave_Painky02","You could use a shower, but 
+I'm glad you're not hurt.  At least those Shy Guys won't be
+bothering us anymore, eh?","You could use a shower, but 
+I'm glad you're not hurt.  At least those Shy Guys won't be
+bothering us anymore, eh?"
+"O3_Departure_PassengerKNP01","Yay!","Yay!"
+"O3_RepairProgress_ManagerKNP_TrainOut","What are you waitin' for, son?
+Go find that Mini Paint Star.","What are you waitin' for, son?
+Go find that Mini Paint Star."
+"O3_Departure_PassengerKNP02","Hooray!","Hooray!"
+"O3_CoalWave_Painky04","Are you all right, Mario?","Are you all right, Mario?"
+"O3_Repair_PassengerKNP11_01","This is the last job for the train AND
+the foreman, huh?Ĭ
+I wish I could quit MY job...","This is the last job for the train AND
+the foreman, huh?Ĭ
+I wish I could quit MY job..."
+"O3_Repair_PassengerKNP5_01","With how long we've waited...I have
+a feeling it's going to be chaos once
+we get to the restaurant.","With how long we've waited...I have
+a feeling it's going to be chaos once
+we get to the restaurant."
+"O3_Before_EngineerKNP3_01","Please have a look around.  Not that there's much to see these
+days. Not a whole lot of work
+going on...","Please have a look around.  Not that there's much to see these
+days. Not a whole lot of work
+going on..."
+"O3_Before_ManagerPainky01_2","Well, all right then...
+We'll take it!","Well, all right then...
+We'll take it!"
+"O3_Repair_EngineerKNP3_00","There were Scaredy Rats inside...?  *EUUUUGHHHH*  All right, I'm OK now. Thanks for
+dealing with those Scaredy Ra—  *EUUUUGHHHH*  Just thinking about those rats makes
+me sick. Can you help me move this
+boiler to the train?","There were Scaredy Rats inside...?  *EUUUUGHHHH*  All right, I'm OK now. Thanks for
+dealing with those Scaredy Ra—  *EUUUUGHHHH*  Just thinking about those rats makes
+me sick. Can you help me move this
+boiler to the train?"
+"O3_Repair_PassengerKNP3_01","I'm excited about what kind of food
+we'll see!","I'm excited about what kind of food
+we'll see!"
+"O3_RepairProgress_ManagerKNP_TrainOut_2","I'm happy that I retired, but I have
+no idea what I should do now.  Something passionate and exciting,
+maybe... Yeah, I like that...","I'm happy that I retired, but I have
+no idea what I should do now.  Something passionate and exciting,
+maybe... Yeah, I like that..."
+"O3_Waiting_DriverKNP01","Ya gotta be kiddin' me! This engine
+gets crushed on its farewell run?!
+What're the odds?!  This is especially concerning when
+ya consider the mess the
+ol' repair site is in right now.  This engine has terrible luck.
+I'll be surprised if it ever runs again.","Ya gotta be kiddin' me! This engine
+gets crushed on its farewell run?!
+What're the odds?!  This is especially concerning when
+ya consider the mess the
+ol' repair site is in right now.  This engine has terrible luck.
+I'll be surprised if it ever runs again."
+"O3_Before_ManagerKNP01_2","Paint Stars? I don't think so...  Not unless that weird star made of
+paint over there is a Paint Star...","Paint Stars? I don't think so...  Not unless that weird star made of
+paint over there is a Paint Star..."
+"O3_Before_ManagerKNP01_3","Here you go. Ĭ
+Go on—take it.
+I got no use for it.","Here you go. Ĭ
+Go on—take it.
+I got no use for it."
+"O3_Repair_EngineerKNP3_04","I'm trying to move this boiler with all
+of my might, but I'm not getting
+anywhere!  Take a look inside for me, will ya?","I'm trying to move this boiler with all
+of my might, but I'm not getting
+anywhere!  Take a look inside for me, will ya?"
+"O3_Departure_EngineerKNP01","Well done, foreman! No one knows
+trains like you do!","Well done, foreman! No one knows
+trains like you do!"
+"O3_Before_ManagerKNP01_4","Life is rough enough as it is. Nothing
+wrong with taking the easy victories
+when they come, y'know?  Course, there's always satisfaction
+in completing those big, tough jobs
+that always come around...  But lately, I've been thinking that
+sometimes it's OK for things to end
+on a whimper. ǴAs if I had a choice...","Life is rough enough as it is. Nothing
+wrong with taking the easy victories
+when they come, y'know?  Course, there's always satisfaction
+in completing those big, tough jobs
+that always come around...  But lately, I've been thinking that
+sometimes it's OK for things to end
+on a whimper. ǴAs if I had a choice..."
+"O3_Departure_EngineerKNP02","Aw, thanks, guys. But I can't take
+full credit for this particular success.  You all did the dirty work, and we
+couldn't have done it without Mario
+and Huey here.","Aw, thanks, guys. But I can't take
+full credit for this particular success.  You all did the dirty work, and we
+couldn't have done it without Mario
+and Huey here."
+"O3_Battle_KNP_01","Hurry up and repair the train!","Hurry up and repair the train!"
+"O3_Battle_KNP_Finish","Ah, I feel so much better now!","Ah, I feel so much better now!"
+"O3_Departure_EngineerKNP03","We love you, Mr. Foreman, sir!
+It's us who should be thanking you...","We love you, Mr. Foreman, sir!
+It's us who should be thanking you..."
+"O3_Battle_KNP_02","What's taking so long?!","What's taking so long?!"
+"O3_Battle_KNP_03","I'm starving!","I'm starving!"
+"O3_Battle_KNP_04","When are we leaving?!","When are we leaving?!"
+"O3_Battle_KNP_05","My wife left me!","My wife left me!"
+"O3_Battle_KNP_06","I'm tired!","I'm tired!"
+"O3_Repair_PassengerKNP10_01","After the foreman finishes these
+repairs, he's going to retire.Ĭ
+No wonder he's so motivated.","After the foreman finishes these
+repairs, he's going to retire.Ĭ
+No wonder he's so motivated."
+"O3_Battle_KNP_07","Luigi wouldn't do this to us!","Luigi wouldn't do this to us!"
+"O3_Before_ManagerKNP01","Welcome to Toad Trainworks.
+We work on engines and big train
+cars here...sometimes.  I've been the foreman here since you
+were knee high to a toadstool, but
+there ain't been much work lately.  Yeah, I'm thinking it may be time to
+hang it up. I'll probably retire after
+my next job.","Welcome to Toad Trainworks.
+We work on engines and big train
+cars here...sometimes.  I've been the foreman here since you
+were knee high to a toadstool, but
+there ain't been much work lately.  Yeah, I'm thinking it may be time to
+hang it up. I'll probably retire after
+my next job."
+"O3_Battle_KNP_08","You're too slow!","You're too slow!"
+"O3_Before_ManagerKNP02","Go ahead and take the Paint Star.  I know you kids love your laser-light
+dog-and-pony shows, but it doesn't
+all have to be so complicated.","Go ahead and take the Paint Star.  I know you kids love your laser-light
+dog-and-pony shows, but it doesn't
+all have to be so complicated."
+"O3_Battle_KNP_09","My butt is getting kinda numb!","My butt is getting kinda numb!"
+"O3_Before_ManagerKNP03","How's that Paint Star treating you?  Same old, same old 'round here...
+Just holding out until retirement.","How's that Paint Star treating you?  Same old, same old 'round here...
+Just holding out until retirement."
+"O3_Repair_PassengerKNP7_01","Let's just be thankful that we
+weren't flattened by the Thwomp.","Let's just be thankful that we
+weren't flattened by the Thwomp."
+"O3_Repair_EngineerKNP7_01","Cool lid, huh?","Cool lid, huh?"
+"O3_Repair_EngineerKNP3_05_01","Will you help me move this boiler to
+the train?","Will you help me move this boiler to
+the train?"
+"O3_Repair_EngineerKNP7_02","So there were a buncha bad guys
+stuck to the back side of that thing?
+How'd they even get in there?","So there were a buncha bad guys
+stuck to the back side of that thing?
+How'd they even get in there?"
+"O3_All_EngineerKNP01","Keep up the good work, Mario!","Keep up the good work, Mario!"

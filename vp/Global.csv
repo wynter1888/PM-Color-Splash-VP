@@ -1,0 +1,407 @@
+﻿"Label","String","Translation"
+"btlBtn_03","Battle Spin","Battle Spin"
+"Y_Cafe_Menu01","Mustard Latte  70 coins
+Mustard Juice  120 coins
+Chef's Star  0 coins
+Nothing","Mustard Latte  70 coins
+Mustard Juice  120 coins
+Chef's Star  0 coins
+Nothing"
+"btlBtn_04","x %d","x %d"
+"Notification_ItemW","You got  
+item 㰼㳿!","You got  
+item 㰼㳿!"
+"btlBtn_05","Card Ready","Card Ready"
+"YB_BattleStage_Elevator01","You want to run from the
+Battle Royal?   Ĭ
+yesno","You want to run from the
+Battle Royal?   Ĭ
+yesno"
+"bero_to_stagemap_ng","You can't go back to the world map
+right now!","You can't go back to the world map
+right now!"
+"Notification_Achieve_Janken_First","A Roshambo Temple has appeared!","A Roshambo Temple has appeared!"
+"Notification_Look_Menu","Look at the menu.","Look at the menu."
+"PanelShop_PanelFull","Ya can't carry any more cards!","Ya can't carry any more cards!"
+"btlBtn_06","Done Painting","Done Painting"
+"wait_saving","Saving. Don't turn the power off. ","Saving. Don't turn the power off. "
+"btlBtn_07","Enemies","Enemies"
+"btlCardName","Cards","Cards"
+"MainMenu_item","Items","Items"
+"Cafe_Juice01","Fresh color for the discerning
+palette! That'll be 120 coins. *  Ĭ Cafe_BuySelect01","Fresh color for the discerning
+palette! That'll be 120 coins. *  Ĭ Cafe_BuySelect01"
+"Notification_PainkyLost_Hint01","Huey's been electrocuted,
+so he can't talk right now...","Huey's been electrocuted,
+so he can't talk right now..."
+"btlBtn_05_01","Cards Ready","Cards Ready"
+"btlBtn_08","Flick to Play Cards!","Flick to Play Cards!"
+"btlSysMsg_ConditionYellow","Mario can't resist the rhythm!
+Get those blue cards outta here!","Mario can't resist the rhythm!
+Get those blue cards outta here!"
+"btlBtn_09","Place Cards Here","Place Cards Here"
+"MainMenu_00","Big Paint Stars","Big Paint Stars"
+"MainMenu_01","Coins","Coins"
+"btlSysMsg_NoMoveKusya","You're crumpled and can't move!","You're crumpled and can't move!"
+"MainMenu_02","Card Slots","Card Slots"
+"PanelShop_Welcome_01","Welcome to Prisma Cardware!
+Whatcha need today? :  Ĭ0PanelShop_Welcome_Select","Welcome to Prisma Cardware!
+Whatcha need today? :  Ĭ0PanelShop_Welcome_Select"
+"btlEnemyName"," K
+ %ls d"," K
+ %ls d"
+"MainMenu_03","Colorization","Colorization"
+"btlSysMsg_DeathSpring","Your ally got launched!","Your ally got launched!"
+"MainMenu_04","HP","HP"
+"bero_to_stagemap","Go to the world map?   Ĭ
+yesno","Go to the world map?   Ĭ
+yesno"
+"PanelShop_Welcome_03","Do ya need anything else? :  Ĭ0PanelShop_Welcome_Select","Do ya need anything else? :  Ĭ0PanelShop_Welcome_Select"
+"MainMenu_05"," %d/ K%d d"," %d/ K%d d"
+"noyes","No
+Yes","No
+Yes"
+"Notification_Hammer","You got a hammer!","You got a hammer!"
+"btlSysMsg_RecoverHP","HP restored!","HP restored!"
+"MainMenu_06"," %d"," %d"
+"MainMenu_to_drc","Enable Off-TV Play","Enable Off-TV Play"
+"btlSysMsg_MissBlind_SaltPepper","Blinded by Salt and Pepper!","Blinded by Salt and Pepper!"
+"btlAccident_00","???????","???????"
+"MainMenu_07"," %d"," %d"
+"Balloon_put_in","Put in","Put in"
+"btlAccident_01","You can't see the card face!
+It could be anything!","You can't see the card face!
+It could be anything!"
+"MainMenu_08"," %d%"," %d%"
+"Balloon_pull_out","Pull out","Pull out"
+"Notification_Get"," "," "
+"btlSysMsg_MissSmoke","It's too smoky to see anything!","It's too smoky to see anything!"
+"btlAccident_02","Time for my Koopa magicks!
+Eheeheehee!","Time for my Koopa magicks!
+Eheeheehee!"
+"MainMenu_09","Sort","Sort"
+"System_APD_01","The Wii U console has not been used
+for some time and will power down
+shortly. Press any button on a
+controller to continue using the
+console.","The Wii U console has not been used
+for some time and will power down
+shortly. Press any button on a
+controller to continue using the
+console."
+"hudStatus_Help","Open Menu","Open Menu"
+"btlSysMsg_PowerUp_00","It's a six-string power surge!","It's a six-string power surge!"
+"btlAccident_03","OOPS! I took all but six of your cards!
+You're never, ever getting your other
+cards back, everrrrrrrrrrrrr!
+Well...unless you win the battle.","OOPS! I took all but six of your cards!
+You're never, ever getting your other
+cards back, everrrrrrrrrrrrr!
+Well...unless you win the battle."
+"btlSysMsg_PowerUp_01","The performance was exhausting!","The performance was exhausting!"
+"btlAccident_04","Cards regained!","Cards regained!"
+"btlSysMsg_Charge","It's charging up!","It's charging up!"
+"btlAccident_05","It ran away...","It ran away..."
+"V2_ShipsLog_Tutorial","You can check the contents again
+on the Items screen in the menu.","You can check the contents again
+on the Items screen in the menu."
+"PanelShop_NoMoney","Mario, you're baroque!
+Come back once ya got some Monet!","Mario, you're baroque!
+Come back once ya got some Monet!"
+"btlAccident_06","Bonus","Bonus"
+"MainMenu_type_change","OK","OK"
+"Kiritori_IncorrectCard","Nothing happened.","Nothing happened."
+"Notification_Achieve_Full","
+item's colorless spots have been 100% restored!","
+item's colorless spots have been 100% restored!"
+"R_Cafe_Question01","Welcome to the Ruddy Road Café.
+What can I get you?    ĬCafe_Menu01","Welcome to the Ruddy Road Café.
+What can I get you?    ĬCafe_Menu01"
+"R_Cafe_Question02","Is that gonna be it for you?    ĬCafe_Menu01","Is that gonna be it for you?    ĬCafe_Menu01"
+"TN_YellowArea_CardGetInfo01","You got a bunch of cards!","You got a bunch of cards!"
+"UI_Quiz_01","Final Answer!","Final Answer!"
+"Kiritori_PaintLow","Not enough paint!","Not enough paint!"
+"Notification_Look_Slot","Look at the GamePad!","Look at the GamePad!"
+"UI_Quiz_02","Pass","Pass"
+"yesno","Yes
+No","Yes
+No"
+"MainMenu_type_0","Basic","Basic"
+"UI_Quiz_03","You really want to pass?   Ĭ
+yesno","You really want to pass?   Ĭ
+yesno"
+"Notification_Achieve_SoundSP1","Black Bowser's Castle gallery music unlocked!","Black Bowser's Castle gallery music unlocked!"
+"btlSlot_01","Not enough coins.","Not enough coins."
+"MainMenu_type_1","Basic
+＋
+Buttons","Basic
+＋
+Buttons"
+"UI_Quiz_04","Studio","Studio"
+"Notification_Achieve_SoundSP2","Special record added to the museum!","Special record added to the museum!"
+"Notification_PainkyLost_Ink","Huey is unconscious, so your
+paint hammer can't paint!","Huey is unconscious, so your
+paint hammer can't paint!"
+"PanelShop_Welcome","Welcome!
+Many thanks for helping me out.
+Prisma Cardware is back in business! :  Ĭ0PanelShop_Welcome_Select","Welcome!
+Many thanks for helping me out.
+Prisma Cardware is back in business! :  Ĭ0PanelShop_Welcome_Select"
+"btlSysMsg_NoMoveDance","Gettin' down!","Gettin' down!"
+"btlSlot_02","Your deck is full.","Your deck is full."
+"MainMenu_type_2","Advanced
+Touch Controls","Advanced
+Touch Controls"
+"Balloon_ride","Get on","Get on"
+"Balloon_close","Close","Close"
+"UI_Janken_01","ROSHAMBO!","ROSHAMBO!"
+"Balloon_fish","Fish","Fish"
+"UI_Janken_02","The Ring","The Ring"
+"R_Cafe_GoodBye01","Don't be a stranger!","Don't be a stranger!"
+"UI_Janken_04","Prize money","Prize money"
+"Balloon_access","Check","Check"
+"R_Cafe_Short01","You're a bit short on change there.","You're a bit short on change there."
+"TN_BlueArea_Slot_Sys01","You handed over all of your cards.","You handed over all of your cards."
+"PanelShop_NoPanel","Ya don't have any cards to sell!","Ya don't have any cards to sell!"
+"PanelShop_Thanks","Come back soon!","Come back soon!"
+"MainMenu_control","Combat Controls","Combat Controls"
+"Cafe_Short01","You're a little short on coins.","You're a little short on coins."
+"TN_BlueArea_Slot_Sys02","You got your cards back.","You got your cards back."
+"Notification_HpMax","Max HP up!","Max HP up!"
+"Balloon_pull","Pull","Pull"
+"O4_Battle_Meat_Finish","Stick a fork in it—it's done!","Stick a fork in it—it's done!"
+"Cafe_Call01","Sir, this area is for EMPLOYEES ONLY.
+Please place your order at the
+counter.","Sir, this area is for EMPLOYEES ONLY.
+Please place your order at the
+counter."
+"Notification_Look_Twist","Too many cards! Drop one!","Too many cards! Drop one!"
+"Notification_Achieve_Bkinopio_P","All the blue Rescue Toads have gathered at Kiwano Temple!","All the blue Rescue Toads have gathered at Kiwano Temple!"
+"Notification_Look_PaperyzeTV","Cutout in progress!","Cutout in progress!"
+"MainMenu_to_tv","Disable Off-TV Play","Disable Off-TV Play"
+"Cafe_Thanks01","Thanks for stopping by.
+Please come again.","Thanks for stopping by.
+Please come again."
+"Notification_Nothing_Ink","You don't have enough paint.","You don't have enough paint."
+"Notification_PainkyLost_Swoon","Huey's not breathing!","Huey's not breathing!"
+"PanelShop_Selling","Which cards ya want to sell? ","Which cards ya want to sell? "
+"btlSlot_Stop","Tap to Stop","Tap to Stop"
+"Y_Cafe_Star01","The star is free to all, yo.
+Go bask in its glory.","The star is free to all, yo.
+Go bask in its glory."
+"Notification_Full","Can't carry any more!","Can't carry any more!"
+"Notification_New","New!","New!"
+"Y_Cafe_Star02","Shine on, you...perfectly rational
+Paint Star...","Shine on, you...perfectly rational
+Paint Star..."
+"Notification_PainkyLost_Hint","Huey isn't around to give you advice!","Huey isn't around to give you advice!"
+"btlSysMsg_ConditionBlue","Mario's feeling blue...
+He only wants to use blue cards.","Mario's feeling blue...
+He only wants to use blue cards."
+"btlSysMsg_MissBlind_Bulb","The Lightbulb hurts their eyes!","The Lightbulb hurts their eyes!"
+"Cafe_GoodBye01","Please come again.","Please come again."
+"Notification_Achieve_Gkinopio_P","All the green Rescue Toads have gathered at the Indigo Underground!","All the green Rescue Toads have gathered at the Indigo Underground!"
+"PanelShop_UI_02_X","",""
+"Notification_CardMax","Max Cards Up!","Max Cards Up!"
+"gallery_ui_10","View Thing","View Thing"
+"Kiritori_SampleCard","Replica cards can only
+be used in battle. ","Replica cards can only
+be used in battle. "
+"gallery_ui_11","View Card","View Card"
+"btlSysMsg_EscapeBoss","It ran away!","It ran away!"
+"MainMenu_to_Manual","Manual","Manual"
+"gallery_ui_12","Stop","Stop"
+"btlSysMsg_ConditionRed","Mario's red with anger!","Mario's red with anger!"
+"btlSlot_Front","Faces","Faces"
+"Balloon_open","Open","Open"
+"Notification_Achieve_Janken","A new Roshambo Temple has appeared!","A new Roshambo Temple has appeared!"
+"gallery_ui_08_key","",""
+"btlBtn_09_01","Place Card Here","Place Card Here"
+"btlSysMsg_AttackFar","The attack didn't reach its target!","The attack didn't reach its target!"
+"Balloon_talk","Talk","Talk"
+"TwistShop_UI_00","Buy","Buy"
+"btlSysMsg_NoMoveDanceLemmy","Lemmy's dancing!","Lemmy's dancing!"
+"TwistShop_UI_01","Cancel","Cancel"
+"Y_Cafe_Call01","If you can't stand the heat,
+STAY OUT OF MY KITCHEN!","If you can't stand the heat,
+STAY OUT OF MY KITCHEN!"
+"TwistShop_UI_02","Coming Soon","Coming Soon"
+"btlBtn_10","Touch to Paint","Touch to Paint"
+"gallery_ui_10_key","",""
+"btlBtn_11","Quit","Quit"
+"MainMenu_help_A","Jump","Jump"
+"Balloon_pull_strong","Pull
+Hard","Pull
+Hard"
+"TwistShop_UI_04","Sold Out","Sold Out"
+"btlBtn_12","Done","Done"
+"MainMenu_help_B","Hammer","Hammer"
+"Notification_Item","You got  ｛૿
+item 㰼㳿!","You got  ｛૿
+item 㰼㳿!"
+"TwistShop_UI_05","Back","Back"
+"btlBtn_13","Back","Back"
+"btlSysMsg_ConditionViolet","Mario's been poisoned!
+It even hurts to move...","Mario's been poisoned!
+It even hurts to move..."
+"Balloon_tear_off","Peel","Peel"
+"btlSysMsg_NoHit","The attack missed!","The attack missed!"
+"Notification_Achieve_Pkinopio_P","All the purple Rescue Toads have gathered at Ruddy Road!","All the purple Rescue Toads have gathered at Ruddy Road!"
+"Notification_All_Flag_On","All of the paint-restoration flags have been raised!","All of the paint-restoration flags have been raised!"
+"Notification_Look_Paperyze","Look at the GamePad!","Look at the GamePad!"
+"btlCookTurnLast","Last Turn","Last Turn"
+"R_Cafe_Call01","We're not hiring at the moment.
+Please place your order at the
+counter.","We're not hiring at the moment.
+Please place your order at the
+counter."
+"MainMenu_10","Are you sure you want to trash
+
+item?   Ĭ
+yesno","Are you sure you want to trash
+
+item?   Ĭ
+yesno"
+"R_Cafe_Call02","What are you doing back here?","What are you doing back here?"
+"Notification_Look_Gallery","Let's watch TV!","Let's watch TV!"
+"Balloon_read","Read","Read"
+"Y_Cafe_Juice01","Mustard juice is the new health
+craze everyone's talking about!
+Restore your paint for just 120 coins! *  Ĭ Cafe_BuySelect01","Mustard juice is the new health
+craze everyone's talking about!
+Restore your paint for just 120 coins! *  Ĭ Cafe_BuySelect01"
+"O4_Battle_Meat_Finish_Koge","Burned to a crisp...","Burned to a crisp..."
+"btlCardNum"," %d/%d"," %d/%d"
+"PanelShop_Welcome_Select","Buy
+Sell
+Nothing","Buy
+Sell
+Nothing"
+"TN_Cafe_Question01","Welcome to the Prisma Café.
+Would you like to order something?    ĬCafe_Menu01","Welcome to the Prisma Café.
+Would you like to order something?    ĬCafe_Menu01"
+"Y_Cafe_Thanks01","Enjoy. And come back anytime, OK?","Enjoy. And come back anytime, OK?"
+"MainMenu_help_10","Huey Hint","Huey Hint"
+"btlSysMsg_KoopaRecover","The black paint returned to Bowser!","The black paint returned to Bowser!"
+"MainMenu_status","Status","Status"
+"Y_Cafe_GoodBye01","Come on back!","Come on back!"
+"Notification_Achieve_Letter","A letter has arrived in Port Prisma.","A letter has arrived in Port Prisma."
+"Notification_Levelup","Max paint up!","Max paint up!"
+"title_copyright","© 2016 Nintendo
+Program © 2016 Nintendo / INTELLIGENT SYSTEMS","© 2016 Nintendo
+Program © 2016 Nintendo / INTELLIGENT SYSTEMS"
+"Cafe_Cafe01","Completely relieves your aches
+and pains! One Hearty Latte comes
+to 70 coins. *  Ĭ Cafe_BuySelect01","Completely relieves your aches
+and pains! One Hearty Latte comes
+to 70 coins. *  Ĭ Cafe_BuySelect01"
+"Notification_Achieve_Ykinopio_P","All the yellow Rescue Toads have gathered in the Sacred Forest!","All the yellow Rescue Toads have gathered in the Sacred Forest!"
+"btPainkyLost_Ink","Huey is unconscious!
+Paint power offline!","Huey is unconscious!
+Paint power offline!"
+"btlSysMsg_DontHaveCard","You don't have any cards to use!","You don't have any cards to use!"
+"Balloon_in","Enter","Enter"
+"Notification_Paperyze","Learned Cutout!","Learned Cutout!"
+"btlSlot_Slow","Slow","Slow"
+"MainMenu_help_Select","Go to World Map","Go to World Map"
+"MainMenu_help_X","Paint Hammer","Paint Hammer"
+"MainMenu_help_Y","Cutout","Cutout"
+"bero_to_stagemap_B3","Time within the hotel will be reset...
+Do you still want to exit?   Ĭ
+yesno","Time within the hotel will be reset...
+Do you still want to exit?   Ĭ
+yesno"
+"Balloon_start","Start","Start"
+"Cafe_BuySelect01","Buy
+Cancel","Buy
+Cancel"
+"bero_to_stagemap_B4","Go to the world map?
+(The correct answers will change.)   Ĭ
+yesno","Go to the world map?
+(The correct answers will change.)   Ĭ
+yesno"
+"btlFirstTouch","Tap to Select Cards","Tap to Select Cards"
+"Notification_PainkyLost_Ink01","Huey's been electrocuted, so your
+paint hammer can't paint!","Huey's been electrocuted, so your
+paint hammer can't paint!"
+"MainMenu_screen","Switch Screens","Switch Screens"
+"Cafe_Menu01","Hearty Latte   70 coins
+Prisma Juice   120 coins
+Never mind","Hearty Latte   70 coins
+Prisma Juice   120 coins
+Never mind"
+"R_Cafe_Thanks01","Thanks a bunch!
+Don't be a stranger!","Thanks a bunch!
+Don't be a stranger!"
+"Y_Cafe_Question01","Welcome to Mustard Café, home of
+the chef, AKA yours truly.  Now that you're here, you gonna
+order something or what? $  ĬY_Cafe_Menu01","Welcome to Mustard Café, home of
+the chef, AKA yours truly.  Now that you're here, you gonna
+order something or what? $  ĬY_Cafe_Menu01"
+"btlCookTurn"," %d Turns Left"," %d Turns Left"
+"Cafe_Question01","Welcome to the Prisma Café at
+
+ %ls.
+Would you like to order something?    ĬCafe_Menu01","Welcome to the Prisma Café at
+
+ %ls.
+Would you like to order something?    ĬCafe_Menu01"
+"Y_Cafe_Question02","Do you wanna order anything else? $  ĬY_Cafe_Menu01","Do you wanna order anything else? $  ĬY_Cafe_Menu01"
+"gallery_ui_09_key","",""
+"Cafe_Question02","Do you want anything else?    ĬCafe_Menu01","Do you want anything else?    ĬCafe_Menu01"
+"btlSysMsg_NoMoveRing","The ring is holding you in place!","The ring is holding you in place!"
+"MainMenu_panel","Cards","Cards"
+"Balloon_hold","Grab","Grab"
+"Notification_LuckySlot","Learned Battle Spin!","Learned Battle Spin!"
+"btlNoCard","You don't have any cards!","You don't have any cards!"
+"btlSysMsg_Avoid","The target dodged the attack!","The target dodged the attack!"
+"btlSysMsg_MissBlind_Lemon","Blinded by Lemon juice!","Blinded by Lemon juice!"
+"Balloon_compare","Compare","Compare"
+"PanelShop_UI_00","Cancel","Cancel"
+"gallery_ui_00","Cancel","Cancel"
+"Y_Cafe_Cafe01","Patches up your paper cuts, yo!
+Puts the must in mustard!
+Just 70 coins! *  Ĭ Cafe_BuySelect01","Patches up your paper cuts, yo!
+Puts the must in mustard!
+Just 70 coins! *  Ĭ Cafe_BuySelect01"
+"PanelShop_UI_01","Your Cards","Your Cards"
+"gallery_ui_01","Back","Back"
+"Notification_PainkyLost_Paperyze","You need Huey with you in
+order to use the Cutout ability!","You need Huey with you in
+order to use the Cutout ability!"
+"PanelShop_UI_02","Details","Details"
+"gallery_ui_02","Back","Back"
+"btlSysMsg_ConditionGreen","Mario can't find the motivation!","Mario can't find the motivation!"
+"PanelShop_UI_03","Buy","Buy"
+"gallery_ui_03","Details","Details"
+"Balloon_hear","Listen","Listen"
+"O4_Battle_Meat_Finish_01","Way too tender! It's like meat soup!","Way too tender! It's like meat soup!"
+"PanelShop_UI_04","Sell","Sell"
+"gallery_ui_04","Back","Back"
+"Balloon_squeeze","Squeeze","Squeeze"
+"Notification_PainkyLost_Paperyze01","Huey's been electrocuted,
+so you can't use Cutout...","Huey's been electrocuted,
+so you can't use Cutout..."
+"PanelShop_UI_05","Select cards to sell.","Select cards to sell."
+"gallery_ui_05","Test","Test"
+"MainMenu_to_Config","Settings","Settings"
+"PanelShop_UI_06","Back","Back"
+"gallery_ui_06","View Thing","View Thing"
+"Balloon_paste","Paste","Paste"
+"PanelShop_UI_07"," %d"," %d"
+"gallery_ui_07","View Card","View Card"
+"btlBtn_00","Flee","Flee"
+"btlSysMsg_ConditionOrange","Mario's feeling self-conscious...
+He can only use pre-painted cards.","Mario's feeling self-conscious...
+He can only use pre-painted cards."
+"Y_Cafe_Short01","Whaaat. You're short on coins, bro.","Whaaat. You're short on coins, bro."
+"Notification_Achieve_Rkinopio_P","All the red Rescue Toads have gathered at the Emerald Circus!","All the red Rescue Toads have gathered at the Emerald Circus!"
+"PanelShop_UI_08","Owned","Owned"
+"gallery_ui_08","Back","Back"
+"btlBtn_01","Clear","Clear"
+"btlSysMsg_MissBlind_Paint","You're blinded by the paint!","You're blinded by the paint!"
+"btlSlot_Eff_Pow","You got a card!","You got a card!"
+"PanelShop_UI_09"," %d"," %d"
+"gallery_ui_09","Test","Test"
+"btlBtn_02","Back","Back"
+"Balloon_drop","Get off","Get off"
